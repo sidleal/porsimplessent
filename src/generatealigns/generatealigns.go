@@ -73,6 +73,7 @@ func main() {
 	generateFilesOriStr("pss2_align_length")
 	generateFilesOriStr("pss1_align_all_splits")
 	generateFilesOriStr("pss3_align_no_splits")
+	generateTriplets()
 
 }
 
@@ -652,5 +653,93 @@ func generateNoSplitsFiles(level string, fileName string, sentences []Sentence, 
 	log.Println("------------------------------------")
 	log.Println("Total PARES: ", oriTotalSentencas)
 	log.Println("------------------------------------")
+
+}
+
+func generateTriplets() {
+
+	f4, err := os.OpenFile("../../pss/triplets_length.tsv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		log.Println("ERRO", err)
+	}
+	defer f4.Close()
+
+	sizeSentOri := readFile("../../pss/pss2_align_length_ori_nat.tsv")
+	lines := strings.Split(sizeSentOri, "\n")
+
+	oriNatPairs := []Pair{}
+	for _, line := range lines {
+		if line == "" {
+			continue
+		}
+		tokens := strings.Split(line, "\t")
+		pair := Pair{}
+		pair.Production = tokens[0]
+		pair.TextA = tokens[4]
+		pair.TextB = tokens[5]
+		oriNatPairs = append(oriNatPairs, pair)
+
+	}
+
+	sizeSentNat := readFile("../../pss/pss2_align_length_nat_str.tsv")
+	lines = strings.Split(sizeSentNat, "\n")
+
+	natStrPairs := []Pair{}
+	for _, line := range lines {
+		if line == "" {
+			continue
+		}
+		tokens := strings.Split(line, "\t")
+		pair := Pair{}
+		pair.Production = tokens[0]
+		pair.TextA = tokens[4]
+		pair.TextB = tokens[5]
+		natStrPairs = append(natStrPairs, pair)
+
+	}
+
+	_, err = f4.WriteString("production_id\tlevel\tchanged_ori_nat\tchanged_nat_str\toriginal_text\tnatural_text\tstrong_text\n")
+	if err != nil {
+		log.Println("ERRO", err)
+	}
+
+	for _, itemNat := range natStrPairs {
+		for _, itemOri := range oriNatPairs {
+			if itemNat.TextA == itemOri.TextB && itemNat.Production == itemOri.Production {
+
+				oriNatChanged := itemOri.TextA != itemOri.TextB
+				natStrChanged := itemNat.TextA != itemNat.TextB
+
+				log.Println("----------------")
+				log.Println(itemOri.TextA)
+				log.Println(itemOri.TextB)
+				log.Println(itemNat.TextB)
+
+				line := itemOri.Production + "\t" + "ORI->NAT->STR\t"
+
+				if oriNatChanged {
+					line += "S\t"
+				} else {
+					line += "N\t"
+				}
+
+				if natStrChanged {
+					line += "S\t"
+				} else {
+					line += "N\t"
+				}
+
+				line += itemOri.TextA + "\t"
+				line += itemOri.TextB + "\t"
+				line += itemNat.TextB + "\n"
+
+				_, err := f4.WriteString(line)
+				if err != nil {
+					log.Println("ERRO", err)
+				}
+
+			}
+		}
+	}
 
 }
