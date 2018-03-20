@@ -64,13 +64,13 @@ func treatProduction(db *sql.DB, prodId int64) {
 
 	log.Println(mapSimp)
 
-	f1, err := os.OpenFile("../porsimples/porsimples_sentences.tsv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	f1, err := os.OpenFile("../../porsimples/porsimples_sentences.tsv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Println("ERRO", err)
 	}
 	defer f1.Close()
 
-	f2, err := os.OpenFile("../porsimples/porsimples_aligns.tsv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	f2, err := os.OpenFile("../../porsimples/porsimples_aligns.tsv", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Println("ERRO", err)
 	}
