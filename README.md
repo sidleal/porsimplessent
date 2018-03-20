@@ -13,7 +13,7 @@ This corpus was created during my master's degree at ICMC-USP, and made possible
 ## TSV format
 All files are in Tab Separated Values (TSV) format, it means that fields are separated by tab (Also knows as ```char(9)``` or ```\t```), and newline (```char(10)``` or ```\n```) for the rows.
 
-## porsimples
+## PorSimples
 
 In this folder you'll find the source corpus used to extract the sentence pairs, already exportaded in TSV format:
 
@@ -33,7 +33,7 @@ In this folder you'll find the source corpus used to extract the sentence pairs,
 * __text_id_to__: Text id for target side of simplification.
 * __sentence_id_to__: Sentence id for target side of simplification.
 
-## pss
+## PorSimplesSent (pss)
 
 In this folder are the files with aligned pairs from pss0 to pss3, it all have the same layout:
 * __production_id__: See porsimples_sentences.tsv.
@@ -44,6 +44,7 @@ In this folder are the files with aligned pairs from pss0 to pss3, it all have t
 * __sentence_text_to__: The raw text of the target sentence.
 
 ### pss0 - Split sentences concatenated
+Concatenate all resulting split sentences on the right side, may be usefull to study the simplification process.
 * pss0_align_concat_ori_nat.tsv
 * pss0_align_concat_nat_str.tsv
 
