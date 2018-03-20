@@ -66,3 +66,12 @@ Only the sentences that not suffered split.
 * pss3_align_no_splits_nat_str.tsv
 * pss3_align_no_splits_ori_str.tsv
 
+## PorSimplesSent - Triplets
+In the file triplets_length.tsv, are sentences from the 3 levels, generated from the pss2_length pairs, in the following layout:
+* __production_id__: See porsimples_sentences.tsv.
+* __level__: Fixed - ORI->NAT->STR.
+* __changed_ori_nat__: If the sentence has changes from the original to the natural level.
+* __changed_nat_str__: If the sentence has changes from the natural to the strong level.
+* __original_text__: The raw text of the original sentence.
+* __natural_text__: The raw text of the natural sentence.
+* __strong_text__: The raw text of the strong sentence.
