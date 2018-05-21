@@ -10,6 +10,19 @@ This corpus was created during my master's degree at ICMC-USP, and made possible
 ## License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+## Citation
+````
+@inproceedings{leal2018pss,
+    author = {Sidney Evaldo Leal and Magali Sanches Duran and Sandra Maria Aluísio},
+    title = {A Nontrivial Sentence Corpus for the Task of Sentence Readability Assessment in Portuguese},
+    booktitle = {Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)},
+    year = {2018},
+    month = {August},
+    date = {20-26},
+    address = {Santa Fe, New Mexico, USA},
+}
+````
+
 ## TSV format
 All files are in Tab Separated Values (TSV) format, it means that fields are separated by tab (Also knows as ```char(9)``` or ```\t```), and newline (```char(10)``` or ```\n```) for the rows.
 
