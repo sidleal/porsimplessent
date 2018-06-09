@@ -388,7 +388,7 @@
 5	NAT	146	2594	1	Isso causou o cenário mais variável dos últimos anos. 
 5	NAT	146	2595	2	Diferentemente de outras eleições, as legendas este ano são obrigadas a driblar novas regras eleitorais, enfraquecimento da imagem da classe política e projetos nacionais envolvendo líderes gaúchos. 
 5	NAT	146	2596	3	Nesta época em 2002, os candidatos já estavam em campo. 
-5	NAT	146	2597	3	Celso Berardi disparava críticas contra o secretário da Justiça e da Segurança daquela época. 
+5	NAT	146	2597	3	Celso Bernardi disparava críticas contra o secretário da Justiça e da Segurança daquela época. 
 5	NAT	146	2598	3	Celso Bernardi é do PP.
 5	NAT	146	2599	3	O Pp antigamente se chamava PPB. 
 5	NAT	146	2600	3	O secretário da Justiça e da Segurança era José Paulo Bisol. 
@@ -590,7 +590,7 @@
 7	NAT	52	938	4	Isso faz soprar mais vento quente do Norte. 
 7	NAT	52	939	4	Isso aumenta ainda mais a temperatura. 
 7	NAT	52	940	4	Isso foi o que disse Flávio Varone. 
-7	NAT	52	941	4	Flávio Varone é do 8o Distrito de Meteorologia. 
+7	NAT	52	941	4	Flávio Varone é do 8º Distrito de Meteorologia. 
 7	NAT	52	942	5	O meteorologista do Cptec Lincoln Alves afirma que ventos na alta atmosfera estão soprando com menor intensidade do Pacífico Sul rumo ao Brasil. 
 7	NAT	52	943	5	Isso estaria contribuindo para as frentes frias passarem rapidamente. 
 7	NAT	52	944	6	Lincoln Alves explica: 
@@ -624,7 +624,7 @@
 7	STR	1071	21764	5	O Cptec é ligado ao Instituto Nacional de Pesquisas Espaciais (Inpe). 
 7	STR	1071	21765	5	Esse padrão se manteve no início de janeiro. 
 7	STR	1071	21766	5	Esse padrão tornou muito quentes os primeiros dias do ano. 
-7	STR	1071	21767	5	no dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho. 
+7	STR	1071	21767	5	No dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho. 
 7	STR	1071	21768	5	A falta de chuvas intensas e freqüentes é uma das razões apontadas para o Sul arder com as altas temperaturas. 
 7	STR	1071	21769	5	As frentes frias passam pelo Estado. 
 7	STR	1071	21770	5	As frentes frias provocam chuvas rápidas. 
@@ -1172,7 +1172,7 @@
 17	STR	1078	22042	3	O velório está previsto para sábado. 
 17	STR	1078	22043	5	Pavarotti deverá ficar na memória de muita gente como uma figura de barba e corpo forte. 
 17	STR	1078	22044	5	Uma figura acostumada a soltar sua voz muito grave e forte diante de platéias numerosas em teatros ou estádios de futebol. 
-17	STR	1078	22045	5	Nessas ocasiões, cantava temas como O Sole Mio ou Dessun Norma. 
+17	STR	1078	22045	5	Nessas ocasiões, cantava temas como O Sole Mio ou Nessun Norma. 
 17	STR	1078	22046	5	Pavarotti também deverá ficar na memória de muita gente como a terça parte do grupo mais popular do circuito erudito. 
 17	STR	1078	22047	5	Esse grupo se chamava os Três Tenores. 
 17	STR	1078	22048	5	Os Três Tenores fizeram sucesso mundial em discos e turnês. 
@@ -3050,7 +3050,7 @@
 43	ORI	388	7760	7	-- Por maiores que sejam as divergências entre os parlamentares, os deputados devem ter a liberdade de votar de acordo com a sua consciência. 
 43	ORI	388	7761	7	Só espero que essa decisão de restrição parcial ao plenário seja provisória -- defendeu o líder da bancada do PC do B, Raul Carrion. 
 43	ORI	388	7762	8	O protesto dos sindicalistas provocou reações duras da base governista. 
-43	ORI	388	7763	8	Em pronunciamento da tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior (PSDB) defendeu a punição aos invasores do plenário da Casa. 
+43	ORI	388	7763	8	Em pronunciamento da tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior (PSDB) defendeu a punição dos invasores do plenário da Casa. 
 43	ORI	388	7764	9	-- Aquilo que aconteceu aqui não foi manifestação, foi crime e para isso tem de haver punição -- afirmou. 
 43	ORI	388	7765	10	O líder partidário do Democratas, José Sperotto, também criticou a participação de professores no protesto. 
 43	ORI	388	7766	10	De acordo com o deputado, houve um grande desrespeito por parte dos educadores. 
@@ -3083,13 +3083,13 @@
 43	NAT	398	8002	7	Só espero que essa decisão de limitação parcial ao plenário seja provisória -- defendeu Raul Carrion. 
 43	NAT	398	8003	7	Raul Carrion é o líder da bancada do PC do B. 
 43	NAT	398	8004	8	O protesto dos sindicalistas provocou reações duras na base do governo. 
-43	NAT	398	8005	8	Em declaração na tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior defendeu a punição aos invasores do plenário da Assembléia. 
+43	NAT	398	8005	8	Em declaração na tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior defendeu a punição dos invasores do plenário da Assembléia. 
 43	NAT	398	8006	8	Nelson Marchezan júnior é do PSDB. 
 43	NAT	398	8007	9	-- O acontecimento não foi manifestação. 
 43	NAT	398	8008	9	O acontecimento foi crime. 
 43	NAT	398	8009	9	Tem de haver punição para o crime -- afirmou. 
-43	NAT	398	8010	10	José sperotto também criticou a participação de professores no protesto. 
-43	NAT	398	8011	10	José sperotto é o líder do Democratas. 
+43	NAT	398	8010	10	José Sperotto também criticou a participação de professores no protesto. 
+43	NAT	398	8011	10	José Sperotto é o líder do Democratas. 
 43	NAT	398	8012	10	O deputado disse que houve uma ausência de respeito por parte dos educadores. 
 43	NAT	398	8013	11	-- Colocamos nossos filhos nas mãos deles. 
 43	NAT	398	8014	11	Eles são os representantes da classe dos educadores. 
@@ -3132,8 +3132,8 @@
 43	STR	1104	22675	17	-- O acontecimento não foi manifestação. 
 43	STR	1104	22676	17	O acontecimento foi crime. 
 43	STR	1104	22677	17	Tem de haver punição para o crime -- afirmou. 
-43	STR	1104	22678	19	José sperotto também criticou a participação de professores no protesto. 
-43	STR	1104	22679	19	José sperotto é o líder do Democratas. 
+43	STR	1104	22678	19	José Sperotto também criticou a participação de professores no protesto. 
+43	STR	1104	22679	19	José Sperotto é o líder do Democratas. 
 43	STR	1104	22680	19	O deputado disse que houve uma ausência de respeito por parte dos educadores. 
 43	STR	1104	22681	21	-- Colocamos nossos filhos nas mãos deles. 
 43	STR	1104	22682	21	Eles são os representantes da classe dos educadores. 
@@ -4037,7 +4037,7 @@
 54	NAT	555	11055	5	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou "Eis o meu segredo". 
 54	NAT	555	11056	5	Ele é muito simples: 
 54	NAT	555	11057	5	Somente vemos bem com o coração. 
-54	NAT	555	11058	5	"  O essencial é invisível aos olhos". 
+54	NAT	555	11058	5	"O essencial é invisível aos olhos". 
 54	NAT	555	11059	5	É essa idéia que Luana quer passar para seu público. 
 54	NAT	555	11060	6	-- Eu poderia fazer TV. 
 54	NAT	555	11061	6	Eu poderia fazer espetáculos adultos. 
@@ -4562,7 +4562,7 @@
 60	NAT	623	12733	2	A nova empresa também oferecerá diferentes serviços pela Internet. 
 60	NAT	623	12734	2	Os serviços são revelação digital de fotos, venda de viagens, venda de ingressos e download de áudio. 
 60	NAT	623	12735	3	A B2W nasce com faturamento bruto de R$ 1,6 bilhão até setembro. 
-60	NAT	623	12736	3	R$563 milhões vêm do Submarino e R$ 1 bilhão da Americanas. 
+60	NAT	623	12736	3	R$ 563 milhões vêm do Submarino e R$ 1 bilhão da Americanas. 
 60	NAT	623	12737	3	"A B2W será capaz de competir com as principais empresas de varejo brasileiras, em um mercado calculado em R$ 200 bilhões" -- assinala o comunicado que as duas companhias divulgaram ontem. 
 60	NAT	623	12738	4	A expectativa é concluir a fusão até 31 de dezembro. 
 60	NAT	623	12739	4	Há necessidade do aval de agências reguladoras e órgãos de defesa da concorrência. 
@@ -5890,7 +5890,7 @@
 78	ORI	800	16036	7	Até agora, o dia mais frio do ano continua sendo os 4,5 ºC apontados em São José dos Ausentes em 29 de maio. 
 78	ORI	800	16037	7	É improvável que a atual massa polar supere esta marca. 
 78	ORI	800	16038	7	Ela perde a força a partir de hoje, quando chove em algumas regiões, e retoma a carga no domingo com menor intensidade. 
-78	ORI	800	16039	8	-- Teremos frio, mas a temperatura não deve ser tão baixa -- prevê Flavio Varone, do 8° Distrito de Meteorologia. 
+78	ORI	800	16039	8	-- Teremos frio, mas a temperatura não deve ser tão baixa -- prevê Flavio Varone, do 8º Distrito de Meteorologia. 
 78	NAT	802	16048	1	A massa que vem do pólo Sul e que atinge os gaúchos desde terça-feira quebrou os primeiros recordes no amanhecer de ontem. 
 78	NAT	802	16049	2	No bairro Jardim Botânico, zona leste da Capital, às 7h, os termômetros marcaram 0,3 ºC -- a mais baixa temperatura na cidade desde 2000. 
 78	NAT	802	16050	2	Em Bagé, na Campanha, fez frio como há meio século não ocorria no mês de julho: 
@@ -6517,9 +6517,9 @@
 88	STR	1131	23581	3	A tradição das caixas de madeira que abrigam imagens de santos e percorrem as residências gaúchas ganha força nos dias que vêm antes da primeira visita de Bento XVI ao Brasil. 
 88	STR	1131	23582	5	Os imigrantes europeus trouxeram o costume. 
 88	STR	1131	23583	5	O costume permanece sólido no interior do Estado. 
-88	STR	1131	23584	5	Leonides sperotto de quadros é agricultora. 
-88	STR	1131	23585	5	Leonides sperotto de quadros tem 57 anos. 
-88	STR	1131	23586	5	Leonides sperotto de quadros diz que o hábito de levar as santas de casa em casa é um estímulo para as orações em família. 
+88	STR	1131	23584	5	Leonides Sperotto de quadros é agricultora. 
+88	STR	1131	23585	5	Leonides Sperotto de quadros tem 57 anos. 
+88	STR	1131	23586	5	Leonides Sperotto de quadros diz que o hábito de levar as santas de casa em casa é um estímulo para as orações em família. 
 88	STR	1131	23587	5	Além disso, o hábito de levar as santas de casa em casa faz os vizinhos se visitarem. 
 88	STR	1131	23588	7	Ela mora em Lagoa Bonita, no interior de Pontão, no norte gaúcho, há mais de 40 anos. 
 88	STR	1131	23589	7	Ela faz questão de sempre levar pessoalmente a imagem até os vizinhos. 
@@ -7201,7 +7201,7 @@
 97	NAT	955	18842	6	Era uma fonte de renda que a escola tinha e foi cortada -- diz Cláudia Machado, responsável pela Escola Municipal Alceu Wamosy. 
 97	NAT	955	18843	7	O secretário de Educação diz que o principal objetivo é contribuir para a saúde do aluno e sua educação alimentar. 
 97	NAT	955	18844	7	O secretário de Educação é Delmar Kaufmann. 
-97	NAT	955	18845	7	Ele justifica que a resolução foi criada também para evitar que crianças sem condições de adquirir a merenda no ar fiquem com vergonha. 
+97	NAT	955	18845	7	Ele justifica que a resolução foi criada também para evitar que crianças sem condições de adquirir a merenda no bar fiquem com vergonha. 
 97	NAT	955	18846	7	Além disso, a resolução serve para que funcionários públicos não sejam afastados de sua função para preparar pratos a serem vendidos no bar. 
 97	NAT	955	18847	8	-- Os pais reclamavam muito. 
 97	NAT	955	18848	8	Temos uma merenda com muitas frutas e verduras. 
@@ -7854,7 +7854,7 @@
 105	ORI	984	19372	8	As pessoas que arrancaram o chapéu queriam levar o busto inteiro -- diz Guillen. 
 105	ORI	984	19373	9	A marca registrada teria sido obra do acaso. 
 105	ORI	984	19374	9	Em 1903, o dirigível nº 9 apresentou problemas durante um passeio sobre o Rio Sena, em Paris. 
-105	ORI	984	19375	9	Santos-dumont usou o chapéu para abafar uma chama no motor. 
+105	ORI	984	19375	9	Santos-Dumont usou o chapéu para abafar uma chama no motor. 
 105	ORI	984	19376	9	Quando voltou, foi fotografado com o acessório deformado. 
 105	ORI	984	19377	9	O sucesso foi imediato. 
 105	NAT	1001	19933	1	Peça símbolo do aviador foi roubada há cerca de um ano. 
@@ -7908,7 +7908,7 @@
 105	STR	1002	19981	8	As pessoas que arrancaram o chapéu queriam levar o monumento inteiro -- diz Guillen. 
 105	STR	1002	19982	9	A marca registrada teria sido obra do acaso. 
 105	STR	1002	19983	9	Em 1903, o dirigível nº 9 apresentou problemas durante um passeio sobre o Rio Sena, em Paris. 
-105	STR	1002	19984	9	Santos-dumont usou o chapéu para abafar uma chama no motor. 
+105	STR	1002	19984	9	Santos-Dumont usou o chapéu para abafar uma chama no motor. 
 105	STR	1002	19985	9	No momento em que voltou, tiraram uma fotografia dele com a peça amassada. 
 105	STR	1002	19986	9	O sucesso foi imediato. 
 106	ORI	985	19378	1	Em busca do que chama de "novo socialismo", o advogado Ricardo Jahn trocará esta semana o sossego de Rainha do Mar e a companhia das duas filhas e da neta pela agitação de Nairóbi, a capital do Quênia. 
@@ -7935,7 +7935,7 @@
 106	ORI	985	19399	9	As atividades anuais acabam dificultando a integração de mais pessoas. 
 106	ORI	985	19400	10	Sem condições de pagar a viagem, outro gaúcho, o sociólogo André Mombath, 28 anos, ganhou a passagem do Comitê Brasileiro do Fórum e embarca hoje para a África. 
 106	ORI	985	19401	10	Assessor sindical da Federação dos Trabalhadores na Agricultura do Rio Grande do Sul (Fetag), Mombath e outros 200 brasileiros representarão entidades sindicais e organizações não-governamentais. 
-106	ORI	985	19402	10	Lá, apresentará um trabalho sobre as dificuldades de sucessão na agricultura familiar: 
+106	ORI	985	19402	10	Lá, apresentará um trabalho sobre as dificuldades de sucessão na agricultura familiar. 
 106	ORI	985	19403	11	-- O envelhecimento do campo é um problema. 
 106	ORI	985	19404	11	É preciso debater urgentemente uma solução para isso. 
 106	NAT	1003	19987	1	O advogado Ricardo Jahn trocará esta semana o sossego de Rainha do Mar e a companhia das duas filhas e da neta pela agitação de Nairóbi, a capital do Quênia. 
@@ -8014,7 +8014,7 @@
 106	STR	1138	23903	19	André Mombath embarca hoje para a África. 
 106	STR	1138	23904	19	Mombath é assessor da Federação dos Trabalhadores na Agricultura do Rio Grande do Sul. 
 106	STR	1138	23905	19	Mombath e outros 200 brasileiros representarão sindicatos e organizações não-governamentais. 
-106	STR	1138	23906	19	Mombath apresentará um trabalho sobre as dificuldades de herança na agricultura familiar: 
+106	STR	1138	23906	19	Mombath apresentará um trabalho sobre as dificuldades de herança na agricultura familiar. 
 106	STR	1138	23907	21	-- O envelhecimento do campo é um problema. 
 106	STR	1138	23908	21	É preciso discutir depressa uma solução para isso. 
 107	ORI	1007	20112	1	Moradores de rua são chamados de sem-teto, mas em Porto Alegre poderiam ser definidos como sem-marquise, sem-ponte, sem-praça, sem-abrigo. 
@@ -9876,7 +9876,7 @@
 136	ORI	1294	26931	10	Se é um buraco negro, de onde nem a luz escapa, como os astrônomos conseguem vê-lo para estudá-lo? 
 136	ORI	1294	26932	10	Não conseguem. 
 136	ORI	1294	26933	10	Eles só sabem que ele está lá observando sua interação com outros astros que estão em volta. 
-136	ORI	1294	26934	11	No caso do GRO J 1655-40, trata-se de um sistema binário: 
+136	ORI	1294	26934	11	No caso do GRO J 1655-40, trata-se de um sistema binário. 
 136	ORI	1294	26935	11	Em volta do buraco negro está orbitando uma estrela subgigante bastante comum. 
 136	ORI	1294	26936	11	Ao ver aquele astro girando em torno do nada, eles puderam saber onde o buraco negro está. 
 136	ORI	1294	26937	11	Depois, com imagens do telescópio espacial Hubble, conseguiram determinar o rumo exato do astro, que está agora a pelo menos 6.000 anos-luz do Sol. 
@@ -10448,7 +10448,7 @@
 144	NAT	1355	28261	7	Cálculos iniciais do ministério apontam que o programa nacional do biodiesel pode representar uma economia anual de R$ 1,8 bilhão no diesel importado pelo Brasil e gerar 200 mil empregos no campo. 
 144	NAT	1355	28262	9	O secretário de Política Tecnológica Empresarial do Ministério da Ciência e Tecnologia (MCT) é Francelino Grando. 
 144	NAT	1355	28263	9	O secretário disse: 
-144	NAT	1355	28264	9	" É uma equação lógica." 
+144	NAT	1355	28264	9	"É uma equação lógica." 
 144	NAT	1355	28265	9	"Temos de ter em mente que a soja transgênica não desaparecerá no próximo ano." 
 144	NAT	1355	28266	9	"E precisamos ter uma alternativa." 
 144	NAT	1355	28267	11	O ministro da Agricultura Roberto Rodrigues afirmou que o uso da soja transgênica "é uma boa idéia". 
@@ -10475,7 +10475,7 @@
 144	STR	1356	28288	7	Cálculos iniciais do ministério apontam que o programa nacional do biodiesel pode gerar 200 mil empregos no campo. 
 144	STR	1356	28289	9	O secretário de Política Tecnológica Empresarial do Ministério da Ciência e Tecnologia (MCT) é Francelino Grando. 
 144	STR	1356	28290	9	O secretário disse: 
-144	STR	1356	28291	9	" É uma proposta lógica." 
+144	STR	1356	28291	9	"É uma proposta lógica." 
 144	STR	1356	28292	9	"Temos de ter em mente que a soja transgênica não desaparecerá no próximo ano." 
 144	STR	1356	28293	9	"Precisamos de uma alternativa." 
 144	STR	1356	28294	11	O ministro da Agricultura Roberto Rodrigues afirmou que o uso da soja transgênica "é uma boa idéia". 
@@ -11128,7 +11128,7 @@
 156	NAT	1413	29315	7	Os cientistas não sabem o que é que a aranha faz, mas o fato é que ela não é identificada como aranha. 
 156	NAT	1413	29316	7	As formigas não a vêem como uma ameaça. 
 156	NAT	1413	29317	7	Brescovit diz: 
-156	NAT	1413	29318	7	" É muito difícil saber o que acontece, porque o bicho vive enterrado." 
+156	NAT	1413	29318	7	"É muito difícil saber o que acontece, porque o bicho vive enterrado." 
 156	NAT	1413	29319	7	"Mas a gente experimenta, tira a aranha de cima da cabeça da formiga, e ela volta correndo." 
 156	NAT	1413	29320	7	"E a formiga a carrega, não está nem aí." 
 156	NAT	1413	29321	9	Realmente, o azar é todo das formigas, porque no formigueiro essas aranhas se alimentam dos ovos e do trabalho das formigas. 
@@ -11465,7 +11465,7 @@
 161	ORI	1441	29791	4	Em fungos, a bioluminescência, trocando em miúdos, a luminosidade produzida por seres vivos, é um fenômeno conhecido há milênios, tendo sido descrito pelo filósofo grego Aristóteles (século 4º a.C.). 
 161	ORI	1441	29792	4	Os cientistas, no entanto, continuam sem saber como ela funciona. 
 161	ORI	1441	29793	4	Foi na esperança de entender o fenômeno que Stevani e seus colaboradores se puseram a procurar cogumelos do tipo no Brasil. 
-161	ORI	1441	29794	4	" É provável que nenhum pesquisador tivesse identificado espécies no Brasil porque é preciso procurá-los à noite." 
+161	ORI	1441	29794	4	"É provável que nenhum pesquisador tivesse identificado espécies no Brasil porque é preciso procurá-los à noite." 
 161	ORI	1441	29795	4	"Além do mais, a luz é muito fraca, até sob o luar ", explica o químico. 
 161	ORI	1441	29796	5	Com base em relatos de moradores e muita paciência na coleta, a equipe chegou aos cogumelos em dois locais: 
 161	ORI	1441	29797	5	O Parque Estadual Turístico do Alto Ribeira, em Iporanga (SP) e uma área de mata ciliar no município de Costa Rica, Mato Grosso do Sul. 
@@ -11497,7 +11497,7 @@
 161	NAT	1446	29955	7	Mas os cientistas continuam sem saber como ela funciona. 
 161	NAT	1446	29956	7	Foi na esperança de entender o fenômeno que Stevani e seus colegas se puseram a procurar cogumelos do tipo no Brasil. 
 161	NAT	1446	29957	7	O químico explica: 
-161	NAT	1446	29958	7	" É provável que nenhum pesquisador tivesse identificado espécies no Brasil porque é preciso procurá-los à noite." 
+161	NAT	1446	29958	7	"É provável que nenhum pesquisador tivesse identificado espécies no Brasil porque é preciso procurá-los à noite." 
 161	NAT	1446	29959	7	"Além do mais, a luz é muito fraca, até sob o luar." 
 161	NAT	1446	29960	9	Com base em histórias de moradores e muita paciência na coleta, a equipe chegou aos cogumelos em dois locais: 
 161	NAT	1446	29961	9	O Parque Estadual Turístico do Alto Ribeira, em Iporanga, São Paulo, e uma área de mata ciliar no município de Costa Rica, Mato Grosso do Sul. 
@@ -11535,7 +11535,7 @@
 161	STR	1448	30045	7	Mas os cientistas continuam sem saber como ela funciona. 
 161	STR	1448	30046	7	Na esperança de entender o fenômeno, Stevani e seus colegas se puseram a procurar cogumelos do tipo no Brasil. 
 161	STR	1448	30047	7	O químico explica: 
-161	STR	1448	30048	7	" É preciso procurá-los à noite." 
+161	STR	1448	30048	7	"É preciso procurá-los à noite." 
 161	STR	1448	30049	7	"Com isso, é provável que nenhum pesquisador tivesse identificado espécies no Brasil." 
 161	STR	1448	30050	7	"Além do mais, a luz é muito fraca até sob o luar." 
 161	STR	1448	30051	9	Com base em histórias de moradores e muita paciência na coleta, a equipe chegou aos cogumelos em dois locais: 
@@ -11656,7 +11656,7 @@
 163	ORI	1453	30195	1	Raízes. 
 163	ORI	1453	30196	2	Para Greg Laden, da Universidade de Minnesota, e Richard Wrangham, da Universidade Harvard, raízes, tubérculos e outros Usos (sigla em inglês para "órgãos subterrâneos de armazenamento" das plantas) permitiram que os primeiros hominídeos, como são conhecidos os ancestrais do homem, saíssem da mata fechada e colonizassem ambientes abertos a partir de uns 6 milhões de anos atrás. 
 163	ORI	1453	30197	3	Segundo a dupla, os Usos foram úteis não como cardápio preferido dos hominídeos, mas como uma fonte confiável e relativamente rica de nutrientes em tempos de escassez, o equivalente evolutivo do arroz com feijão, pode-se dizer. 
-163	ORI	1453	30198	3	" É claro que os alimentos preferidos, como frutas e carne, também foram importantes." 
+163	ORI	1453	30198	3	"É claro que os alimentos preferidos, como frutas e carne, também foram importantes." 
 163	ORI	1453	30199	3	"No fim, contudo, é o fator limitante que conta mais." 
 163	ORI	1453	30200	3	"Quando tudo dá errado, o que faz com que você morra ou consiga se reproduzir?" 
 163	ORI	1453	30201	3	"É aí que a seleção geralmente vai ser mais forte", explicou Laden à Folha. 
@@ -11721,7 +11721,7 @@
 163	STR	1459	30408	3	Richard Wrangham é da Universidade de Harvard. 
 163	STR	1459	30409	5	Na opinião da dupla, os Usos foram fontes de nutrientes relativamente ricas e em que podiam confiar em tempos de falta de alimentos. 
 163	STR	1459	30410	5	Laden explicou à Folha: 
-163	STR	1459	30411	5	" É claro que os alimentos preferidos também foram importantes." 
+163	STR	1459	30411	5	"É claro que os alimentos preferidos também foram importantes." 
 163	STR	1459	30412	5	"Os alimentos preferidos eram frutas e carne." 
 163	STR	1459	30413	5	"Mas é o fator limitador que conta mais." 
 163	STR	1459	30414	5	"No momento em que tudo dá errado, o que faz com que você morra?" 
