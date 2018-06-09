@@ -1951,7 +1951,7 @@
 30	STR	1097	22381	3	No mosteiro, vivem 22 monjas. 
 30	STR	1097	22382	3	As famosas pílulas de Frei Galvão saem das mãos de apenas 13 monjas. 
 30	STR	1097	22383	3	À direita, está uma pequena janela que gira com uma inscrição: 
-30	STR	1097	22384	3	" Coloque a oferta aqui". 
+30	STR	1097	22384	3	"Coloque a oferta aqui". 
 30	STR	1097	22385	3	"Em seguida, pegue as pílulas ". 
 30	STR	1097	22386	3	Deposita-se qualquer quantia. 
 30	STR	1097	22387	3	O peregrino põe R$ 2. 
@@ -4005,10 +4005,10 @@
 54	ORI	551	10977	4	O nosso é brasileiro, colorido, é um menino alegre, com pontos de melancolia. 
 54	ORI	551	10978	5	A história é bem conhecida -- O Pequeno Príncipe seria um dos livros mais traduzidos no mundo --, e é construída em cima das pequenas grandes descobertas que o príncipe (vivido, claro, por Luana) faz com a ajuda de um aviador (Marcus Alvisi), de plantas, de uma cobra, de uma raposa e de um pássaro que lhe cruzam a jornada. 
 54	ORI	551	10979	5	Algumas frases do livro, lançado em 1943 nos Estados Unidos, dois anos antes de Saint-Exupéry desaparecer no Mediterrâneo durante uma missão militar, não desaparecem tão cedo da memória. 
-54	ORI	551	10980	5	Quem não lembra de "Você se torna eternamente responsável por aquilo que cativas" ou " Eis o meu segredo " . 
+54	ORI	551	10980	5	Quem não lembra de "Você se torna eternamente responsável por aquilo que cativas" ou "Eis o meu segredo " . 
 54	ORI	551	10981	5	Ele é muito simples: 
 54	ORI	551	10982	5	Somente vemos bem com o coração. 
-54	ORI	551	10983	5	" O essencial é invisível aos olhos ". 
+54	ORI	551	10983	5	"O essencial é invisível aos olhos ". 
 54	ORI	551	10984	5	É essa essência que Luana quer passar para seu público. 
 54	ORI	551	10985	6	-- Eu poderia fazer TV, poderia fazer espetáculos adultos, mas abro mão de tudo isso para ajudar a melhorar a formação das crianças. 
 54	ORI	551	10986	6	Faço sempre peças com conteúdo e qualidade, e atrelo projetos sociais a eles. 
@@ -4033,7 +4033,8 @@
 54	NAT	555	11051	5	Esses seres cruzam a jornada do príncipe. 
 54	NAT	555	11052	5	O livro foi lançado em 1943 nos Estados Unidos. 
 54	NAT	555	11053	5	Ele foi lançado dois anos antes de Saint-Exupéry desaparecer no Mediterrâneo durante uma missão militar. 
-54	NAT	555	11054	5	Algumas frases do livro não desaparecem tão cedo da memória.	 NAT	555	11055	5	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou " Eis o meu segredo " . 
+54	NAT	555	11054	5	Algumas frases do livro não desaparecem tão cedo da memória. 
+54	NAT	555	11055	5	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou "Eis o meu segredo " . 
 54	NAT	555	11056	5	Ele é muito simples: 
 54	NAT	555	11057	5	Somente vemos bem com o coração. 
 54	NAT	555	11058	5	"  O essencial é invisível aos olhos ". 
@@ -4066,7 +4067,7 @@
 54	STR	1115	23093	9	O livro foi lançado em 1943 nos Estados Unidos. 
 54	STR	1115	23094	9	O livro foi lançado dois anos antes de Saint-Exupéry desaparecer no Mediterrâneo durante uma missão militar. 
 54	STR	1115	23095	9	Algumas frases do livro não desaparecem tão cedo da memória. 
-54	STR	1115	23096	9	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou " Eis o meu segredo ". 
+54	STR	1115	23096	9	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou "Eis o meu segredo ". 
 54	STR	1115	23097	9	Ele é muito simples: 
 54	STR	1115	23098	9	Somente vemos bem com o coração. 
 54	STR	1115	23099	9	"O essencial é invisível aos olhos ". 
@@ -4397,7 +4398,7 @@
 58	ORI	593	12095	8	Na semana passada, um grupo de desconhecidos foi ao zoológico da capital espanhola para demonstrar que as renas não voam, o que seria uma outra mentira do homem de barba branca e traje vermelho. 
 58	ORI	593	12096	8	Além disso, um grupo pretendia se manifestar em frente à embaixada da Finlândia em Madrid para pedir que a fábrica do Papai Noel no país seja fechada. 
 58	ORI	593	12097	9	Existe até um rap circulando em que os Três Reis Magos com correntes e óculos de sol abordam o Papai Noel com um: 
-58	ORI	593	12098	9	" Acha que está na crista da onda e que este pijama foi desenhado pela Coca-Cola? "
+58	ORI	593	12098	9	"Acha que está na crista da onda e que este pijama foi desenhado pela Coca-Cola? "
 58	ORI	593	12099	10	Com esse cenário, este ano, os seguidores do Papai Noel na Espanha terão que pensar bem a quem convidam para suas casas. 
 58	ORI	593	12100	10	Mas há pelo menos uma coisa a se dizer a favor do barrigudo: 
 58	ORI	593	12101	10	Ao contrário dos Reis Magos, ele não dá carvão às crianças que não se comportaram bem ao longo do ano -- uma outra tradição espanhola. 
@@ -6221,7 +6222,7 @@
 83	NAT	865	17287	7	O Fed mantém a taxa básica em 5,25% desde junho de 2006. 
 83	NAT	865	17288	7	Mas a disposição do banco central americano em facilitar o crédito aos bancos representa uma mudança em sua posição: 
 83	NAT	865	17289	7	Passou a não se preocupar apenas em diminuir a inflação, mas também em manter o ritmo de crescimento econômico. 
-83	NAT	865	17290	7	" As condições dos mercados financeiros pioraram. 
+83	NAT	865	17290	7	"As condições dos mercados financeiros pioraram. 
 83	NAT	865	17291	7	Com isso, as condições mais limitadas do crédito e a maior incerteza poderiam impedir a continuação do crescimento econômico ", informou a nota do Comitê de Mercado Aberto. 
 83	NAT	865	17292	7	Vários especialistas acreditam que o banco central americano voltará a agir, dessa vez com o objetivo de reduzir a taxa básica, caso o nervosismo dos investidores apareça mais intenso nos próximos dias. 
 83	NAT	865	17293	8	O Fed também liberou US$ 6 bilhões com o objetivo de reforçar a oferta de dinheiro das instituições bancárias. 
@@ -6259,7 +6260,7 @@
 83	STR	868	17338	7	O Fed mantém a taxa básica em 5,25% desde junho de 2006. 
 83	STR	868	17339	7	Mas a disposição do banco central americano em facilitar o crédito aos bancos representa uma mudança em sua posição: 
 83	STR	868	17340	7	Passou a não se preocupar apenas em diminuir a inflação, como também em manter o ritmo de crescimento econômico. 
-83	STR	868	17341	7	" As condições dos mercados financeiros pioraram. 
+83	STR	868	17341	7	"As condições dos mercados financeiros pioraram. 
 83	STR	868	17342	7	Com isso, as condições mais limitadas do crédito e a maior incerteza poderiam impedir a continuação do crescimento econômico ", informou a nota do Comitê de Mercado Aberto. 
 83	STR	868	17343	7	Caso o nervosismo dos investidores apareça mais intenso nos próximos dias, vários especialistas acreditam que o banco central americano voltará a agir, dessa vez com o objetivo de reduzir a taxa básica. 
 83	STR	868	17344	8	O Fed também liberou US$ 6 bilhões com o objetivo de reforçar a oferta de dinheiro das instituições bancárias. 
@@ -8776,7 +8777,7 @@
 116	ORI	1194	24907	2	A informação foi dada na conferência "da Origem do Universo aos Grandes Telescópios", ministrada ontem por João Steiner, astrofísico da USP, durante a 52ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência. 
 116	ORI	1194	24908	2	A reunião começou anteontem no campus da UnB (Universidade de Brasília). 
 116	ORI	1194	24909	3	O planeta mais distante até hoje fotografado é Plutão. 
-116	ORI	1194	24910	3	" Imagine alguém de fora da nossa galáxia que tente fotografar o Sol." 
+116	ORI	1194	24910	3	"Imagine alguém de fora da nossa galáxia que tente fotografar o Sol." 
 116	ORI	1194	24911	3	"Essa pessoa não perceberia a Terra, que seria ofuscada pela luminosidade solar ", explicou Steiner. 
 116	ORI	1194	24912	3	O mesmo acontece atualmente com os astrônomos que fotografam estrelas muito distantes. 
 116	ORI	1194	24913	4	No entanto, o Gemini poderá "enxergar" planetas. 
@@ -8792,7 +8793,7 @@
 116	NAT	1196	24925	3	João Steiner é astrofísico da USP. 
 116	NAT	1196	24926	3	A reunião começou antes de ontem na Universidade de Brasília. 
 116	NAT	1196	24927	5	Até hoje, o planeta mais distante já fotografado é Plutão. 
-116	NAT	1196	24928	5	" Imagine alguém de fora da nossa galáxia que tente fotografar o Sol." 
+116	NAT	1196	24928	5	"Imagine alguém de fora da nossa galáxia que tente fotografar o Sol." 
 116	NAT	1196	24929	5	"Essa pessoa não perceberia a Terra, que seria escondida pela claridade solar ", explicou Steiner. 
 116	NAT	1196	24930	5	Isso também acontece hoje com os astrônomos que fotografam estrelas muito distantes. 
 116	NAT	1196	24931	7	Mas o Gemini poderá "enxergar" planetas. 
@@ -8809,7 +8810,7 @@
 116	STR	1198	24962	3	João Steiner é astrofísico da USP. 
 116	STR	1198	24963	3	A reunião começou antes de ontem na Universidade de Brasília. 
 116	STR	1198	24964	5	Até hoje, o planeta mais distante já fotografado é Plutão. 
-116	STR	1198	24965	5	" Imagine alguém de fora da nossa galáxia que tente fotografar o Sol." 
+116	STR	1198	24965	5	"Imagine alguém de fora da nossa galáxia que tente fotografar o Sol." 
 116	STR	1198	24966	5	"Essa pessoa não perceberia a Terra." 
 116	STR	1198	24967	5	"A claridade solar esconderia a Terra ", explicou Steiner. 
 116	STR	1198	24968	5	Isso também acontece hoje com os astrônomos que fotografam estrelas muito distantes. 
@@ -8936,7 +8937,7 @@
 119	STR	1208	25091	7	O Greenpeace sustenta que existe uma grande possibilidade de que a madeira seja ilegal. 
 119	STR	1208	25092	9	Rebeca Lerer é defensora do Greenpeace. 
 119	STR	1208	25093	9	Rebeca Lerer disse à Folha: 
-119	STR	1208	25094	9	" Não temos certeza de que aquela carga era ilegal."
+119	STR	1208	25094	9	"Não temos certeza de que aquela carga era ilegal."
 119	STR	1208	25095	9	"Mas sabemos que 80% da atividade de retirar madeira das matas no Brasil é contra a lei." 
 119	STR	1208	25096	9	"Sabemos também que a Selvaplac tem uma tradição de tomar parte em negócios com madeira ilegalmente extraída ". 
 119	STR	1208	25097	11	A operação resulta de uma investigação de 18 meses sobre o comércio de madeira em regiões remotas da Amazônia. 
@@ -9254,7 +9255,7 @@
 124	STR	1226	25481	7	Joe Jackson é um dos autores do estudo. 
 124	STR	1226	25482	7	O estudo sai hoje na revista "Nature". 
 124	STR	1226	25483	7	Joe Jackson disse à Folha por e-mail: 
-124	STR	1226	25484	7	" No futuro, a produção de tecido do fígado se tornará uma realidade." 
+124	STR	1226	25484	7	"No futuro, a produção de tecido do fígado se tornará uma realidade." 
 124	STR	1226	25485	7	"No futuro, o número de transplantes poderá diminuir ". 
 124	STR	1226	25486	9	Masculino e feminino. 
 124	STR	1226	25487	11	Pesquisas em camundongos mostraram que células-tronco da medula óssea poderiam originar células do fígado além das do sangue. 
@@ -9294,7 +9295,7 @@
 125	NAT	1228	25521	13	Todos os cálculos anteriores levavam em conta regiões muito grandes, como países e continentes. 
 125	NAT	1228	25522	13	Com isso, eram menos precisos. 
 125	NAT	1228	25523	15	Por telefone, o pesquisador disse à Folha: 
-125	NAT	1228	25524	15	" O que nós fizemos foi um ajuste fino." 
+125	NAT	1228	25524	15	"O que nós fizemos foi um ajuste fino." 
 125	NAT	1228	25525	15	"Descobrimos que as reservas de água em algumas áreas estão simplesmente vazias ". 
 125	NAT	1228	25526	17	Metrópoles em observação. 
 125	NAT	1228	25527	19	As áreas mais atingidas são as regiões áridas do norte da África, da Ásia Central e do Oriente Médio. 
@@ -9320,7 +9321,7 @@
 125	STR	1229	25547	13	Todos os cálculos anteriores levavam em conta regiões muito grandes, como países e continentes. 
 125	STR	1229	25548	13	Com isso, eram menos precisos. 
 125	STR	1229	25549	15	O pesquisador disse à Folha por telefone: 
-125	STR	1229	25550	15	" O que nós fizemos foi um ajuste fino. 
+125	STR	1229	25550	15	"O que nós fizemos foi um ajuste fino. 
 125	STR	1229	25551	15	Descobrimos que as reservas de água em algumas áreas estão simplesmente vazias ". 
 125	STR	1229	25552	17	Metrópoles em observação. 
 125	STR	1229	25553	19	As áreas mais atingidas são as regiões áridas do norte da África, da Ásia Central e do Oriente Médio. 
@@ -9646,7 +9647,7 @@
 132	STR	1269	26391	11	Eles verificaram que se trata de um objeto que passa a maior parte do tempo na região que fica em volta da galáxia. 
 132	STR	1269	26392	13	Os cientistas dizem que, além de "morar" em volta da galáxia, parece que ele também "nasceu" lá. 
 132	STR	1269	26393	13	O chefe do grupo, Felix Mirabel, disse à Folha: 
-132	STR	1269	26394	13	" Há dois bons sinais de que ele tenha se formado na própria região em volta da galáxia." 
+132	STR	1269	26394	13	"Há dois bons sinais de que ele tenha se formado na própria região em volta da galáxia." 
 132	STR	1269	26395	13	"Um é a trajetória em si, outro é o quanto a estrela vizinha foi consumida pelo buraco negro." 
 132	STR	1269	26396	13	"Isso indica que o conjunto é muito velho." 
 132	STR	1269	26397	15	Busca contínua. 
@@ -9992,7 +9993,7 @@
 137	STR	1301	27091	9	Douglas Revelle é um dos autores do estudo que está publicado na edição de hoje da revista britânica "Nature". 
 137	STR	1301	27092	11	Os pesquisadores dizem que rochas espaciais de poucos metros de diâmetro caem na atmosfera muitas vezes todos os anos. 
 137	STR	1301	27093	11	Robert Jedicke diz: 
-137	STR	1301	27094	11	" Esses corpos medidos em metros são interessantes cientificamente." 
+137	STR	1301	27094	11	"Esses corpos medidos em metros são interessantes cientificamente." 
 137	STR	1301	27095	11	"Mas não oferecem nenhum perigo aos humanos ". 
 137	STR	1301	27096	11	Robert Jedicke é da Universidade do Arizona. 
 137	STR	1301	27097	11	A "Nature" escolheu Robert Jedicke para comentar o estudo. 
@@ -10006,7 +10007,7 @@
 138	ORI	1311	27237	1	Para ser menos afetado pelo estresse, a melhor opção pode estar na companhia de gatos ou cachorros. 
 138	ORI	1311	27238	2	Uma pesquisa com 240 casais heterossexuais nos EUA revelou que a presença de um animal doméstico não só fez com que a tarefa desagradável fosse percebida como menos estressante, como também resultou em melhor resposta do organismo ao estresse. 
 138	ORI	1311	27239	3	O estudo tem um título significativo: 
-138	ORI	1311	27240	3	" Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:" 
+138	ORI	1311	27240	3	"Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:" 
 138	ORI	1311	27241	3	"A Verdade sobre Gatos e Cachorros ". 
 138	ORI	1311	27242	3	Foi publicado na revista médica "Psychosomatic Medicine" (www.psychosomaticmedicine.org). 
 138	ORI	1311	27245	4	A principal autora do estudo é Karen Allen, da Universidade Estadual de Nova York em Buffalo, que há anos estuda a influência dos animais na saúde humana. 
@@ -10030,7 +10031,7 @@
 138	NAT	1318	27407	1	Com o objetivo de ser menos afetado pelo estresse, a melhor opção pode estar na companhia de gatos ou cachorros. 
 138	NAT	1318	27408	3	Uma pesquisa com 240 casais compostos de homem e mulher nos EUA revelou que a presença de um animal doméstico não só fez a tarefa desagradável ser percebida como menos causadora de estresse, como também resultou em melhor resposta do organismo ao estresse. 
 138	NAT	1318	27409	5	O estudo tem um título cheio de significado: 
-138	NAT	1318	27410	5	" Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:" 
+138	NAT	1318	27410	5	"Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:" 
 138	NAT	1318	27411	5	"A Verdade sobre Gatos e Cachorros ". 
 138	NAT	1318	27412	5	Foi publicado na revista médica "Psychosomatic Medicine". 
 138	NAT	1318	27413	7	A principal autora do estudo é Karen Allen, da Universidade Estadual de Nova York em Buffalo, que há anos estuda a influência dos animais na saúde humana. 
@@ -10056,7 +10057,7 @@
 138	STR	1321	27494	3	Uma pesquisa com 240 casais compostos de homem e mulher nos EUA revelou que a presença de um animal doméstico fez a tarefa desagradável ser percebida como menos causadora de estresse. 
 138	STR	1321	27495	3	A presença de um animal doméstico também resultou em melhor resposta do organismo ao estresse. 
 138	STR	1321	27496	5	O estudo tem um título cheio de significado: 
-138	STR	1321	27497	5	" Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:" 
+138	STR	1321	27497	5	"Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:" 
 138	STR	1321	27498	5	"A Verdade sobre Gatos e Cachorros ". 
 138	STR	1321	27499	5	Foi publicado na revista médica "Psychosomatic Medicine". 
 138	STR	1321	27500	7	A principal autora do estudo é Karen Allen. 
@@ -10138,7 +10139,7 @@
 139	NAT	1328	27751	11	50 mil dólares da concepção à construção. 
 139	NAT	1328	27752	11	Mas ninguém deve pensar que o objetivo do grupo da USP é produzí-los em série para atender ao projeto proteoma. 
 139	NAT	1328	27753	13	A física nuclear Suzana Salem Vasconcelos diz: 
-139	NAT	1328	27754	13	" A nossa idéia é desenvolver a tecnologia e treinar pessoal." 
+139	NAT	1328	27754	13	"A nossa idéia é desenvolver a tecnologia e treinar pessoal." 
 139	NAT	1328	27755	13	"Isso não é um equipamento que vise aplicação comercial." 
 139	NAT	1328	27756	13	Suzana salem vasconcelos é do LIP. 
 139	NAT	1328	27757	15	O Maldi foi projetado e construído nos últimos dois anos pelo grupo de Vasconcelos, do qual também fazem parte os pesquisadores Olacio Dietzsch, Eduardo Macchione, Kiyomi Koide e José Hirata. 
@@ -10155,11 +10156,11 @@
 139	NAT	1328	27768	23	Nenhum dos aparelhos tem desempenho semelhante a um comercial. 
 139	NAT	1328	27769	23	Mas o grupo do LIP não troca seu aparelho por nenhum outro. 
 139	NAT	1328	27770	23	Macchione diz: 
-139	NAT	1328	27771	23	" Quando você importa um equipamento, está comprando uma caixa preta." 
+139	NAT	1328	27771	23	"Quando você importa um equipamento, está comprando uma caixa preta." 
 139	NAT	1328	27772	23	"Aqui, podemos ajustar o aparelho às nossas necessidades." 
 139	NAT	1328	27773	25	O grupo diz logo que não tem nenhuma intenção de montar uma empresa para fazer espectrômetros em série. 
 139	NAT	1328	27774	25	Vasconcelos diz: 
-139	NAT	1328	27775	25	" Mas não tenho restrição nenhuma em passar para a frente os desenhos e o conhecimento da tecnologia. 
+139	NAT	1328	27775	25	"Mas não tenho restrição nenhuma em passar para a frente os desenhos e o conhecimento da tecnologia. 
 139	STR	1330	27825	1	Os físicos gostam de dizer que a biologia estaria perdida sem eles. 
 139	STR	1330	27826	1	Um grupo do Instituto de Física da USP está ajudando a aumentar ainda mais a vaidade dos físicos. 
 139	STR	1330	27827	1	Um grupo do Instituto de Física da USP construiu o primeiro aparelho no país que usa laser para analisar moléculas de seres vivos. 
@@ -10182,7 +10183,7 @@
 139	STR	1330	27844	11	O Maldi também foi pago pela Fapesp. 
 139	STR	1330	27845	11	Mas ninguém deve pensar que o objetivo do grupo da USP é produzí-los em série para atender ao projeto proteoma. 
 139	STR	1330	27846	13	A física nuclear Suzana Salem Vasconcelos diz: 
-139	STR	1330	27847	13	" A nossa idéia é desenvolver a tecnologia e treinar pessoal." 
+139	STR	1330	27847	13	"A nossa idéia é desenvolver a tecnologia e treinar pessoal." 
 139	STR	1330	27848	13	"Isso não é um equipamento que vise à aplicação comercial." 
 139	STR	1330	27849	13	Suzana salem vasconcelos é do LIP. 
 139	STR	1330	27850	15	O grupo de Vasconcelos projetou e construiu o Maldi nos últimos dois anos. 
@@ -10204,7 +10205,7 @@
 139	STR	1330	27866	23	Nenhum dos aparelhos tem desempenho semelhante a um comercial. 
 139	STR	1330	27867	23	Mas o grupo do LIP não troca seu aparelho por nenhum outro. 
 139	STR	1330	27868	23	Macchione diz: 
-139	STR	1330	27869	23	" Se você importa um equipamento, está comprando uma caixa preta." 
+139	STR	1330	27869	23	"Se você importa um equipamento, está comprando uma caixa preta." 
 139	STR	1330	27870	23	"Aqui, podemos ajustar o aparelho às nossas necessidades." 
 139	STR	1330	27871	25	O grupo diz logo que não tem nenhuma intenção de montar uma empresa para fazer espectrômetros em série. 
 139	STR	1330	27872	25	Vasconcelos diz: 
@@ -10365,7 +10366,7 @@
 143	NAT	1351	28130	17	Em seguida a esse período, quem sobreviver será levado ao Zôo de San Diego, onde viverá com seus colegas de espécie. 
 143	NAT	1351	28131	17	A equipe não tem planos de clonagem no momento. 
 143	NAT	1351	28132	17	Ryder diz: 
-143	NAT	1351	28133	17	" Agora, queremos ver como esses animais se comportam e como se reproduzem." 
+143	NAT	1351	28133	17	"Agora, queremos ver como esses animais se comportam e como se reproduzem." 
 143	NAT	1351	28134	17	"Esse é um projeto para os próximos cinco ou seis anos." 
 143	NAT	1351	28135	19	Os dois filhotes, que ainda não têm nome, são cópias genéticas idênticas de um banteng macho que morreu no Parque Selvagem Animal de San Diego em 1980. 
 143	NAT	1351	28136	21	No início, a ACT preparou 30 óvulos de vaca, extraindo-lhes o núcleo e combinando-os com células adultas preservadas do banteng de San Diego. 
@@ -10406,7 +10407,7 @@
 143	STR	1353	28220	17	No Zôo de San Diego, viverá com seus colegas de espécie. 
 143	STR	1353	28221	17	A equipe não tem planos de clonagem no momento. 
 143	STR	1353	28222	17	Ryder diz: 
-143	STR	1353	28223	17	" Agora, queremos ver como esses animais se comportam. 
+143	STR	1353	28223	17	"Agora, queremos ver como esses animais se comportam. 
 143	STR	1353	28224	17	Queremos ver como se reproduzem." 
 143	STR	1353	28225	17	"Esse é um projeto para os próximos cinco ou seis anos." 
 143	STR	1353	28226	19	Os dois filhotes são cópias genéticas idênticas de um banteng macho que morreu no Parque Selvagem Animal de San Diego em 1980. 
@@ -10428,7 +10429,7 @@
 144	ORI	1354	28242	3	A intenção do governo é usar parte da soja transgênica já plantada no país, e que está com seu consumo proibido, na produção do combustível. 
 144	ORI	1354	28243	4	Cálculos iniciais do ministério apontam que o programa nacional do biodiesel pode representar uma economia anual de R$ 1,8 bilhão de litros de diesel importado pelo Brasil e gerar 200 mil empregos no campo. 
 144	ORI	1354	28244	5	Francelino Grando, secretário de Política Tecnológica Empresarial do MCT (Ministério da Ciência e Tecnologia), disse que a proposta é "uma equação lógica". 
-144	ORI	1354	28245	5	" Temos que ter em mente que a soja transgênica não desaparecerá no próximo ano." 
+144	ORI	1354	28245	5	"Temos que ter em mente que a soja transgênica não desaparecerá no próximo ano." 
 144	ORI	1354	28246	5	"E precisamos ter uma alternativa." 
 144	ORI	1354	28247	6	O ministro da Agricultura, Roberto Rodrigues, afirmou que o uso da soja transgênica "é uma boa idéia". 
 144	ORI	1354	28248	6	Ele defendeu até que se continue produzindo esse tipo de soja para "esmagá-la" e transformá-la em biodiesel. 
@@ -10481,13 +10482,13 @@
 144	STR	1356	28295	11	Ele defendeu continuar a produção desse tipo de soja com o objetivo de "esmagá-la" e transformá-la em biodiesel. 
 144	STR	1356	28296	13	O ministro da Agricultura também disse que o governo discutirá essa proposta. 
 144	STR	1356	28297	13	Rodrigues afirmou: 
-144	STR	1356	28298	13	" Teremos uma posição." 
+144	STR	1356	28298	13	"Teremos uma posição." 
 144	STR	1356	28299	13	"Em seguida, cada ministério vai tratar de sua parte." 
 144	STR	1356	28300	15	O secretário do MCT também defendeu manter a produção dos transgênicos: 
 144	STR	1356	28301	15	"A polícia não pode tratar de um assunto de produção." 
 144	STR	1356	28302	17	Francelino Grando e Roberto Rodrigues chegaram ao evento de Ribeirão num ônibus pequeno movido a biodiesel. 
 144	STR	1356	28303	17	Rodrigues afirmou: 
-144	STR	1356	28304	17	" O objetivo é mostrar que isso é uma realidade." 
+144	STR	1356	28304	17	"O objetivo é mostrar que isso é uma realidade." 
 144	STR	1356	28305	17	"Isso não é um sonho." 
 144	STR	1356	28306	17	"Isso não é um discurso." 
 144	STR	1356	28307	19	A USP de Ribeirão desenvolveu o projeto. 
@@ -10524,7 +10525,7 @@
 145	ORI	1361	28446	10	"Para ter um genoma desse tamanho, ele precisa de grande fidelidade de replicação", afirma Zanotto. 
 145	ORI	1361	28447	10	Ou seja, algum mecanismo genético que faça a partícula produzir cópias de si mesma sem muitas trocas de "letras" no RNA. 
 145	ORI	1361	28448	11	Isso pode ser uma boa coisa, avalia, já que a tendência do vírus seria a de mudar pouco, facilitando a produção de uma vacina. 
-145	ORI	1361	28449	11	" Existem no mercado vacinas para coronavírus de aves e cachorros." 
+145	ORI	1361	28449	11	"Existem no mercado vacinas para coronavírus de aves e cachorros." 
 145	ORI	1361	28450	11	"E elas funcionam bem ", afirmou o pesquisador da USP. 
 145	NAT	1362	28451	1	O vírus que causa pneumonia asiática deve entrar para o enorme conjunto dos vírus assassinos que saíram da natureza e atingiram seres humanos. 
 145	NAT	1362	28452	1	Mas estudos dos genes mostram que ele não pertence a uma outra classe, a dos assassinos que sofrem mutação. 
@@ -10601,10 +10602,10 @@
 146	ORI	1365	28564	1	O animal é um clone gerado a partir de um clone, a vaca Vitória, que havia sido clonada em 2001. 
 146	ORI	1365	28565	1	Para Rodrigues, a cria coloca a genética do país em destaque no cenário mundial. 
 146	ORI	1365	28566	2	Clayton Campanhola, diretor-presidente da Empresa Brasileira de Pesquisa Agropecuária (Embrapa), afirma que o método ajudará na multiplicação de animais de elevado valor genético ou na reprodução dos ameaçados de extinção. 
-146	ORI	1365	28567	2	" Se há um animal de boa qualidade genética, a gente consegue manter isso em um filho [clonado] do animal, mesmo que esteja velho."
+146	ORI	1365	28567	2	"Se há um animal de boa qualidade genética, a gente consegue manter isso em um filho [clonado] do animal, mesmo que esteja velho."
 146	ORI	1365	28568	2	"É a reprodução da qualidade." 
 146	ORI	1365	28569	3	Segundo Campanhola, a técnica pode ser aplicada imediatamente na produção de carne e de leite. 
-146	ORI	1365	28570	3	" A técnica existe, pode ser utilizada e já foi testada." 
+146	ORI	1365	28570	3	"A técnica existe, pode ser utilizada e já foi testada." 
 146	ORI	1365	28571	3	"Agora é uma questão de aplicar e de divulgar melhor esse conhecimento." 
 146	ORI	1365	28572	4	Vitoriosa é o resultado de um experimento realizado pela Embrapa. 
 146	ORI	1365	28573	4	Ela surgiu a partir de células isoladas de um pedaço de pele retirado da orelha da vaca Vitória, que foi o primeiro clone bovino da América Latina, nascida em 2001. 
@@ -10619,7 +10620,7 @@
 146	NAT	1366	28582	3	"Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal, mesmo que esteja velho." 
 146	NAT	1366	28583	3	"É a reprodução da qualidade." 
 146	NAT	1366	28584	5	Na opinião de Campanhola, a técnica pode ser aplicada imediatamente na produção de carne e leite. 
-146	NAT	1366	28585	5	" A técnica existe, pode ser utilizada e já foi testada." 
+146	NAT	1366	28585	5	"A técnica existe, pode ser utilizada e já foi testada." 
 146	NAT	1366	28586	5	"Agora é uma questão de aplicar e de divulgar melhor esse conhecimento." 
 146	NAT	1366	28587	7	Vitoriosa é o resultado de uma experiência realizada pela Embrapa. 
 146	NAT	1366	28588	7	Ela surgiu das células isoladas de um pedaço de pele da orelha da vaca Vitória, que foi o primeiro clone de vaca da América Latina. 
@@ -10634,10 +10635,10 @@
 146	STR	1367	28597	1	Na opinião de Rodrigues, o filhote coloca o estudo dos genes realizado no país em destaque no cenário mundial. 
 146	STR	1367	28598	3	Clayton Campanhola é o diretor-presidente da Empresa Brasileira de Pesquisa Agropecuária (Embrapa). 
 146	STR	1367	28599	3	Clayton Campanhola afirma que o método ajudará na multiplicação de animais de elevado valor ou na reprodução dos ameaçados de extinção. 
-146	STR	1367	28600	3	" Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal." 
+146	STR	1367	28600	3	"Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal." 
 146	STR	1367	28601	3	"É a reprodução da qualidade." 
 146	STR	1367	28602	5	Na opinião de Campanhola, a técnica pode ser aplicada imediatamente na produção de carne e leite. 
-146	STR	1367	28603	5	" A técnica existe." 
+146	STR	1367	28603	5	"A técnica existe." 
 146	STR	1367	28604	5	"A técnica pode ser utilizada." 
 146	STR	1367	28605	5	"A técnica já foi testada." 
 146	STR	1367	28606	5	"Agora é uma questão de aplicar melhor esse conhecimento." 
@@ -10674,7 +10675,7 @@
 147	STR	1370	28637	3	Primeiro, pede que a Comissão Técnica Nacional de Biossegurança seja a única autoridade a estabelecer regras para a pesquisa e para o comércio de transgênicos. 
 147	STR	1370	28638	5	A segunda sugestão de modificação diz respeito à proibição de pesquisas com células-tronco de embriões humanos e com clonagem para tratamento de doentes. 
 147	STR	1370	28639	7	Os cientistas escreveram na carta aos senadores: 
-147	STR	1370	28640	7	" O tratamento com células-tronco de embriões pode representar a esperança de tratamento para milhões de brasileiros afetados por doenças que os genes determinam." 
+147	STR	1370	28640	7	"O tratamento com células-tronco de embriões pode representar a esperança de tratamento para milhões de brasileiros afetados por doenças que os genes determinam." 
 147	STR	1370	28641	7	"As doenças que os genes determinam atingem mais de 5 milhões de pessoas." 
 147	STR	1370	28642	7	"A maioria é de crianças e jovens." 
 147	STR	1370	28643	9	A Sociedade Brasileira de Genética e a Sociedade Brasileira de Microbiologia também estão entre as 13 entidades. 
@@ -10702,7 +10703,7 @@
 148	STR	1373	28665	5	O Protocolo de Kyoto tem o objetivo de reduzir as emissões de gás carbônico que aumentam o efeito estufa. 
 148	STR	1373	28666	5	Esse mecanismo aquece a atmosfera da Terra, guardando a radiação do Sol que se espalharia no espaço. 
 148	STR	1373	28667	7	Sir David afirmou: 
-148	STR	1373	28668	7	" O Reino Unido se propôs a reduzir suas emissões de gás carbônico em 60% até 2020." 
+148	STR	1373	28668	7	"O Reino Unido se propôs a reduzir suas emissões de gás carbônico em 60% até 2020." 
 148	STR	1373	28669	7	"Gostaríamos de ver os EUA tomando medidas semelhantes." 
 148	STR	1373	28670	7	"Mas não é o que está acontecendo." 
 149	ORI	1374	28671	1	Para um desavisado, parece até obsessão freudiana, mas Hendrik Poynar está pedindo a todos os seus conhecidos a maior quantidade de fezes possível, quanto mais velhas, melhores. 
@@ -10726,7 +10727,7 @@
 149	STR	1376	28689	1	Poynar é bioantropólogo da Universidade de MacMaster, no Canadá. 
 149	STR	1376	28690	1	Poynar está pronto para investigar a relação entre homens de Neandertal e humanos modernos. 
 149	STR	1376	28691	1	Poynar está pronto para investigar olhando para o cocô que eles faziam e para as moléculas que podem contar a história deles. 
-149	STR	1376	28692	3	O pesquisador contou durante a reunião da " Associação Americana para o Avanço da Ciência: 
+149	STR	1376	28692	3	O pesquisador contou durante a reunião da "Associação Americana para o Avanço da Ciência: 
 149	STR	1376	28693	3	"Estamos recolhendo pedaços de cocô fossilizado em duas cavernas em Israel com 40 mil anos." 
 149	STR	1376	28694	3	"Provavelmente, os primeiros humanos modernos e os homens de Neandertal viveram lado a lado nas cavernas." 
 149	STR	1376	28695	5	O cocô pode alcançar características muito especiais de preservação. 
@@ -10928,7 +10929,7 @@
 152	ORI	1397	29035	10	Para ele, em condições ideais, o método funcionaria melhor em pacientes que tivessem um quadro estável, com baixa contagem de vírus e forte presença de células de defesa. 
 152	ORI	1397	29036	10	Mas, por razões éticas, não se pode fazer experimentos de interrupção com esses pacientes. 
 152	ORI	1397	29037	10	Todos os 35 estudados já não respondiam mais aos tratamentos convencionais quando foram escalados para a pesquisa. 
-152	ORI	1397	29038	11	" Acho que a contribuição do nosso trabalho é que no passado parecia um crime parar de tomar a droga." 
+152	ORI	1397	29038	11	"Acho que a contribuição do nosso trabalho é que no passado parecia um crime parar de tomar a droga." 
 152	ORI	1397	29039	11	"Hoje, se um médico propuser isso ao paciente, ele não tem medo, sabe que não vai morrer amanhã ", diz Matos. 
 152	ORI	1397	29040	11	A pesquisa foi divulgada na edição deste mês da revista "Pesquisa Fapesp" (revistapesquisa.fapesp. br). 
 152	NAT	1399	29070	1	Parar de tomar a mistura de medicamentos contra o vírus que causa Aids não e obrigatoriamente algo ruim, contanto que o paciente siga as instruções do médico e não se arrisque a interromper o tratamento sozinho. 
@@ -10950,13 +10951,13 @@
 152	NAT	1399	29086	15	No estudo alemão, foram dois meses. 
 152	NAT	1399	29087	15	E há médicos que tentam estratégias como interrupção nos fins de semana ou em semanas com medicamento e semanas sem medicamento. 
 152	NAT	1399	29088	17	O médico da UFPA usa uma metáfora do futebol com o objetivo de explicar a variação no tempo de interrupção: 
-152	NAT	1399	29089	17	" Imagine que temos a torcida do Flamengo e a do América." 
+152	NAT	1399	29089	17	"Imagine que temos a torcida do Flamengo e a do América." 
 152	NAT	1399	29090	17	"Se tirarmos a comida dos flamenguistas, quanto tempo vai levar para que os torcedores americanos os ultrapassem em número?" 
 152	NAT	1399	29091	17	"Esse é o período em que podemos realizar a interrupção." 
 152	NAT	1399	29092	19	Na opinião dele, em condições ideais, o método funcionaria melhor em pacientes que tivessem um quadro que não muda, com baixo número de vírus e forte presença de células de defesa. 
 152	NAT	1399	29093	19	Mas, de acordo com as regras médicas, não se pode fazer experiências de interrupção com esses pacientes. 
 152	NAT	1399	29094	19	Todos os 35 estudados não respondiam mais aos tratamentos tradicionais quando foram escolhidos para a pesquisa. 
-152	NAT	1399	29095	21	" Acho que a contribuição do nosso trabalho é que, no passado, parecia um crime parar de tomar a droga." 
+152	NAT	1399	29095	21	"Acho que a contribuição do nosso trabalho é que, no passado, parecia um crime parar de tomar a droga." 
 152	NAT	1399	29096	21	"Hoje, se um médico propuser isso ao paciente, ele não tem medo, sabe que não vai morrer amanhã." 
 152	NAT	1399	29097	21	A pesquisa foi divulgada na edição deste mês da revista "Pesquisa Fapesp". 
 152	STR	1401	29138	1	Contanto que o paciente siga as instruções do médico e não se arrisque a interromper o tratamento sozinho, parar de tomar a mistura de medicamentos contra o vírus da Aids não é obrigatoriamente algo ruim. 
@@ -10989,13 +10990,13 @@
 152	STR	1401	29165	15	No estudo alemão, foram três meses. 
 152	STR	1401	29166	15	Há médicos que tentam estratégias de interrupção nos fins de semana ou em semanas com medicamento e semanas sem medicamento. 
 152	STR	1401	29167	17	O médico da UFPA usa uma metáfora do futebol com o objetivo de explicar a variação no tempo de interrupção: 
-152	STR	1401	29168	17	" Imagine que temos a torcida do Flamengo e a do América."
+152	STR	1401	29168	17	"Imagine que temos a torcida do Flamengo e a do América."
 152	STR	1401	29169	17	"Se tirarmos a comida dos flamenguistas, quanto tempo vai levar para que os torcedores americanos os ultrapassem em número?"
 152	STR	1401	29170	17	"Esse é o período da interrupção." 
 152	STR	1401	29171	19	Na opinião dele, o método funcionaria melhor em pacientes com um quadro que não muda, com baixo número de vírus e forte presença de células de defesa. 
 152	STR	1401	29172	19	Mas as regras médicas dizem que não se pode fazer experiências de interrupção com esses pacientes. 
 152	STR	1401	29173	19	Todos os 35 estudados não respondiam mais aos tratamentos tradicionais no momento em que foram escolhidos para a pesquisa. 
-152	STR	1401	29174	21	" Acho que a contribuição do nosso trabalho é que, no passado, parecia um crime parar de tomar a droga." 
+152	STR	1401	29174	21	"Acho que a contribuição do nosso trabalho é que, no passado, parecia um crime parar de tomar a droga." 
 152	STR	1401	29175	21	"Hoje, se um médico propuser isso ao paciente, ele não tem medo." 
 152	STR	1401	29176	21	"Ele sabe que não vai morrer amanhã." 
 152	STR	1401	29177	21	A revista foi divulgada na edição deste mês da revista "Pesquisa Fapesp". 
@@ -11025,12 +11026,12 @@
 154	ORI	1405	29201	1	A inundação permanente no baixo Taquari é conseqüência da obstrução do fluxo do rio na região da planície, onde seu leito foi reduzido devido ao acúmulo de sedimentos. 
 154	ORI	1405	29202	1	O estudo da Embrapa verificou que esse processo de assoreamento do rio foi acelerado a partir da década de 1970. 
 154	ORI	1405	29203	2	Naquela época, o governo militar incentivou o povoamento de áreas do planalto do entorno do Pantanal para o desenvolvimento de agricultura e pecuária. 
-154	ORI	1405	29204	3	" Aquela área toda do alto Taquari é, na sua maior parte, arenosa." 
+154	ORI	1405	29204	3	"Aquela área toda do alto Taquari é, na sua maior parte, arenosa." 
 154	ORI	1405	29205	3	"Se você tirar a cobertura vegetal para colocar pasto ou agricultura, a primeira chuva arrasta uma enormidade de areia para o rio ", diz Emiko de Resende. 
 154	ORI	1405	29206	4	A destruição de trechos da vegetação que acompanha o curso do rio (chamada de mata ciliar) também contribuiu para o problema. 
 154	ORI	1405	29207	5	Os sedimentos são arrastados para a parte baixa do rio. 
 154	ORI	1405	29208	5	Como a correnteza na planície é muito fraca, há acúmulo no fundo do Taquari. 
-154	ORI	1405	29209	6	" O leito do rio ficou tão alto que está acima das áreas laterais, as planícies." 
+154	ORI	1405	29209	6	"O leito do rio ficou tão alto que está acima das áreas laterais, as planícies." 
 154	ORI	1405	29210	6	"Quando o rio arromba [abre um canal e a água invade a planície], não volta mais para o leito na época da seca, porque o leito está mais alto que o campo ", explica. 
 154	NAT	1407	29223	1	A inundação permanente no baixo Taquari é conseqüência do entupimento do rio na região da planície, onde a concentração de areia, terra e detritos reduziu o seu leito. 
 154	NAT	1407	29224	1	O estudo da Embrapa verificou que esse processo de entupimento do rio se acelerou a partir da década de 1970. 
@@ -11042,7 +11043,7 @@
 154	NAT	1407	29230	7	A vegetação que acompanha o curso do rio se chama mata ciliar. 
 154	NAT	1407	29231	9	A areia, a terra e os detritos são arrastados para a parte baixa do rio. 
 154	NAT	1407	29232	9	Como a correnteza na planície é muito fraca, há concentração no fundo do Taquari. 
-154	NAT	1407	29233	11	" O leito do rio ficou tão alto que está acima das áreas laterais, as planícies." 
+154	NAT	1407	29233	11	"O leito do rio ficou tão alto que está acima das áreas laterais, as planícies." 
 154	NAT	1407	29234	11	"Quando o rio abre um canal e a água invade a planície, não volta mais para o leito na época da seca, porque o leito está mais alto que o campo." 
 154	STR	1408	29235	1	A inundação permanente no baixo Taquari é conseqüência do entupimento do rio na região da planície. 
 154	STR	1408	29236	1	A concentração de areia, terra e restos reduziu o seu leito na região da planície. 
@@ -11056,7 +11057,7 @@
 154	STR	1408	29244	9	A areia, a terra e os restos são arrastados para a parte baixa do rio. 
 154	STR	1408	29245	9	A correnteza na planície é muito fraca. 
 154	STR	1408	29246	9	Com isso, há concentração no fundo do Taquari. 
-154	STR	1408	29247	11	" O leito do rio ficou tão alto que está acima das áreas laterais." 
+154	STR	1408	29247	11	"O leito do rio ficou tão alto que está acima das áreas laterais." 
 154	STR	1408	29248	11	"As áreas laterais são as planícies." 
 154	STR	1408	29249	11	"No momento em que o rio abre um canal e a água invade a planície, não volta mais para o leito na época da seca."
 154	STR	1408	29250	11	"Isso ocorre porque o leito está mais alto que o campo." 
@@ -11112,7 +11113,7 @@
 156	ORI	1412	29300	4	Os cientistas não sabem qual é o truque que a aranha usa ("se emite um feromônio, algum outro sinal químico"), mas o fato é que ela não é identificada como aranha. 
 156	ORI	1412	29301	4	As formigas não a vêem como uma ameaça. 
 156	ORI	1412	29302	4	"É muito difícil saber o que acontece, porque o bicho vive enterrado", diz Brescovit. 
-156	ORI	1412	29303	4	" Mas a gente experimenta, tira a aranha de cima da cabeça da formiga, e ela volta correndo." 
+156	ORI	1412	29303	4	"Mas a gente experimenta, tira a aranha de cima da cabeça da formiga, e ela volta correndo." 
 156	ORI	1412	29304	4	"E a formiga a carrega, não está nem aí." 
 156	ORI	1412	29305	5	E, de fato, o azar é todo das formigas, porque essas aranhas, ao chegarem ao formigueiro, se alimentam dos ovos e do trabalho das trabalhadoras desavisadas. 
 156	ORI	1412	29306	6	Esse comportamento já era conhecido antes, mas as descobertas vão acrescentar muito ao que já se entende dessas espécies. 
@@ -11139,14 +11140,14 @@
 156	STR	1414	29327	3	Seis das nove aranhas que o grupo do Butantan e do Goeldi descobriu são desse grupo de "malandras". 
 156	STR	1414	29328	3	Três foram achadas no Pará, outras três em Tocantins e na Bahia. 
 156	STR	1414	29329	5	Antonio brescovit conta: 
-156	STR	1414	29330	5	" Elas montam em cima da cabeça daquelas formigas grandes." 
+156	STR	1414	29330	5	"Elas montam em cima da cabeça daquelas formigas grandes." 
 156	STR	1414	29331	5	"Elas vão embora para dentro do formigueiro." 
 156	STR	1414	29332	5	Antonio Brescovit é do Butantan. 
 156	STR	1414	29333	7	Os cientistas não sabem o que é que a aranha faz. 
 156	STR	1414	29334	7	O fato é que ela não é identificada como aranha. 
 156	STR	1414	29335	7	As formigas não a vêem como uma ameaça. 
 156	STR	1414	29336	7	Brescovit diz: 
-156	STR	1414	29337	7	" O bicho vive enterrado." 
+156	STR	1414	29337	7	"O bicho vive enterrado." 
 156	STR	1414	29338	7	"É muito difícil saber o que acontece." 
 156	STR	1414	29339	7	"Mas a gente experimenta." 
 156	STR	1414	29340	7	"A gente tira a aranha de cima da cabeça da formiga e ela volta correndo." 
@@ -11192,7 +11193,7 @@
 157	NAT	1416	29380	17	A boa é que se pode conter a gripe do frango. 
 157	NAT	1416	29381	17	A má é que será preciso mais que uma boa idéia para conter a doença. 
 157	NAT	1416	29382	17	Ferguson disse: 
-157	NAT	1416	29383	17	" Você precisa de uma combinação de estratégias." 
+157	NAT	1416	29383	17	"Você precisa de uma combinação de estratégias." 
 157	NAT	1416	29384	17	"Nenhuma sozinha conseguiria prevenir com sucesso uma epidemia." 
 157	STR	1417	29385	1	Suponhamos o pior, que o vírus da gripe do frango possa ser transmitido de pessoa a pessoa. 
 157	STR	1417	29386	1	Mas seria possível conter uma epidemia da doença antes que ela se transformasse em uma epidemia mortal de proporções mundiais. 
@@ -11236,13 +11237,13 @@
 158	ORI	1427	29478	4	Foi o que o grupo testou, usando óculos que rastreiam o movimento dos olhos (veja quadro à dir.). 
 158	ORI	1427	29479	4	De fato, os chineses olhavam mais para o fundo, com mais intensidade e enfocando mais áreas da imagem. 
 158	ORI	1427	29480	5	Para Nisbett, diferenças culturais, principalmente na educação das crianças, explicariam essa assimetria. 
-158	ORI	1427	29481	5	" Mães americanas tendem a usar mais substantivos, e a usar mais objetos ao brincar com seus filhos pequenos." 
+158	ORI	1427	29481	5	"Mães americanas tendem a usar mais substantivos, e a usar mais objetos ao brincar com seus filhos pequenos." 
 158	ORI	1427	29482	5	"Já as chinesas e coreanas utilizam mais verbos e enfocam mais relações sociais ", afirma ele. 
 158	ORI	1427	29483	5	Nisbett e Chua pretendem agora ver se diferenças como essas se manifestam entre outras culturas. 
 158	ORI	1427	29484	5	O estudo está na revista "PNAS". 
 158	NAT	1430	29505	1	Chineses e americanos enxergam o mundo de jeitos distintos, a julgar por uma pesquisa publicada hoje. 
 158	NAT	1430	29506	1	Pesquisadores da Universidade de Michigan em Ann Arbor, nos Estados Unidos, sugerem que os olhos de asiáticos tendem a ver uma imagem no seu conjunto, prestando atenção ao que está tanto em primeiro plano quanto no fundo, mas os americanos demoram mais o olhar no objeto central de um quadro. 
-158	NAT	1430	29507	3	" As diferenças não são minúsculas." 
+158	NAT	1430	29507	3	"As diferenças não são minúsculas." 
 158	NAT	1430	29508	3	"Depois de um segundo, os americanos olharam mais para o objeto central do que para o fundo durante 600 milissegundos, mas isso só aconteceu por 40 milissegundos com os chineses ", disse à Folha Richard Nisbett, do Departamento de Psicologia da universidade. 
 158	NAT	1430	29509	5	Ele atribui à sua colega Hannah Faye Chua a idéia de testar de forma visual um dado já verificado de modo verbal. 
 158	NAT	1430	29510	5	Pessoas nascidas na China têm mais facilidade de se lembrar de um objeto quando o vêem pela segunda vez com o mesmo fundo que aparecia na primeira olhada, o que já não acontece com os americanos. 
@@ -11250,7 +11251,7 @@
 158	NAT	1430	29512	7	Foi o que o grupo testou, usando óculos que seguem o movimento dos olhos. 
 158	NAT	1430	29513	7	Realmente, os chineses olhavam mais para o fundo com mais intensidade e focalizando mais áreas da imagem. 
 158	NAT	1430	29514	9	Na opinião de Nisbett, diferenças culturais, especialmente na educação de crianças, explicariam essa diferença. 
-158	NAT	1430	29515	9	" Mães americanas tendem a usar mais substantivos e mais objetos ao brincar com seus filhos pequenos." 
+158	NAT	1430	29515	9	"Mães americanas tendem a usar mais substantivos e mais objetos ao brincar com seus filhos pequenos." 
 158	NAT	1430	29516	9	"Já as chinesas e coreanas utilizam mais verbos e dão mais atenção a relações sociais ", afirma ele. 
 158	NAT	1430	29517	9	Nisbett e Chua pretendem agora ver se diferenças como essas se manifestam entre outras culturas. 
 158	NAT	1430	29518	9	O estudo está na revista "PNAS". 
@@ -11593,7 +11594,7 @@
 162	NAT	1450	30104	1	A má é que o bicho, por enquanto, não passa de um dente. 
 162	NAT	1450	30105	3	Marcelo tejedor, paleontólogo da Universidade Nacional da Patagônia, mostra um sorriso meio sem graça no momento em que lhe perguntam se não é uma situação de decepção. 
 162	NAT	1450	30106	3	Gesticulando para indicar o tamanho do trabalho à frente, diz: 
-162	NAT	1450	30107	3	" Estamos com um saco de 200 kg de terra para peneirar. 
+162	NAT	1450	30107	3	"Estamos com um saco de 200 kg de terra para peneirar. 
 162	NAT	1450	30108	3	Quem sabe não encontramos mais alguma coisa? ". 
 162	NAT	1450	30109	3	Afirmou durante o 2º Congresso Latino-Americano de Paleontologia de Vertebrados no Rio de Janeiro. 
 162	NAT	1450	30110	5	A descrição do dente foi apresentada para publicação numa revista científica, mas os primeiros dados sugerem que o animal pode ter sido tanto um mamífero que desenvolve placenta quanto um marsupial, que carrega seus filhotes numa bolsa. 
@@ -11620,7 +11621,7 @@
 162	STR	1451	30131	3	Marcelo Tejedor mostra um sorriso meio sem graça no momento em que lhe perguntam se não é uma situação de decepção. 
 162	STR	1451	30132	3	Marcelo Tejedor é paleontólogo da Universidade Nacional da Patagônia. 
 162	STR	1451	30133	3	Gesticulando para indicar o tamanho do trabalho à frente, diz: 
-162	STR	1451	30134	3	" Estamos com um saco de 200 kg de terra para peneirar." 
+162	STR	1451	30134	3	"Estamos com um saco de 200 kg de terra para peneirar." 
 162	STR	1451	30135	3	"Quem sabe não encontramos mais alguma coisa? " 
 162	STR	1451	30136	3	Afirmou durante o 2º Congresso Latino-Americano de Paleontologia de Vertebrados no Rio de Janeiro. 
 162	STR	1451	30137	5	Apresentaram a descrição do dente para publicação numa revista científica. 
@@ -11756,7 +11757,7 @@
 163	STR	1459	30444	17	Por fim, vários dos hominídeos mais antigos têm mandíbulas fortes, dentes com coroas grandes e esmalte grosso. 
 163	STR	1459	30445	17	Na opinião da dupla, é sinal de que eles estavam adaptados para mastigar raízes duras. 
 163	STR	1459	30446	17	Laden afirma: 
-163	STR	1459	30447	17	" Espero analisar a alteração desses dentes pelo atrito, em busca de sinais deixados pelos Usos." 
+163	STR	1459	30447	17	"Espero analisar a alteração desses dentes pelo atrito, em busca de sinais deixados pelos Usos." 
 163	STR	1459	30448	17	"Espero também analisar a composição química deles." 
 163	STR	1459	30449	17	Assim, a teoria ficaria mais sólida. 
 163	STR	1459	30450	19	O estudo estará numa edição futura da publicação científica "Journal of Human Evolution". 
@@ -11802,7 +11803,7 @@
 164	NAT	1461	30493	11	Perales diz: 
 164	NAT	1461	30494	11	"Cremos que elas seriam mais eficientes que os remédios atuais para impedir tanto a perda de sangue quanto a lesão nos músculos." 
 164	NAT	1461	30495	11	Na opinião de Ida Sano Martins, que estuda os processos químicos dos venenos no Instituto Butantan, em São Paulo, a estratégia poderia vencer algumas limitações dos remédios atuais contra veneno de cobra. 
-164	NAT	1461	30496	11	Diz: " Mas o problema maior é o dano causado no local em seguida à picada." 
+164	NAT	1461	30496	11	Diz: "Mas o problema maior é o dano causado no local em seguida à picada." 
 164	NAT	1461	30497	11	"Não adianta muito tentar eliminá-lo depois que o tecido já foi alterado." 
 164	NAT	1461	30498	13	Perales e seus colegas também estão investigando a ação das substâncias contra doenças como o câncer. 
 164	NAT	1461	30499	13	Motivo: algumas das mesmas moléculas do veneno de serpente parecem estar envolvidas nas doenças humanas. 
@@ -11843,7 +11844,7 @@
 164	STR	1462	30534	11	"Cremos que elas seriam mais eficientes que os remédios atuais para impedir tanto a perda de sangue quanto a lesão nos músculos." 
 164	STR	1462	30535	11	Na opinião de Ida Sano Martins, a estratégia poderia vencer algumas limitações dos remédios atuais contra veneno de cobra. 
 164	STR	1462	30536	11	Ida Sano Martins estuda os processos químicos dos venenos no Instituto Butantan. 
-164	STR	1462	30537	11	Diz: " Mas o problema maior é o dano causado no local em seguida à picada." 
+164	STR	1462	30537	11	Diz: "Mas o problema maior é o dano causado no local em seguida à picada." 
 164	STR	1462	30538	11	"Não adianta muito tentar eliminá-lo depois que o tecido já foi alterado." 
 164	STR	1462	30539	13	Perales e seus colegas também estão investigando a ação das substâncias contra doenças como o câncer. 
 164	STR	1462	30540	13	Motivo: algumas das mesmas moléculas do veneno de serpente parecem estar envolvidas nas doenças humanas. 
