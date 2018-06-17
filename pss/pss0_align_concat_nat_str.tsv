@@ -305,7 +305,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 12	NAT->STR	N	N	Apenas um dos deputados trocou de partido após 27 de março.	Apenas um dos deputados trocou de partido após 27 de março.
 12	NAT->STR	S	N	Jusmaride Oliveira foi a deputada que trocou de partido.	Jusmari de Oliveira foi a deputada que trocou de partido.
 12	NAT->STR	S	N	Jusmaride Oliveira deixou o DEM e entrou no PR.	Jusmari de Oliveira deixou o DEM e entrou no PR.
-12	NAT->STR	S	N	Ela é a única que ainda corre risco.	É a única que ainda corre risco.
 12	NAT->STR	S	N	Os três relatores dos pedidos votaram para que todos os que mudaram de partido antes da resolução do TSE fiquem com seus mandatos.	Os três relatores dos pedidos votaram com o objetivo de que todos os que mudaram de partido antes da resolução do TSE fiquem com seus mandatos.
 12	NAT->STR	N	N	Outros quatro ministros fizeram a mesma coisa.	Outros quatro ministros fizeram a mesma coisa.
 12	NAT->STR	S	N	No total, 30 deputados que mudaram de partido antes de 27 de março não perdem os mandatos.	no total, 30 deputados que mudaram de partido antes dessa data não perdem os mandatos.
@@ -766,7 +765,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 31	NAT->STR	N	N	A casa também tem oito cachorros -- contou Luciano.	A casa também tem oito cachorros -- contou Luciano.
 31	NAT->STR	S	N	Depois de uma hora no local, o apresentador, a família e toda a produção partiram rumo à Redenção.	Depois de uma hora no local, o apresentador, a família e toda a produção foram para a Redenção.
 31	NAT->STR	N	N	O objetivo era gravar a segunda parte do programa.	O objetivo era gravar a segunda parte do programa.
-31	NAT->STR	S	N	A segunda parte era a prova que definiu quem acompanhará a reforma da casa junto com o arquiteto Marcelo Rosenbaum.	A segunda parte era a prova para definir quem acompanhará a reforma da casa junto com o arquiteto Marcelo Rosenbaum.
 31	NAT->STR	N	N	Três integrantes com os olhos vendados tiveram de percorrer um trecho do lago em pedalinhos individuais.	Três integrantes com os olhos vendados tiveram de percorrer um trecho do lago em pedalinhos individuais.
 31	NAT->STR	N	N	Eles percorreram o trecho do lago sob a orientação do apresentador e da mãe da família.	Eles percorreram o trecho do lago sob a orientação do apresentador e da mãe da família.
 31	NAT->STR	S	N	Três funcionários da equipe acompanharam cada participante durante o desafio.	Três funcionários da equipe acompanharam cada participante durante do desafio.
@@ -1150,7 +1148,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 43	NAT->STR	N	N	O público comum ficará limitado à galeria superior.	O público comum ficará limitado à galeria superior.
 43	NAT->STR	N	N	Na opinião de Raul Pont, a decisão da mesa é apressada.	Na opinião de Raul Pont, a decisão da mesa é apressada.
 43	NAT->STR	N	N	Raul Pont é líder da bancada do PT.	Raul Pont é líder da bancada do PT.
-43	NAT->STR	S	N	Raul Pont diz que a invasão do plenário não pode servir como regra para estabelecer limitações.	Raul Pont diz que a invasão do plenário não pode servir de regra para estabelecer limitações.
 43	NAT->STR	N	N	-- Temos de discutir melhor o assunto.	-- Temos de discutir melhor o assunto.
 43	NAT->STR	N	N	Na minha opinião, temos de avaliar caso a caso.	Na minha opinião, temos de avaliar caso a caso.
 43	NAT->STR	S	N	Se concordarmos que em uma ou outra sessão pode ocorrer um problema, teremos a sensibilidade de tratar o caso individualmente -- destacou Pont.	Se concordarmos que em uma ou outra sessão pode ocorrer um problema, teremos a sensibilidade de tratar o caso separadamente -- destacou Pont.
@@ -1299,7 +1296,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 47	NAT->STR	N	N	-- Ele é muito jovem.	-- Ele é muito jovem.
 47	NAT->STR	N	N	Mas é um homem muito inteligente.	Mas é um homem muito inteligente.
 47	NAT->STR	N	N	Ele é uma pessoa moderada.	Ele é uma pessoa moderada.
-47	NAT->STR	S	N	Ele é conhecido por ser um bom administrador -- afirmou o monsenhor Stefano Migliorelli.	Nós o conhecemos como bom administrador -- afirmou o monsenhor Stefano Migliorelli.
 47	NAT->STR	N	N	O monsenhor é chefe da seção brasileira da Secretaria de Estado do Vaticano.	O monsenhor é chefe da seção brasileira da Secretaria de Estado do Vaticano.
 47	NAT->STR	S	N	Dom Odilo foi indicado pelo papa para ser arcebispo de São Paulo em março.	Em março, o papa indicou dom Odilo para ser arcebispo de São Paulo.
 47	NAT->STR	N	N	Antes disso, ele ocupava o cargo de secretário-geral da Conferência Nacional dos Bispos do Brasil.	Antes disso, ele ocupava o cargo de secretário-geral da Conferência Nacional dos Bispos do Brasil.
@@ -1742,7 +1738,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 60	NAT->STR	N	N	Ele tem US$ 1,5 bilhão.	Ele tem US$ 1,5 bilhão.
 60	NAT->STR	N	N	Apontam Sicupira como o 606º mais rico.	Apontam Sicupira como o 606º mais rico.
 60	NAT->STR	N	N	Ele tem US$ 1,3 bilhão.	Ele tem US$ 1,3 bilhão.
-61	NAT->STR	S	N	O presidente do Irã é Mahmoud Ahmadinejad.	O presidente do Irã Mahmoud Ahmadinejad disse ontem que considera que o Conselho de Segurança da Organização das Nações Unidas não vai impor penas ao país em virtude de seu programa nuclear.
 61	NAT->STR	S	N	Ele disse ontem que considera que o Conselho de Segurança da Organização das Nações Unidas não vai impor castigos ao país por causa de seu programa nuclear.	O presidente do Irã Mahmoud Ahmadinejad disse ontem que considera que o Conselho de Segurança da Organização das Nações Unidas não vai impor penas ao país em virtude de seu programa nuclear.
 61	NAT->STR	N	N	Essa foi uma atitude de claro desafio ao Ocidente.	Essa foi uma atitude de claro desafio ao Ocidente.
 61	NAT->STR	N	N	Ahmadinejad afirmou também não acreditar que os EUA e outros países ataquem o Irã.	Ahmadinejad afirmou também não acreditar que os EUA e outros países ataquem o Irã.
@@ -1777,7 +1772,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 62	NAT->STR	S	N	Pela manhã, um jegue saiu na frente do protesto de entidades de empresas e da comunidade em uma manifestação na Rua Júlio de Castilhos, em Lajeado.	Pela manhã, um burro saiu na frente do protesto de entidades de empresas e da comunidade em uma manifestação na Rua Júlio de Castilhos, em Lajeado.
 62	NAT->STR	N	N	O burro simbolizava o consumidor e a alta carga de impostos que o brasileiro paga.	O burro simbolizava o consumidor e a alta carga de impostos que o brasileiro paga.
 62	NAT->STR	N	N	A manifestação parou uma das principais vias da cidade por cerca de uma hora.	A manifestação parou uma das principais vias da cidade por cerca de uma hora.
-62	NAT->STR	S	N	O ministro da Fazenda é Guido Mantega.	O ministro da Fazenda Guido Mantega participou ontem de um encontro de governadores em Fortaleza.
 62	NAT->STR	S	N	Ontem, ele participou de um encontro de governadores em Fortaleza.	O ministro da Fazenda Guido Mantega participou ontem de um encontro de governadores em Fortaleza.
 62	NAT->STR	N	N	Em seguida, disse que até o início do próximo semestre o projeto de reforma dos impostos será enviado ao Congresso Nacional.	Em seguida, disse que até o início do próximo semestre o projeto de reforma dos impostos será enviado ao Congresso Nacional.
 62	NAT->STR	N	N	De acordo com o ministro, a discussão sobre o assunto tem avançado.	De acordo com o ministro, a discussão sobre o assunto tem avançado.
@@ -1821,7 +1815,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 64	NAT->STR	S	N	Eles são concedidos a todos os políticos que já ocuparam a presidência.	Eles são dados a todos os políticos que já ocuparam a presidência.
 64	NAT->STR	S	N	O advogado de Collor é Fernando Neves da Silva.	O advogado de Collor, Fernando Neves da Silva, disse que o ex-presidente pediu que funcionários, veículos e motoristas sejam colocados a sua disposição, pagos com dinheiro da presidência.
 64	NAT->STR	S	N	Ele disse que o ex-presidente pediu que funcionários, veículos e motoristas sejam colocados a sua disposição.	O advogado de Collor, Fernando Neves da Silva, disse que o ex-presidente pediu que funcionários, veículos e motoristas sejam colocados a sua disposição, pagos com dinheiro da presidência.
-64	NAT->STR	S	N	Todos pagos com dinheiro da presidência.	O advogado de Collor, Fernando Neves da Silva, disse que o ex-presidente pediu que funcionários, veículos e motoristas sejam colocados a sua disposição, pagos com dinheiro da presidência.
 64	NAT->STR	S	N	Ele aguarda definição da Casa Civil da Presidência.	Aguarda definição da Casa Civil da Presidência.
 64	NAT->STR	N	N	-- Collor tem direito como ex-presidente da República -- sustenta o advogado.	-- Collor tem direito como ex-presidente da República -- sustenta o advogado.
 64	NAT->STR	N	N	Collor diz que vai morar em apartamento destinado a senadores.	Collor diz que vai morar em apartamento destinado a senadores.
@@ -3320,7 +3313,6 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 126	NAT->STR	N	N	Os camundongos com essa alteração do gene comeram até 54% mais que os camundongos normais.	Os camundongos com essa alteração do gene comeram até 54% mais que os camundongos normais.
 126	NAT->STR	N	N	Mas pesaram até 23% menos que seus companheiros.	Mas pesaram até 23% menos que seus companheiros.
 126	NAT->STR	S	S	A porcentagem de gordura sobre o volume total do corpo dos bichos também diminuiu -- nos machos, em 44%;	A quantidade de gordura no volume total do corpo dos bichos também diminuiu.  A quantidade de gordura diminuiu 44% nos machos.
-126	NAT->STR	S	N	Nas fêmeas, em 57%.	A quantidade de gordura diminuiu 57% nas fêmeas.
 126	NAT->STR	N	N	Sua atividade física não foi diferente em relação à dos camundongos normais.	Sua atividade física não foi diferente em relação à dos camundongos normais.
 126	NAT->STR	S	N	Isso quer dizer que os camundongos transgênicos reduziram a gordura de seu corpo sem fazer ginástica.	Isso significa que os camundongos transgênicos reduziram a gordura de seu corpo sem fazer ginástica.
 126	NAT->STR	N	N	Os animais magros consumiram mais energia até para respirar.	Os animais magros consumiram mais energia até para respirar.
