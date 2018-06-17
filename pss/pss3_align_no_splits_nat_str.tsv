@@ -124,9 +124,9 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 5	NAT->STR	S	N	Quatro meses antes da eleição de 1º de outubro, a maioria dos partidos ainda não escolheu os candidatos para a disputa pelo Palácio Piratini.	Faltando quatro meses para a eleição de 1º de outubro, a maioria dos partidos ainda não escolheu os candidatos que vão disputar a vaga para governador do Estado.
 5	NAT->STR	N	N	Isso causou o cenário mais variável dos últimos anos.	Isso causou o cenário mais variável dos últimos anos.
 5	NAT->STR	N	N	Nesta época em 2002, os candidatos já estavam em campo.	Nesta época em 2002, os candidatos já estavam em campo.
-5	NAT->STR	S	N	Celso Berardi disparava críticas contra o secretário da Justiça e da Segurança daquela época.	Celso Bernardi disparava críticas contra o secretário da Justiça e da Segurança daquela época.
+5	NAT->STR	N	N	Celso Bernardi disparava críticas contra o secretário da Justiça e da Segurança daquela época.	Celso Bernardi disparava críticas contra o secretário da Justiça e da Segurança daquela época.
 5	NAT->STR	N	N	Celso Bernardi é do PP.	Celso Bernardi é do PP.
-5	NAT->STR	S	N	O Pp antigamente se chamava PPB.	O PP antigamente se chamava PPB.
+5	NAT->STR	N	N	O PP antigamente se chamava PPB.	O PP antigamente se chamava PPB.
 5	NAT->STR	N	N	O secretário da Justiça e da Segurança era José Paulo Bisol.	O secretário da Justiça e da Segurança era José Paulo Bisol.
 5	NAT->STR	N	N	Denise Kempf era vice de Bernardi.	Denise Kempf era vice de Bernardi.
 5	NAT->STR	N	N	O PP de hoje apresenta o deputado federal Francisco Turra como concorrente.	O PP de hoje apresenta o deputado federal Francisco Turra como concorrente.
@@ -139,7 +139,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 5	NAT->STR	S	N	O PPS tenta fazer uma aliança em torno do deputado federal Nelson Proença.	O PPS tenta fazer uma aliança em torno do deputado Nelson Proença.
 5	NAT->STR	N	N	Novas regras eleitorais tornam o entendimento mais difícil.	Novas regras eleitorais tornam o entendimento mais difícil.
 5	NAT->STR	N	N	Para os analistas políticos, a indecisão eleitoral de 2006 é resultado do encontro de muitos fatores.	Para os analistas políticos, a indecisão eleitoral de 2006 é resultado do encontro de muitos fatores.
-5	NAT->STR	N	N	O cientista político Paulo Moura observa que a participação do governador Germano Rigotto e do senador Pedro Simon na briga pela candidatura própria do PMDB a presidente congelou os entendimentos no Estado.	O cientista político Paulo Moura observa que a participação do governador Germano Rigotto e do senador Pedro Simon na briga pela candidatura própria do PMDB a presidente congelou os entendimentos no Estado.
+5	NAT->STR	N	N	O cientista político Paulo Moura observa que a participação do governador Germano Rigotto e do senador Pedro Simon na briga pela candidatura própria do PMDB a presidente congelou os entendimentos no estado.	O cientista político Paulo Moura observa que a participação do governador Germano Rigotto e do senador Pedro Simon na briga pela candidatura própria do PMDB a presidente congelou os entendimentos no estado.
 5	NAT->STR	S	N	Moura lembra que Rigotto também provocou incertezas nos aliados ao assumir que buscaria a reeleição apenas no final de abril.	Moura lembra que Rigotto também provocou incertezas nos aliados quando assumiu que buscaria a reeleição apenas no final de abril.
 5	NAT->STR	N	N	O cientista político André Marenco afirma que a Justiça Eleitoral tem sido rigorosa sobre a propaganda antes do prazo legal.	O cientista político André Marenco afirma que a Justiça Eleitoral tem sido rigorosa sobre a propaganda antes do prazo legal.
 5	NAT->STR	S	N	O cientista político André Marenco afirma que a verticalização impôs aos partidos o ajuste entre nacionais e regionais.	O cientista político André Marenco afirma que a verticalização obrigou os partidos a fazer ajustes entre nacionais e regionais.
@@ -164,7 +164,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 6	NAT->STR	S	N	Os servidores da Assembléia Legislativa dizem que essa situação pode abrir brechas para irregularidades.	Os servidores da Assembléia Legislativa dizem que essa situação pode facilitar irregularidades.
 6	NAT->STR	N	N	Uma das irregularidades foi a fraude dos selos.	Uma das irregularidades foi a fraude dos selos.
 6	NAT->STR	S	N	A fraude dos selos deixou um rombo de pelo menos R$ 3,3 milhões na Assembléia Legislativa.	A fraude dos selos deixou um prejuízo de pelo menos R$ 3,3 milhões na Assembléia Legislativa.
-6	NAT->STR	N	N	O presidente da Assembléia Legislativa é Frederico Antunes do Pp..	O presidente da Assembléia Legislativa é Frederico Antunes do Pp..
+6	NAT->STR	N	N	O presidente da Assembléia Legislativa é Frederico Antunes do PP.	O presidente da Assembléia Legislativa é Frederico Antunes do PP.
 6	NAT->STR	N	N	A Assembléia Legislativa tem em torno de 160 contratos para serem analisados.	A Assembléia Legislativa tem em torno de 160 contratos para serem analisados.
 6	NAT->STR	S	N	Antunes vai apresentar o relatório hoje à Mesa Diretora.	Antunes vai apresentar o relatório à Mesa Diretora hoje.
 6	NAT->STR	N	N	Depois, Antunes vai adotar novas medidas para conter e controlar os gastos.	Depois, Antunes vai adotar novas medidas para conter e controlar os gastos.
@@ -196,13 +196,13 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 7	NAT->STR	N	N	O Cptec é ligado ao Instituto Nacional de Pesquisas Espaciais (Inpe).	O Cptec é ligado ao Instituto Nacional de Pesquisas Espaciais (Inpe).
 7	NAT->STR	N	N	Esse padrão se manteve no início de janeiro.	Esse padrão se manteve no início de janeiro.
 7	NAT->STR	N	N	Esse padrão tornou muito quentes os primeiros dias do ano.	Esse padrão tornou muito quentes os primeiros dias do ano.
-7	NAT->STR	S	N	No dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho.	no dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho.
+7	NAT->STR	N	N	No dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho.	No dia 17, Campo Bom teve 40,8 C, apenas 1,8 C abaixo do recorde gaúcho.
 7	NAT->STR	N	N	A falta de chuvas intensas e freqüentes é uma das razões apontadas para o Sul arder com as altas temperaturas.	A falta de chuvas intensas e freqüentes é uma das razões apontadas para o Sul arder com as altas temperaturas.
 7	NAT->STR	N	N	As frentes frias acabam concentrando a chuva na Região Sudeste.	As frentes frias acabam concentrando a chuva na Região Sudeste.
 7	NAT->STR	N	N	Isso faz soprar mais vento quente do Norte.	Isso faz soprar mais vento quente do Norte.
 7	NAT->STR	N	N	Isso aumenta ainda mais a temperatura.	Isso aumenta ainda mais a temperatura.
 7	NAT->STR	N	N	Isso foi o que disse Flávio Varone.	Isso foi o que disse Flávio Varone.
-7	NAT->STR	S	N	Flávio Varone é do 8o Distrito de Meteorologia.	Flávio Varone é do 8º Distrito de Meteorologia.
+7	NAT->STR	N	N	Flávio Varone é do 8º Distrito de Meteorologia.	Flávio Varone é do 8º Distrito de Meteorologia.
 7	NAT->STR	S	N	O meteorologista do Cptec Lincoln Alves afirma que ventos na alta atmosfera estão soprando com menor intensidade do Pacífico Sul rumo ao Brasil.	O meteorologista do Cptec Lincoln Alves afirma que ventos na alta atmosfera estão soprando com menor intensidade do Pacífico Sul para o Brasil.
 7	NAT->STR	N	N	Isso estaria contribuindo para as frentes frias passarem rapidamente.	Isso estaria contribuindo para as frentes frias passarem rapidamente.
 7	NAT->STR	N	N	Lincoln Alves explica:	Lincoln Alves explica:
@@ -253,12 +253,12 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 10	NAT->STR	N	N	Muita gente ficou trancada por mais tempo que eu.	Muita gente ficou trancada por mais tempo que eu.
 10	NAT->STR	S	N	A neblina não se limitou à Capital:	A neblina não ficou só na Capital:
 10	NAT->STR	S	N	Cobriu as cidades de Santa Maria, Santo Ângelo e Pelotas, segundo a Central de Meteorologia.	A Central de Meteorologia afirma que a neblina cobriu as cidades de Santa Maria, Santo Ângelo e Pelotas.
-10	NAT->STR	N	N	Ontem, Bom Jesus teve a temperatura mínima no Estado.	Ontem, Bom Jesus teve a temperatura mínima no Estado.
+10	NAT->STR	N	N	Ontem, Bom Jesus teve a temperatura mínima no estado.	Ontem, Bom Jesus teve a temperatura mínima no estado.
 10	NAT->STR	N	N	Bom Jesus fica na Serra.	Bom Jesus fica na Serra.
-10	NAT->STR	N	N	A temperatura mínima no Estado foi de 6,4 graus.	A temperatura mínima no Estado foi de 6,4 graus.
+10	NAT->STR	N	N	A temperatura mínima no estado foi de 6,4 graus.	A temperatura mínima no estado foi de 6,4 graus.
 10	NAT->STR	N	N	Os termômetros caíram para 13,1 graus em Porto Alegre.	Os termômetros caíram para 13,1 graus em Porto Alegre.
 10	NAT->STR	S	N	Os gaúchos deverão encontrar neblina ao acordar pelo menos até sexta-feira.	Os gaúchos deverão ver neblina ao acordar pelo menos até sexta-feira.
-10	NAT->STR	N	N	O meteorologista Leandro Puchalski prevê que o clima de ontem se repita hoje e nos próximos dois dias no Estado.	O meteorologista Leandro Puchalski prevê que o clima de ontem se repita hoje e nos próximos dois dias no Estado.
+10	NAT->STR	N	N	O meteorologista Leandro Puchalski prevê que o clima de ontem se repita hoje e nos próximos dois dias no estado.	O meteorologista Leandro Puchalski prevê que o clima de ontem se repita hoje e nos próximos dois dias no estado.
 10	NAT->STR	N	N	Leandro Puchalski é da Central de Meteorologia.	Leandro Puchalski é da Central de Meteorologia.
 10	NAT->STR	N	N	O sol deverá aparecer durante a maior parte das manhãs.	O sol deverá aparecer durante a maior parte das manhãs.
 10	NAT->STR	N	N	As temperaturas mínimas vão variar entre 12 C e 14 C na maior parte do Estado.	As temperaturas mínimas vão variar entre 12 C e 14 C na maior parte do Estado.
@@ -347,7 +347,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 14	NAT->STR	N	N	Elas estão fora da competição, porque são o que restou das Sete Maravilhas da Antigüidade.	Elas estão fora da competição, porque são o que restou das Sete Maravilhas da Antigüidade.
 14	NAT->STR	N	N	Elas seriam a oitava maravilha.	Elas seriam a oitava maravilha.
 14	NAT->STR	N	N	O empresário e cineasta suíço Bernard Weber organizou a campanha para escolher as sete maravilhas do mundo moderno.	O empresário e cineasta suíço Bernard Weber organizou a campanha para escolher as sete maravilhas do mundo moderno.
-14	NAT->STR	S	N	Bernard Weber afirma que foi incentivado a defender a preservação do patrimônio histórico depois da destruição dos budas gigantes de Bamiyan.	Bernard weber afirma que foi incentivado a defender a preservação do patrimônio histórico depois da destruição dos budas gigantes de Bamiyan.
+14	NAT->STR	N	N	Bernard Weber afirma que foi incentivado a defender a preservação do patrimônio histórico depois da destruição dos budas gigantes de Bamiyan.	Bernard Weber afirma que foi incentivado a defender a preservação do patrimônio histórico depois da destruição dos budas gigantes de Bamiyan.
 14	NAT->STR	N	N	Os budas gigantes ficavam no Afeganistão.	Os budas gigantes ficavam no Afeganistão.
 14	NAT->STR	N	N	Os talibãs destruíram os budas gigantes em 2001.	Os talibãs destruíram os budas gigantes em 2001.
 14	NAT->STR	N	N	A campanha parecia uma simples jogada comercial.	A campanha parecia uma simples jogada comercial.
@@ -382,7 +382,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 17	NAT->STR	N	N	O velório está previsto para sábado.	O velório está previsto para sábado.
 17	NAT->STR	N	N	Pavarotti deverá ficar na memória de muita gente como uma figura de barba e corpo forte.	Pavarotti deverá ficar na memória de muita gente como uma figura de barba e corpo forte.
 17	NAT->STR	N	N	Uma figura acostumada a soltar sua voz muito grave e forte diante de platéias numerosas em teatros ou estádios de futebol.	Uma figura acostumada a soltar sua voz muito grave e forte diante de platéias numerosas em teatros ou estádios de futebol.
-17	NAT->STR	S	N	Nessas ocasiões, cantava temas como O Sole Mio ou Nessun Dorma.	Nessas ocasiões, cantava temas como O Sole Mio ou Dessun Norma.
+17	NAT->STR	S	N	Nessas ocasiões, cantava temas como O Sole Mio ou Nessun Dorma.	Nessas ocasiões, cantava temas como O Sole Mio ou Nessun Norma.
 17	NAT->STR	N	N	Pavarotti também deverá ficar na memória de muita gente como a terça parte do grupo mais popular do circuito erudito.	Pavarotti também deverá ficar na memória de muita gente como a terça parte do grupo mais popular do circuito erudito.
 17	NAT->STR	N	N	Esse grupo se chamava os Três Tenores.	Esse grupo se chamava os Três Tenores.
 17	NAT->STR	N	N	Os Três Tenores fizeram sucesso mundial em discos e turnês.	Os Três Tenores fizeram sucesso mundial em discos e turnês.
@@ -532,7 +532,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 23	NAT->STR	N	N	Foi colocada uma grade em volta da fonte para evitar a ação dos destruidores.	Foi colocada uma grade em volta da fonte para evitar a ação dos destruidores.
 23	NAT->STR	N	N	Não adiantou.	Não adiantou.
 23	NAT->STR	N	N	O novo projeto prevê uma proteção maior.	O novo projeto prevê uma proteção maior.
-23	NAT->STR	S	N	-- É difícil para com a destruição.	-- É difícil parar com a destruição.
+23	NAT->STR	N	N	-- É difícil parar com a destruição.	-- É difícil parar com a destruição.
 27	NAT->STR	S	N	A explosão de uma bomba nuclear no subsolo do país aconteceu ao mesmo tempo que a indicação de um diplomata da Coréia do Sul para substituir Kofi Annan no cargo de secretário-geral da Organização das Nações Unidas.	A explosão de uma bomba nuclear no subsolo da Coréia do Norte aconteceu ao mesmo tempo que a indicação de um diplomata da Coréia do Sul para substituir Kofi Annan no cargo de secretário-geral da Organização das Nações Unidas.
 27	NAT->STR	N	N	A Coréia do Sul é um país inimigo da Coréia do Norte.	A Coréia do Sul é um país inimigo da Coréia do Norte.
 27	NAT->STR	N	N	A ousadia deve isolar ainda mais a Coréia do Norte.	A ousadia deve isolar ainda mais a Coréia do Norte.
@@ -667,7 +667,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 30	NAT->STR	N	N	Na fila, os fiéis que vêm de várias partes do país compartilham suas histórias.	Na fila, os fiéis que vêm de várias partes do país compartilham suas histórias.
 30	NAT->STR	S	N	A maioria das histórias é exagerada aos olhos da ciência.	A maioria delas é exagerada aos olhos da ciência.
 30	NAT->STR	N	N	Mas as histórias são totalmente possíveis diante da fé.	Mas as histórias são totalmente possíveis diante da fé.
-30	NAT->STR	S	N	Edna Angela Fernandes saiu de Fernandópolis para buscar as pílulas para um amigo.	Edna angela fernandes saiu de Fernandópolis para buscar as pílulas para um amigo.
+30	NAT->STR	N	N	Edna Angela Fernandes saiu de Fernandópolis para buscar as pílulas para um amigo.	Edna Angela Fernandes saiu de Fernandópolis para buscar as pílulas para um amigo.
 30	NAT->STR	N	N	Edna tem 47 anos.	Edna tem 47 anos.
 30	NAT->STR	N	N	Fernandópolis fica no interior paulista.	Fernandópolis fica no interior paulista.
 30	NAT->STR	N	N	O amigo de Edna tem um tumor no cérebro.	O amigo de Edna tem um tumor no cérebro.
@@ -735,7 +735,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 33	NAT->STR	N	N	O administrador do parque é Clovis Breda.	O administrador do parque é Clovis Breda.
 33	NAT->STR	S	N	Breda contou com a ajuda de 120 confeiteiros mirins para preparar a refeição.	Cento e vinte confeiteiros mirins ajudaram Breda a preparar a refeição.
 33	NAT->STR	N	N	Os alunos de quatro colégios públicos da Capital discutiram idéias, colocaram luvas e afundaram as mãos nos ingredientes.	Os alunos de quatro colégios públicos da Capital discutiram idéias, colocaram luvas e afundaram as mãos nos ingredientes.
-33	NAT->STR	S	N	Maximiliano Nunes dos santos fez parte da turma que preparou um prato para os ratões-do-banhado.	Maximiliano nunes dos santos fez parte da turma que preparou um prato para os ratões-do-banhado.
+33	NAT->STR	S	N	Maximiliano Nunes dos Santos fez parte da turma que preparou um prato para os ratões-do-banhado.	Maximiliano nunes dos Santos fez parte da turma que preparou um prato para os ratões-do-banhado.
 33	NAT->STR	N	N	Maximiliano tem 11 anos.	Maximiliano tem 11 anos.
 33	NAT->STR	S	N	Ele é aluno da Escola Municipal de Ensino Fundamental Professor Anísio Teixeira.	Maximiliano é aluno da Escola Municipal de Ensino Fundamental Professor Anísio Teixeira.
 33	NAT->STR	S	N	-- Isso mostra que a gente precisa cuidar dos bichos e não botar salgadinho ou bala para eles -- explicou.	-- A gente precisa cuidar dos bichos e não botar salgadinho ou bala para eles -- explicou.
@@ -757,7 +757,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 34	NAT->STR	N	N	-- La Niña começou de forma rápida.	-- La Niña começou de forma rápida.
 34	NAT->STR	S	N	Mas terá efeito fraco a moderado -- afirma Pesqueiro.	Mas terá efeito fraco a moderado -- afirma.
 34	NAT->STR	N	N	Obstáculo atmosférico fez frente fria estacionar no RS.	Obstáculo atmosférico fez frente fria estacionar no RS.
-34	NAT->STR	N	N	As tendências do inverno no Estado reforçam a previsão.	As tendências do inverno no Estado reforçam a previsão.
+34	NAT->STR	N	N	As tendências do inverno no estado reforçam a previsão.	As tendências do inverno no estado reforçam a previsão.
 34	NAT->STR	N	N	O Rio Grande do Sul terá temperatura e chuva próximas das médias históricas entre julho e setembro.	O Rio Grande do Sul terá temperatura e chuva próximas das médias históricas entre julho e setembro.
 34	NAT->STR	N	N	O inverno será mais rigoroso.	O inverno será mais rigoroso.
 34	NAT->STR	N	N	O fenômeno está em formação.	O fenômeno está em formação.
@@ -765,7 +765,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 34	NAT->STR	S	N	A chuva foi impedida por uma massa de ar seco sobre Santa Catarina.	Uma massa de ar seco sobre Santa Catarina impediu a chuva.
 34	NAT->STR	N	N	Fernando Nunes é da Central de Meteorologia.	Fernando Nunes é da Central de Meteorologia.
 34	NAT->STR	N	N	A Central de Meteorologia espera que a frente fria fique estacionada em solo gaúcho até sexta-feira.	A Central de Meteorologia espera que a frente fria fique estacionada em solo gaúcho até sexta-feira.
-34	NAT->STR	S	N	Por isso, a Secretaria Nacional da Defesa Civil e a Defesa Civil estadual mantêm o alerta para hoje.	Por isso, a Secretaria Nacional da Defesa Civil e a Defesa Civil Estadual mantêm o alerta para hoje.
+34	NAT->STR	N	N	Por isso, a Secretaria Nacional da Defesa Civil e a Defesa Civil Estadual mantêm o alerta para hoje.	Por isso, a Secretaria Nacional da Defesa Civil e a Defesa Civil Estadual mantêm o alerta para hoje.
 34	NAT->STR	N	N	A Defesa Civil acredita na possibilidade de novos temporais.	A Defesa Civil acredita na possibilidade de novos temporais.
 34	NAT->STR	N	N	Os temporais terão raios e ventos de até 60 km/h.	Os temporais terão raios e ventos de até 60 km/h.
 34	NAT->STR	N	N	O centro-sul do Estado ainda parece o mais ameaçado.	O centro-sul do Estado ainda parece o mais ameaçado.
@@ -773,7 +773,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 35	NAT->STR	N	N	O novo ano se inicia logo após o pôr do sol.	O novo ano se inicia logo após o pôr do sol.
 35	NAT->STR	S	N	Celebrações vão marcar o primeiro dia do novo ano nas sete sinagogas da Capital e nos quatro templos do Interior.	Comemorações vão marcar o primeiro dia do novo ano nas sete sinagogas da Capital e nos quatro templos do Interior.
 35	NAT->STR	N	N	O início do ano é chamado de Rosh Hashaná em hebraico.	O início do ano é chamado de Rosh Hashaná em hebraico.
-35	NAT->STR	S	N	Rosh Hashaná é uma das datas mais importantes da religião.	Rosh hashaná é uma das datas mais importantes da religião.
+35	NAT->STR	N	N	Rosh Hashaná é uma das datas mais importantes da religião.	Rosh Hashaná é uma das datas mais importantes da religião.
 35	NAT->STR	N	N	A tradição judaica afirma que o Rosh Hashaná marca a criação do homem.	A tradição judaica afirma que o Rosh Hashaná marca a criação do homem.
 35	NAT->STR	N	N	O Rosh Hashaná vem antes do Yom Kipur.	O Rosh Hashaná vem antes do Yom Kipur.
 35	NAT->STR	N	N	O Yom Kipur é o Dia do Perdão.	O Yom Kipur é o Dia do Perdão.
@@ -907,7 +907,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 38	NAT->STR	N	N	Encontraram os marinheiros mortos perto de Tuzla.	Encontraram os marinheiros mortos perto de Tuzla.
 38	NAT->STR	N	N	Tuzla fica na margem oeste do estreito.	Tuzla fica na margem oeste do estreito.
 38	NAT->STR	N	N	Outros cinco continuavam sumidos.	Outros cinco continuavam sumidos.
-38	NAT->STR	S	N	As autoridades da região dizem que grande parte o óleo que está na superfície do mar poderá congelar no inverno.	As autoridades da região dizem que grande parte do óleo que está na superfície do mar poderá congelar no inverno.
+38	NAT->STR	N	N	As autoridades da região dizem que grande parte do óleo que está na superfície do mar poderá congelar no inverno.	As autoridades da região dizem que grande parte do óleo que está na superfície do mar poderá congelar no inverno.
 38	NAT->STR	N	N	O inverno se aproxima no Hemisfério Norte.	O inverno se aproxima no Hemisfério Norte.
 38	NAT->STR	N	N	O óleo congelado na superfície marítima se transforma em gotas que mergulham no fundo do mar e causam uma poluição maior.	O óleo congelado na superfície marítima se transforma em gotas que mergulham no fundo do mar e causam uma poluição maior.
 38	NAT->STR	N	N	Os trabalhos de limpeza já começaram.	Os trabalhos de limpeza já começaram.
@@ -1080,13 +1080,13 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 43	NAT->STR	N	N	Só espero que essa decisão de limitação parcial ao plenário seja provisória -- defendeu Raul Carrion.	Só espero que essa decisão de limitação parcial ao plenário seja provisória -- defendeu Raul Carrion.
 43	NAT->STR	N	N	Raul Carrion é o líder da bancada do PC do B.	Raul Carrion é o líder da bancada do PC do B.
 43	NAT->STR	N	N	O protesto dos sindicalistas provocou reações duras na base do governo.	O protesto dos sindicalistas provocou reações duras na base do governo.
-43	NAT->STR	S	N	Em declaração na tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior defendeu a punição aos invasores do plenário da Assembléia.	Em declaração na tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior defendeu a punição dos invasores do plenário da Assembléia.
+43	NAT->STR	N	N	Em declaração na tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior defendeu a punição dos invasores do plenário da Assembléia.	Em declaração na tribuna da Assembléia, o deputado estadual Nelson Marchezan Júnior defendeu a punição dos invasores do plenário da Assembléia.
 43	NAT->STR	N	N	Nelson Marchezan júnior é do PSDB.	Nelson Marchezan júnior é do PSDB.
 43	NAT->STR	N	N	-- O acontecimento não foi manifestação.	-- O acontecimento não foi manifestação.
 43	NAT->STR	N	N	O acontecimento foi crime.	O acontecimento foi crime.
 43	NAT->STR	N	N	Tem de haver punição para o crime -- afirmou.	Tem de haver punição para o crime -- afirmou.
-43	NAT->STR	N	N	José sperotto também criticou a participação de professores no protesto.	José sperotto também criticou a participação de professores no protesto.
-43	NAT->STR	N	N	José sperotto é o líder do Democratas.	José sperotto é o líder do Democratas.
+43	NAT->STR	N	N	José Sperotto também criticou a participação de professores no protesto.	José Sperotto também criticou a participação de professores no protesto.
+43	NAT->STR	N	N	José Sperotto é o líder do Democratas.	José Sperotto é o líder do Democratas.
 43	NAT->STR	N	N	O deputado disse que houve uma ausência de respeito por parte dos educadores.	O deputado disse que houve uma ausência de respeito por parte dos educadores.
 43	NAT->STR	N	N	-- Colocamos nossos filhos nas mãos deles.	-- Colocamos nossos filhos nas mãos deles.
 43	NAT->STR	N	N	Eles são os representantes da classe dos educadores.	Eles são os representantes da classe dos educadores.
@@ -1096,7 +1096,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 43	NAT->STR	N	N	A governadora decidiu cancelar a audiência depois da invasão organizada pela entidade.	A governadora decidiu cancelar a audiência depois da invasão organizada pela entidade.
 43	NAT->STR	N	N	-- Cancelei a audiência em nome da educação.	-- Cancelei a audiência em nome da educação.
 43	NAT->STR	S	N	O que eles fizeram não é educação, não é exemplo para seus alunos -- resumiu a governadora.	O que eles fizeram não é exemplo para seus alunos -- resumiu a governadora.
-43	NAT->STR	S	N	Outra decisão da mesa diretora ordena o envio das imagens de vídeo e de fotografias da invasão do plenário para a polícia.	Outra decisão da mesa diretora ordena o envio das imagens de vídeo e das fotografias da invasão do plenário para a polícia.
+43	NAT->STR	N	N	Outra decisão da mesa diretora ordena o envio das imagens de vídeo e de fotografias da invasão do plenário para a polícia.	Outra decisão da mesa diretora ordena o envio das imagens de vídeo e de fotografias da invasão do plenário para a polícia.
 43	NAT->STR	N	N	O deputado Frederico Antunes anunciou ontem essa decisão.	O deputado Frederico Antunes anunciou ontem essa decisão.
 43	NAT->STR	N	N	Frederico Antunes é do PP.	Frederico Antunes é do PP.
 43	NAT->STR	N	N	O envio das imagens servirá para identificar as pessoas responsáveis pelo estímulo à invasão e pela invasão da Assembléia.	O envio das imagens servirá para identificar as pessoas responsáveis pelo estímulo à invasão e pela invasão da Assembléia.
@@ -1153,7 +1153,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 45	NAT->STR	S	N	Temos área física limitada -- diz Günter Melchiors.	Temos área física pequena -- diz Günter Melchiors.
 45	NAT->STR	S	N	Günter melchiors é administrador do hospital.	Günter melchiors administra o hospital.
 45	NAT->STR	N	N	O hospital tem 55 leitos.	O hospital tem 55 leitos.
-45	NAT->STR	S	N	Todo o leitos estavam ocupados ontem.	Todos os leitos estavam ocupados ontem.
+45	NAT->STR	S	N	Todo os leitos estavam ocupados ontem.	Todos os leitos estavam ocupados ontem.
 45	NAT->STR	S	N	Pouco antes do meio-dia, a professora estadual Imeldis Andrighetti recebeu em casa o segundo exame que indica que ela apresenta o vírus.	Pouco antes do meio-dia, a professora Imeldis Andrighetti recebeu em casa o segundo exame que indica que ela apresenta o vírus.
 45	NAT->STR	S	N	Imeldis Andrighetti tem 47 anos.	Imeldis andrighetti tem 47 anos.
 45	NAT->STR	N	N	Ela recebeu o exame do Laboratório Ritt.	Ela recebeu o exame do Laboratório Ritt.
@@ -1271,7 +1271,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 48	NAT->STR	N	N	Os EUA já usaram 80% dos calçados vendidos ao exterior.	Os EUA já usaram 80% dos calçados vendidos ao exterior.
 48	NAT->STR	N	N	Mas hoje só usam 40% do total.	Mas hoje só usam 40% do total.
 48	NAT->STR	N	N	Do outro lado do balcão, os produtores de vinho ensaiam um brinde à crise.	Do outro lado do balcão, os produtores de vinho ensaiam um brinde à crise.
-48	NAT->STR	S	N	Antônio Salton é presidente da União Brasileira de Vitivinicultura.	Antônio salton é presidente da União Brasileira de Vitivinicultura.
+48	NAT->STR	N	N	Antônio Salton é presidente da União Brasileira de Vitivinicultura.	Antônio Salton é presidente da União Brasileira de Vitivinicultura.
 48	NAT->STR	N	N	-- Não vai salvar a pátria.	-- Não vai salvar a pátria.
 48	NAT->STR	N	N	Mas seria bom -- diz Salton.	Mas seria bom -- diz Salton.
 48	NAT->STR	N	N	Produtor com soja no depósito pode ter ganhos maiores.	Produtor com soja no depósito pode ter ganhos maiores.
@@ -1376,8 +1376,8 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 52	NAT->STR	N	N	O mapa foi dividido em 45 unidades.	O mapa foi dividido em 45 unidades.
 52	NAT->STR	N	N	Não é um estudo definitivo.	Não é um estudo definitivo.
 52	NAT->STR	S	N	Ele traz apenas linhas gerais.	Traz apenas linhas gerais.
-52	NAT->STR	S	N	Sílvia Pagel explica que o estudo ainda será discutido e aprofundado.	Sílvia pagel explica que o estudo ainda será discutido e aprofundado.
-52	NAT->STR	S	N	Sílvia Pagel é engenheira florestal da Fundação Estadual de Proteção Ambiental.	Sílvia pagel é engenheira florestal da Fundação Estadual de Proteção Ambiental.
+52	NAT->STR	N	N	Sílvia Pagel explica que o estudo ainda será discutido e aprofundado.	Sílvia Pagel explica que o estudo ainda será discutido e aprofundado.
+52	NAT->STR	N	N	Sílvia Pagel é engenheira florestal da Fundação Estadual de Proteção Ambiental.	Sílvia Pagel é engenheira florestal da Fundação Estadual de Proteção Ambiental.
 52	NAT->STR	N	N	Especialista diz que é preciso estabelecer limite.	Especialista diz que é preciso estabelecer limite.
 52	NAT->STR	S	N	Roque Justen acredita que somente estudos mais aprofundados de cada município serão capazes de determinar exatamente as áreas adequadas.	Roque justen acredita que somente estudos mais aprofundados de cada município serão capazes de determinar exatamente as áreas adequadas.
 52	NAT->STR	N	N	Roque Justen é presidente da Associação Gaúcha de Empresas Florestais.	Roque Justen é presidente da Associação Gaúcha de Empresas Florestais.
@@ -1439,9 +1439,10 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 54	NAT->STR	N	N	O livro foi lançado em 1943 nos Estados Unidos.	O livro foi lançado em 1943 nos Estados Unidos.
 54	NAT->STR	S	N	Ele foi lançado dois anos antes de Saint-Exupéry desaparecer no Mediterrâneo durante uma missão militar.	O livro foi lançado dois anos antes de Saint-Exupéry desaparecer no Mediterrâneo durante uma missão militar.
 54	NAT->STR	N	N	Algumas frases do livro não desaparecem tão cedo da memória.	Algumas frases do livro não desaparecem tão cedo da memória.
+54	NAT->STR	N	N	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou "Eis o meu segredo".	Quem não se lembra de "Tu te tornas eternamente responsável por aquilo que cativas" ou "Eis o meu segredo".
 54	NAT->STR	N	N	Ele é muito simples:	Ele é muito simples:
 54	NAT->STR	N	N	Somente vemos bem com o coração.	Somente vemos bem com o coração.
-54	NAT->STR	S	N	"  O essencial é invisível aos olhos ".	"O essencial é invisível aos olhos ".
+54	NAT->STR	N	N	"O essencial é invisível aos olhos".	"O essencial é invisível aos olhos".
 54	NAT->STR	N	N	É essa idéia que Luana quer passar para seu público.	É essa idéia que Luana quer passar para seu público.
 54	NAT->STR	N	N	-- Eu poderia fazer TV.	-- Eu poderia fazer TV.
 54	NAT->STR	N	N	Eu poderia fazer espetáculos adultos.	Eu poderia fazer espetáculos adultos.
@@ -1625,7 +1626,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 60	NAT->STR	N	N	A nova empresa também oferecerá diferentes serviços pela Internet.	A nova empresa também oferecerá diferentes serviços pela Internet.
 60	NAT->STR	N	N	Os serviços são revelação digital de fotos, venda de viagens, venda de ingressos e download de áudio.	Os serviços são revelação digital de fotos, venda de viagens, venda de ingressos e download de áudio.
 60	NAT->STR	N	N	A B2W nasce com faturamento bruto de R$ 1,6 bilhão até setembro.	A B2W nasce com faturamento bruto de R$ 1,6 bilhão até setembro.
-60	NAT->STR	S	N	R$563 milhões vêm do Submarino e R$ 1 bilhão da Americanas.	R$ 563 milhões vêm do Submarino e R$ 1 bilhão da Americanas.
+60	NAT->STR	N	N	R$ 563 milhões vêm do Submarino e R$ 1 bilhão da Americanas.	R$ 563 milhões vêm do Submarino e R$ 1 bilhão da Americanas.
 60	NAT->STR	S	N	"A B2W será capaz de competir com as principais empresas de varejo brasileiras, em um mercado calculado em R$ 200 bilhões" -- assinala o comunicado que as duas companhias divulgaram ontem.	"A B2W será capaz de competir com as principais empresas de varejo brasileiras, em um mercado calculado em R$ 200 bilhões" -- assinala o aviso que as duas companhias divulgaram ontem.
 60	NAT->STR	N	N	A expectativa é concluir a fusão até 31 de dezembro.	A expectativa é concluir a fusão até 31 de dezembro.
 60	NAT->STR	S	N	Há necessidade do aval de agências reguladoras e órgãos de defesa da concorrência.	Há necessidade da aprovação de agências reguladoras e órgãos de defesa da concorrência.
@@ -1663,7 +1664,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 61	NAT->STR	N	N	Elas têm direito a veto.	Elas têm direito a veto.
 61	NAT->STR	N	N	Ahmadinejad também voltou a atacar os israelenses.	Ahmadinejad também voltou a atacar os israelenses.
 61	NAT->STR	N	N	Na opinião dele, Israel é um "Estado artificial" e não pode continuar a existir.	Na opinião dele, Israel é um "Estado artificial" e não pode continuar a existir.
-62	NAT->STR	S	N	Manifestações públicas contra a alta taxa de impostos paga pelos brasileiros marcaram o dia de ontem no Estado.	Manifestações públicas contra a alta taxa de impostos paga pelos brasileiros marcaram o dia de ontem no estado.
+62	NAT->STR	N	N	Manifestações públicas contra a alta taxa de impostos paga pelos brasileiros marcaram o dia de ontem no estado.	Manifestações públicas contra a alta taxa de impostos paga pelos brasileiros marcaram o dia de ontem no estado.
 62	NAT->STR	N	N	Em Novo Hamburgo e Lajeado, houve protestos, brincadeiras e negócios a preços sem tributo.	Em Novo Hamburgo e Lajeado, houve protestos, brincadeiras e negócios a preços sem tributo.
 62	NAT->STR	S	N	Novo Hamburgo fica no vale do Sinos.	Novo hamburgo fica no vale do Sinos.
 62	NAT->STR	N	N	Lajeado fica no vale do Taquari.	Lajeado fica no vale do Taquari.
@@ -1690,8 +1691,8 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 62	NAT->STR	N	N	Esses são dados do Instituto Brasileiro de Planejamento Tributário.	Esses são dados do Instituto Brasileiro de Planejamento Tributário.
 62	NAT->STR	S	N	Isso quer dizer que hoje terminaria o período se todos os rendimentos tivessem esse destino.	Se todos os rendimentos tivessem esse destino, hoje terminaria o período.
 62	NAT->STR	N	N	Hoje é dia 26 de maio.	Hoje é dia 26 de maio.
-63	NAT->STR	S	N	Dez municípios da Metade Sul vão receber 160 alunos e professores universitários de todo os país até 10 de fevereiro.	Dez municípios da Metade Sul vão receber 160 alunos e professores universitários de todo o país até 10 de fevereiro.
-63	NAT->STR	S	N	As operações começam hoje no Estado.	As operações começam hoje no estado.
+63	NAT->STR	N	N	Dez municípios da Metade Sul vão receber 160 alunos e professores universitários de todo o país até 10 de fevereiro.	Dez municípios da Metade Sul vão receber 160 alunos e professores universitários de todo o país até 10 de fevereiro.
+63	NAT->STR	N	N	As operações começam hoje no estado.	As operações começam hoje no estado.
 63	NAT->STR	N	N	Mas o trabalho vai aumentar a partir de segunda-feira em comunidades de Jaguarão, Amaral Ferrador, Dom Pedrito, Hulha Negra, Santana da Boa Vista, Arroio Grande, Canguçu, Chuí, Encruzilhada do Sul e Piratini.	Mas o trabalho vai aumentar a partir de segunda-feira em comunidades de Jaguarão, Amaral Ferrador, Dom Pedrito, Hulha Negra, Santana da Boa Vista, Arroio Grande, Canguçu, Chuí, Encruzilhada do Sul e Piratini.
 63	NAT->STR	N	N	O Projeto Rondon completa 40 anos.	O Projeto Rondon completa 40 anos.
 63	NAT->STR	S	N	Ele chegou a ser suspenso em 1989.	O Projeto Rondon chegou a ser suspenso em 1989.
@@ -1710,7 +1711,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 63	NAT->STR	N	N	Eles também mantêm a tradição de enviar equipes aos municípios pobres da Amazônia e do Nordeste.	Eles também mantêm a tradição de enviar equipes aos municípios pobres da Amazônia e do Nordeste.
 63	NAT->STR	S	N	O Ministério da Defesa escolheu as universidades que participam do Projeto Rondon.	O Ministério da Defesa escolheu as universidades participantes do Projeto Rondon.
 63	NAT->STR	N	N	Neste ano, quatro ações ocorrerão ao mesmo tempo:	Neste ano, quatro ações ocorrerão ao mesmo tempo:
-63	NAT->STR	S	N	Rio Grande do sul, Amazônia Ocidental, Amazônia Oriental e Nordeste.	Rio Grande do Sul, Amazônia Ocidental, Amazônia Oriental e Nordeste.
+63	NAT->STR	N	N	Rio Grande do Sul, Amazônia Ocidental, Amazônia Oriental e Nordeste.	Rio Grande do Sul, Amazônia Ocidental, Amazônia Oriental e Nordeste.
 63	NAT->STR	S	N	No estado, além da UFPel, participam a Fundação Universidade Federal de Rio Grande e o Centro Universitário Univates.	No estado, além da UFPel, participam a Fundação Universidade Federal do Rio Grande e o Centro Universitário Univates.
 64	NAT->STR	S	N	Fernando Collor foi eleito senador por Alagoas em 1º de outubro com mais de 550 mil votos.	Fernando collor foi eleito senador por Alagoas em 1º de outubro com mais de 550 mil votos.
 64	NAT->STR	N	N	No dia 18 de outubro, ele pediu todas as regalias a que tem direito por ter ocupado a presidência.	No dia 18 de outubro, ele pediu todas as regalias a que tem direito por ter ocupado a presidência.
@@ -1775,7 +1776,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 65	NAT->STR	N	N	É normal que o mercado tenha ajustes -- reagiu.	É normal que o mercado tenha ajustes -- reagiu.
 66	NAT->STR	N	N	O investimento de bilhões na região de Candiota não é o único a receber estímulo do desequilíbrio previsto entre oferta e demanda de energia no Brasil e a crise espalhada nos países vizinhos.	O investimento de bilhões na região de Candiota não é o único a receber estímulo do desequilíbrio previsto entre oferta e demanda de energia no Brasil e a crise espalhada nos países vizinhos.
 66	NAT->STR	N	N	A área tem carvão a poucos centímetros da superfície.	A área tem carvão a poucos centímetros da superfície.
-66	NAT->STR	S	N	A área é considerada a mais atrativa no Estado.	Considera-se a área a mais atrativa no Estado.
+66	NAT->STR	S	N	A área é considerada a mais atrativa no estado.	Considera-se a área a mais atrativa no estado.
 66	NAT->STR	N	N	No total, os projetos alcançam US$ 2,75 bilhões.	No total, os projetos alcançam US$ 2,75 bilhões.
 66	NAT->STR	S	N	Há possibilidade de chegar a US$ 3,6 bilhões, caso a intenção da Tractebel se realize.	Caso a intenção da Tractebel se realize, há possibilidade de chegar a US$ 3,6 bilhões.
 66	NAT->STR	N	N	A Tractebel é a maior produtora privada de energia do país.	A Tractebel é a maior produtora privada de energia do país.
@@ -1786,7 +1787,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 66	NAT->STR	N	N	O carvão só fica atrás da hidreletricidade.	O carvão só fica atrás da hidreletricidade.
 66	NAT->STR	S	N	No Rio Grande do Sul, estão 90% dos depósitos naturais de carvão do Brasil -- destaca Fernando Zancan.	Noventa por cento dos depósitos naturais de carvão do Brasil estão no Rio Grande do Sul -- destaca Fernando Zancan.
 66	NAT->STR	S	N	Fernando Zancan é presidente da Associação Brasileira do Carvão Mineral.	Fernando Zancan é presidente da Associação Brasileira do Carvão mineral.
-66	NAT->STR	S	N	-- A necessidade de gerar mais energia para um Brasil que cresce, a maior dificuldade de explorar grandes reservas de água, a evolução da tecnologia de geração mais limpa e o preço do mineral no Estado servem de ímã para investimentos -- resume Edmundo Fernandes da Silva.	-- A necessidade de gerar mais energia para um Brasil em crescimento, a maior dificuldade de explorar grandes reservas de água, a evolução da tecnologia de geração mais limpa e o preço do mineral no Estado servem de ímã para investimentos -- resume Edmundo Fernandes da Silva.
+66	NAT->STR	S	N	-- A necessidade de gerar mais energia para um Brasil que cresce, a maior dificuldade de explorar grandes reservas de água, a evolução da tecnologia de geração mais limpa e o preço do mineral no estado servem de ímã para investimentos -- resume Edmundo Fernandes da Silva.	-- A necessidade de gerar mais energia para um Brasil em crescimento, a maior dificuldade de explorar grandes reservas de água, a evolução da tecnologia de geração mais limpa e o preço do mineral no estado servem de ímã para investimentos -- resume Edmundo Fernandes da Silva.
 66	NAT->STR	S	N	Edmundo Fernandes da silva é coordenador da assessoria técnica da Secretaria de Infra-estrutura e Logística do Estado.	Edmundo Fernandes da Silva é coordenador da assessoria técnica da Secretaria de Infra-estrutura e Logística do Estado.
 66	NAT->STR	N	N	-- O carvão gaúcho custa US$ 16 por tonelada.	-- O carvão gaúcho custa US$ 16 por tonelada.
 66	NAT->STR	N	N	Mas o carvão importado da África do Sul sai por US$ 60 -- compara Fernandes da Silva.	Mas o carvão importado da África do Sul sai por US$ 60 -- compara Fernandes da Silva.
@@ -1796,16 +1797,16 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 66	NAT->STR	N	N	Ontem, a Companhia Estadual de Energia Elétrica informou que o Estado registrou recorde na demanda de energia.	Ontem, a Companhia Estadual de Energia Elétrica informou que o Estado registrou recorde na demanda de energia.
 66	NAT->STR	N	N	O recorde foi de 4.697 megawatts.	O recorde foi de 4.697 megawatts.
 66	NAT->STR	N	N	O recorde aconteceu às 14h41 min de 10 de dezembro.	O recorde aconteceu às 14h41 min de 10 de dezembro.
-66	NAT->STR	S	N	Mesmo com a diferença de preço, a projeção da MPX para o custo do megawatt produzido no Estado é mais alta do que o custo do megawatt gerado com carvão importado da África ou da Colômbia.	Apesar da diferença de preço, a projeção da MPX para o custo do megawatt produzido no Estado é mais alta do que o custo do megawatt gerado com carvão importado da África ou da Colômbia.
-66	NAT->STR	N	N	O custo do megawatt produzido no Estado é de US$ 2.321.	O custo do megawatt produzido no Estado é de US$ 2.321.
+66	NAT->STR	S	N	Mesmo com a diferença de preço, a projeção da MPX para o custo do megawatt produzido no estado é mais alta do que o custo do megawatt gerado com carvão importado da África ou da Colômbia.	Apesar da diferença de preço, a projeção da MPX para o custo do megawatt produzido no estado é mais alta do que o custo do megawatt gerado com carvão importado da África ou da Colômbia.
+66	NAT->STR	N	N	O custo do megawatt produzido no estado é de US$ 2.321.	O custo do megawatt produzido no estado é de US$ 2.321.
 66	NAT->STR	N	N	O custo do megawatt importado é de US$ 2.035.	O custo do megawatt importado é de US$ 2.035.
 66	NAT->STR	N	N	Fernandes da Silva admite que a diferença deixa o governo gaúcho curioso.	Fernandes da Silva admite que a diferença deixa o governo gaúcho curioso.
 66	NAT->STR	N	N	O governo gaúcho pretende discutir o assunto com a direção da companhia.	O governo gaúcho pretende discutir o assunto com a direção da companhia.
 66	NAT->STR	S	N	O executivo está à frente do Programa Gaúcho de Carvão Mineral.	Fernandes da Silva está à frente do Programa Gaúcho de Carvão Mineral.
-66	NAT->STR	S	N	O executivo adianta que outros grandes grupos examinam projetos no Estado:	Fernandes da Silva adianta que outros grandes grupos examinam projetos no Estado:
+66	NAT->STR	S	N	O executivo adianta que outros grandes grupos examinam projetos no estado:	Fernandes da Silva adianta que outros grandes grupos examinam projetos no estado:
 66	NAT->STR	N	N	-- Em janeiro, vamos ter algumas surpresas.	-- Em janeiro, vamos ter algumas surpresas.
 66	NAT->STR	N	N	Há muita gente hoje voltando o interesse na direção do carvão.	Há muita gente hoje voltando o interesse na direção do carvão.
-66	NAT->STR	S	N	Diante do fracasso de projetos como o da Elétrica Jacuí, as dúvidas sobre o potencial da geração de calor a carvão no Estado continuam.	Diante do fracasso de projetos como o da Elétrica Jacuí, as dúvidas sobre a possibilidade da geração de calor com o carvão no Estado continuam.
+66	NAT->STR	S	N	Diante do fracasso de projetos como o da Elétrica Jacuí, as dúvidas sobre o potencial da geração de calor a carvão no estado continuam.	Diante do fracasso de projetos como o da Elétrica Jacuí, as dúvidas sobre a possibilidade da geração de calor com o carvão no estado continuam.
 66	NAT->STR	S	N	A Elétrica Jacuí esteve envolvida no escândalo das usinas.	O escândalo das usinas envolveu a Elétrica Jacuí.
 66	NAT->STR	N	N	O escândalo resultou até em prisões.	O escândalo resultou até em prisões.
 66	NAT->STR	N	N	A velocidade das obras da Fase C da usina Presidente Médici ajuda a diluir as incertezas.	A velocidade das obras da Fase C da usina Presidente Médici ajuda a diluir as incertezas.
@@ -1859,7 +1860,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 68	NAT->STR	S	N	Em 1946, mesmo devastada pela insanidade de Adolf Hitler na II Guerra Mundial, os alemães produziram 922 mil nenês.	Em 1946, mesmo destruídos pela loucura de Adolf Hitler na II Guerra Mundial, os alemães produziram 922 mil nenês.
 69	NAT->STR	S	N	Com o maior volume vendido nos leilões realizados pelo governo federal com o objetivo de garantir os estoques do primeiro semestre de 2008, as usinas gaúchas garantiram a posição de líderes da nova etapa da evolução do país rumo aos combustíveis renováveis.	Com o maior volume vendido nos leilões que o governo federal realizou com o objetivo de garantir os estoques do primeiro semestre de 2008, as usinas gaúchas garantiram a posição de líderes da nova etapa da evolução do país rumo aos combustíveis renováveis.
 69	NAT->STR	S	N	Arnoldo de campos é coordenador do Programa de Biodiesel pelo Ministério do Desenvolvimento Agrário.	Arnoldo de Campos é coordenador do Programa de Biodiesel pelo Ministério do Desenvolvimento Agrário.
-69	NAT->STR	S	N	Outro aspecto importante é a preparação das quatro grandes usinas de biodiesel instaladas no Estado para transformar capacidade instalada em produção real, avalia Campos.	Campos avalia que outro aspecto importante é a preparação das quatro grandes usinas de biodiesel instaladas no Estado para transformar capacidade instalada em produção real.
+69	NAT->STR	S	N	Outro aspecto importante é a preparação das quatro grandes usinas de biodiesel instaladas no estado para transformar capacidade instalada em produção real, avalia Campos.	Campos avalia que outro aspecto importante é a preparação das quatro grandes usinas de biodiesel instaladas no estado para transformar capacidade instalada em produção real.
 69	NAT->STR	N	N	As indústrias do Rio Grande do Sul juntas têm capacidade de produção de 400 milhões de litros.	As indústrias do Rio Grande do Sul juntas têm capacidade de produção de 400 milhões de litros.
 69	NAT->STR	N	N	A transformação de capacidade instalada em produção real deve determinar a rapidez da evolução da mistura dos 2% iniciais para uma proporção maior.	A transformação de capacidade instalada em produção real deve determinar a rapidez da evolução da mistura dos 2% iniciais para uma proporção maior.
 69	NAT->STR	N	N	Essa transformação é considerada um dos grandes testes para a adoção do biodiesel no Brasil.	Essa transformação é considerada um dos grandes testes para a adoção do biodiesel no Brasil.
@@ -1884,7 +1885,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 70	NAT->STR	S	N	580; no momento em que o número de presos no local atingir esse limite, será totalmente proibido o ingresso de novos condenados.	580; no momento em que o número de presos no local atingir esse limite, o ingresso de novos condenados será totalmente proibido.
 72	NAT->STR	N	N	Policiais e testemunhas têm versões diferentes para o acidente.	Policiais e testemunhas têm versões diferentes para o acidente.
 72	NAT->STR	N	N	Um carro da Polícia Militar (PM) atropelou e matou uma mulher de 81 anos, ontem, em Balneário Camboriú.	Um carro da Polícia Militar (PM) atropelou e matou uma mulher de 81 anos, ontem, em Balneário Camboriú.
-72	NAT->STR	S	N	Irenados santos atravessava a Terceira Avenida, na esquina com a Rua 2.500 às 8h40 min, no momento em que foi atingida.	Irena dos Santos atravessava a Terceira Avenida, na esquina com a Rua 2.500 às 8h40 min, no momento em que foi atingida.
+72	NAT->STR	N	N	Irena dos Santos atravessava a Terceira Avenida, na esquina com a Rua 2.500 às 8h40 min, no momento em que foi atingida.	Irena dos Santos atravessava a Terceira Avenida, na esquina com a Rua 2.500 às 8h40 min, no momento em que foi atingida.
 72	NAT->STR	N	N	-- Havia um Fiat Doblò estacionado em frente a uma padaria.	-- Havia um Fiat Doblò estacionado em frente a uma padaria.
 72	NAT->STR	S	N	A vítima surgiu da frente do veículo e cruzou a via.	A vítima surgiu na frente do veículo e cruzou a via.
 72	NAT->STR	N	N	O soldado tinha passado pelo semáforo com o sinal verde.	O soldado tinha passado pelo semáforo com o sinal verde.
@@ -1892,14 +1893,13 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 72	NAT->STR	N	N	Testemunhas discordam desta versão.	Testemunhas discordam desta versão.
 72	NAT->STR	N	N	Ela disse que o veículo estava em alta velocidade.	Ela disse que o veículo estava em alta velocidade.
 72	NAT->STR	N	N	Eles atingiram a vítima em cima da faixa e carregaram o corpo por alguns metros -- contou Jucélia.	Eles atingiram a vítima em cima da faixa e carregaram o corpo por alguns metros -- contou Jucélia.
-72	NAT->STR	N	N	Inclusive, me mandaram deixar o local e calar a boca.	Inclusive, me mandaram deixar o local e calar a boca.
+72	NAT->STR	N	N	Inclusive me mandaram deixar o local e calar a boca.	Inclusive me mandaram deixar o local e calar a boca.
 72	NAT->STR	N	N	-- A senhora atravessou na faixa, os policiais estavam com a sirene desligada e numa velocidade muito alta.	-- A senhora atravessou na faixa, os policiais estavam com a sirene desligada e numa velocidade muito alta.
 72	NAT->STR	N	N	Soldado envolvido recebeu dispensa.	Soldado envolvido recebeu dispensa.
 72	NAT->STR	N	N	De acordo com as imagens, o semáforo estava verde para os veículos.	De acordo com as imagens, o semáforo estava verde para os veículos.
 72	NAT->STR	N	N	A polícia não permitiu que a imprensa reproduzisse as imagens.	A polícia não permitiu que a imprensa reproduzisse as imagens.
-72	NAT->STR	S	N	O tenente-coronel Fernando José Luiz, comandante do 12º Batalhão de Polícia Militar, informou que dispensaram o soldado Jorge do trabalho ontem.	O tenente-coronel Fernando José Luiz informou que dispensaram o soldado Jorge do trabalho ontem.
-72	NAT->STR	S	N	-- Na próxima semana, vamos conversar com ele, para avaliar o estado de saúde em que se encontra.	O tenente-coronel Fernando José Luiz é comandante do 12º Batalhão de Polícia Militar.
-72	NAT->STR	S	N	A Polícia Militar e a Polícia Civil irão abrir inquérito policial para investigar as causas do acidente logo que sair o parecer técnico da perícia.	Mas, se ele estiver bem, voltará ao trabalho normalmente -- explicou o tenente-coronel.
+72	NAT->STR	S	N	-- Na próxima semana, vamos conversar com ele, para avaliar o estado de saúde em que se encontra.	-- Na próxima semana, vamos conversar com ele, para avaliar seu estado de saúde.
+72	NAT->STR	S	N	A Polícia Militar e a Polícia Civil irão abrir inquérito policial para investigar as causas do acidente logo que sair o parecer técnico da perícia.	A Polícia Militar e a Polícia Civil abrirão inquérito policial para investigar as causas do acidente logo que sair o parecer técnico da perícia.
 73	NAT->STR	S	N	A Venezuela em um momento decisivo.	A Venezuela em um momento de decisão.
 73	NAT->STR	N	N	A Venezuela vive dias difíceis.	A Venezuela vive dias difíceis.
 73	NAT->STR	N	N	O que está em jogo não são apenas as reformas da constituição favorecidas por Chávez.	O que está em jogo não são apenas as reformas da constituição favorecidas por Chávez.
@@ -1996,7 +1996,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 78	NAT->STR	N	N	-- numa massa de ar frio, as temperaturas são mais baixas no centro do que na borda.	-- numa massa de ar frio, as temperaturas são mais baixas no centro do que na borda.
 78	NAT->STR	N	N	Sol não conseguiu elevar temperatura durante o dia.	Sol não conseguiu elevar temperatura durante o dia.
 78	NAT->STR	N	N	Gramado e poças de água chegaram a congelar em Bagé por causa da temperatura.	Gramado e poças de água chegaram a congelar em Bagé por causa da temperatura.
-78	NAT->STR	S	N	Quem saiu cedo divertiu-se quebrando o gelo que se formou sobre a vegetação.	Quem saiu cedo divertiu-se quebrando e gelo que se formou sobre a vegetação.
+78	NAT->STR	N	N	Quem saiu cedo divertiu-se quebrando o gelo que se formou sobre a vegetação.	Quem saiu cedo divertiu-se quebrando o gelo que se formou sobre a vegetação.
 78	NAT->STR	N	N	O vento gelado fez com que a sensação térmica fosse até menor.	O vento gelado fez com que a sensação térmica fosse até menor.
 78	NAT->STR	N	N	Um relógio digital do centro de Bagé, por exemplo, registrou -- 5,7 ºC pela manhã.	Um relógio digital do centro de Bagé, por exemplo, registrou -- 5,7 ºC pela manhã.
 78	NAT->STR	S	N	Não é provável que a atual massa que vem do pólo Sul vá mais alto que esta marca.	Não é provável que a atual massa que vem do pólo Sul vá mais baixo que esta marca.
@@ -2028,7 +2028,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 79	NAT->STR	N	N	O macho, estamos vendo ainda -- revelou, acrescentando que prestou socorro ao carteiro.	O macho, estamos vendo ainda -- revelou, acrescentando que prestou socorro ao carteiro.
 80	NAT->STR	N	N	No Uruguai, não é proibido vender nem comprar as aves.	No Uruguai, não é proibido vender nem comprar as aves.
 80	NAT->STR	S	N	As aves são vendidas livremente do lado uruguaio a um preço médio de R$ 7.	Vendem-se as aves livremente do lado uruguaio a um preço médio de R$ 7.
-80	NAT->STR	S	N	Naquele país, ave é considerada uma desgraça.	Naquele país, a ave é considerada uma desgraça.
+80	NAT->STR	N	N	Naquele país, a ave é considerada uma desgraça.	Naquele país, a ave é considerada uma desgraça.
 80	NAT->STR	S	N	No Brasil, o comércio é proibido por lei.	No Brasil, a lei proíbe o comércio.
 80	NAT->STR	S	N	As aves à venda em Rivera são capturadas nos dois lados da fronteira.	Nos dois lados da fronteira, capturam-se as aves à venda em Rivera.
 80	NAT->STR	N	N	Geralmente, são transportadas em gaiolas ou caixas de papelão.	Geralmente, são transportadas em gaiolas ou caixas de papelão.
@@ -2082,7 +2082,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 83	NAT->STR	N	N	O Fed mantém a taxa básica em 5,25% desde junho de 2006.	O Fed mantém a taxa básica em 5,25% desde junho de 2006.
 83	NAT->STR	N	N	Mas a disposição do banco central americano em facilitar o crédito aos bancos representa uma mudança em sua posição:	Mas a disposição do banco central americano em facilitar o crédito aos bancos representa uma mudança em sua posição:
 83	NAT->STR	S	N	Passou a não se preocupar apenas em diminuir a inflação, mas também em manter o ritmo de crescimento econômico.	Passou a não se preocupar apenas em diminuir a inflação, como também em manter o ritmo de crescimento econômico.
-83	NAT->STR	N	N	" As condições dos mercados financeiros pioraram.	" As condições dos mercados financeiros pioraram.
+83	NAT->STR	N	N	"As condições dos mercados financeiros pioraram.	"As condições dos mercados financeiros pioraram.
 83	NAT->STR	N	N	Com isso, as condições mais limitadas do crédito e a maior incerteza poderiam impedir a continuação do crescimento econômico ", informou a nota do Comitê de Mercado Aberto.	Com isso, as condições mais limitadas do crédito e a maior incerteza poderiam impedir a continuação do crescimento econômico ", informou a nota do Comitê de Mercado Aberto.
 83	NAT->STR	S	N	Vários especialistas acreditam que o banco central americano voltará a agir, dessa vez com o objetivo de reduzir a taxa básica, caso o nervosismo dos investidores apareça mais intenso nos próximos dias.	Caso o nervosismo dos investidores apareça mais intenso nos próximos dias, vários especialistas acreditam que o banco central americano voltará a agir, dessa vez com o objetivo de reduzir a taxa básica.
 83	NAT->STR	N	N	O Fed também liberou US$ 6 bilhões com o objetivo de reforçar a oferta de dinheiro das instituições bancárias.	O Fed também liberou US$ 6 bilhões com o objetivo de reforçar a oferta de dinheiro das instituições bancárias.
@@ -2144,9 +2144,9 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 88	NAT->STR	N	N	A tradição das caixas de madeira que abrigam imagens de santos e percorrem as residências gaúchas ganha força nos dias que vêm antes da primeira visita de Bento XVI ao Brasil.	A tradição das caixas de madeira que abrigam imagens de santos e percorrem as residências gaúchas ganha força nos dias que vêm antes da primeira visita de Bento XVI ao Brasil.
 88	NAT->STR	N	N	Os imigrantes europeus trouxeram o costume.	Os imigrantes europeus trouxeram o costume.
 88	NAT->STR	N	N	O costume permanece sólido no interior do Estado.	O costume permanece sólido no interior do Estado.
-88	NAT->STR	S	N	Leonides Sperotto de quadros é agricultora.	Leonides sperotto de quadros é agricultora.
-88	NAT->STR	S	N	Leonides Sperotto de quadros tem 57 anos.	Leonides sperotto de quadros tem 57 anos.
-88	NAT->STR	S	N	Leonides Sperotto de quadros diz que o hábito de levar as santas de casa em casa é um estímulo para as orações em família.	Leonides sperotto de quadros diz que o hábito de levar as santas de casa em casa é um estímulo para as orações em família.
+88	NAT->STR	N	N	Leonides Sperotto de quadros é agricultora.	Leonides Sperotto de quadros é agricultora.
+88	NAT->STR	N	N	Leonides Sperotto de quadros tem 57 anos.	Leonides Sperotto de quadros tem 57 anos.
+88	NAT->STR	N	N	Leonides Sperotto de quadros diz que o hábito de levar as santas de casa em casa é um estímulo para as orações em família.	Leonides Sperotto de quadros diz que o hábito de levar as santas de casa em casa é um estímulo para as orações em família.
 88	NAT->STR	S	N	Além disso, o hábito de levar as santas de casa em casa faz com que vizinhos se visitem.	Além disso, o hábito de levar as santas de casa em casa faz os vizinhos se visitarem.
 88	NAT->STR	N	N	Ela mora em Lagoa Bonita, no interior de Pontão, no norte gaúcho, há mais de 40 anos.	Ela mora em Lagoa Bonita, no interior de Pontão, no norte gaúcho, há mais de 40 anos.
 88	NAT->STR	N	N	Ela faz questão de sempre levar pessoalmente a imagem até os vizinhos.	Ela faz questão de sempre levar pessoalmente a imagem até os vizinhos.
@@ -2169,9 +2169,9 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 88	NAT->STR	N	N	O Papa é o princípio de unidade da nossa igreja -- diz o bispo.	O Papa é o princípio de unidade da nossa igreja -- diz o bispo.
 88	NAT->STR	N	N	A devoção também encontra seguidores nos centros urbanos.	A devoção também encontra seguidores nos centros urbanos.
 88	NAT->STR	N	N	No interior de Santo Antônio do Palma, a descendente de poloneses Vanda Revers Grochot aprendeu ainda menina a rezar com a família em frente à imagem de Nossa Senhora de Fátima.	No interior de Santo Antônio do Palma, a descendente de poloneses Vanda Revers Grochot aprendeu ainda menina a rezar com a família em frente à imagem de Nossa Senhora de Fátima.
-88	NAT->STR	S	N	Vanda Revers grochot tem 62 anos.	Vanda revers grochot tem 62 anos.
+88	NAT->STR	S	N	Vanda Revers grochot tem 62 anos.	Vanda Revers Grochot tem 62 anos.
 88	NAT->STR	N	N	A agricultora mora em Montes Cárpatos.	A agricultora mora em Montes Cárpatos.
-88	NAT->STR	N	N	A tradição das capelinhas também é cultivada em áreas urbanas no Estado.	A tradição das capelinhas também é cultivada em áreas urbanas no Estado.
+88	NAT->STR	N	N	A tradição das capelinhas também é cultivada em áreas urbanas no estado.	A tradição das capelinhas também é cultivada em áreas urbanas no estado.
 88	NAT->STR	N	N	O costume se repete há mais de dois anos em um edifício de 16 apartamentos no centro de Passo Fundo.	O costume se repete há mais de dois anos em um edifício de 16 apartamentos no centro de Passo Fundo.
 88	NAT->STR	N	N	Esqueceram o costume por algum tempo.	Esqueceram o costume por algum tempo.
 88	NAT->STR	N	N	Em seguida, a contadora Sônia Mara Silveira Dal Bosco retomou o costume.	Em seguida, a contadora Sônia Mara Silveira Dal Bosco retomou o costume.
@@ -2241,7 +2241,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 91	NAT->STR	N	N	Em 2000, era de 16,7 por mil.	Em 2000, era de 16,7 por mil.
 91	NAT->STR	N	N	A expectativa de vida é marcada pela falta de igualdade regional.	A expectativa de vida é marcada pela falta de igualdade regional.
 91	NAT->STR	N	N	A mortalidade também é marcada pela falta de igualdade regional.	A mortalidade também é marcada pela falta de igualdade regional.
-91	NAT->STR	N	N	Alguns Estados já alcançaram a meta da ONU ou estão perto disso.	Alguns Estados já alcançaram a meta da ONU ou estão perto disso.
+91	NAT->STR	N	N	Alguns estados já alcançaram a meta da ONU ou estão perto disso.	Alguns estados já alcançaram a meta da ONU ou estão perto disso.
 91	NAT->STR	N	N	-- Mantida a atual velocidade de crescimento, em 12 anos, o Brasil atingirá a média de 76,2 anos.	-- Mantida a atual velocidade de crescimento, em 12 anos, o Brasil atingirá a média de 76,2 anos.
 92	NAT->STR	N	N	-- Não troco a verdade que meu pai deixou por essas verdades que tem por aí -- comenta Getúlio Manoel Inácio.	-- Não troco a verdade que meu pai deixou por essas verdades que tem por aí -- comenta Getúlio Manoel Inácio.
 92	NAT->STR	N	N	Getúlio Manoel Inácio comenta com calma de pescador.	Getúlio Manoel Inácio comenta com calma de pescador.
@@ -2314,7 +2314,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 97	NAT->STR	N	N	Acho que o bar deveria ser mantido como uma opção para quem não quer comer a merenda escolar.	Acho que o bar deveria ser mantido como uma opção para quem não quer comer a merenda escolar.
 97	NAT->STR	N	N	O secretário de Educação diz que o principal objetivo é contribuir para a saúde do aluno e sua educação alimentar.	O secretário de Educação diz que o principal objetivo é contribuir para a saúde do aluno e sua educação alimentar.
 97	NAT->STR	N	N	O secretário de Educação é Delmar Kaufmann.	O secretário de Educação é Delmar Kaufmann.
-97	NAT->STR	S	N	Ele justifica que a resolução foi criada também para evitar que crianças sem condições de adquirir a merenda no ar fiquem com vergonha.	Ele justifica que a resolução foi criada também para evitar que crianças sem condições de adquirir a merenda no bar fiquem com vergonha.
+97	NAT->STR	N	N	Ele justifica que a resolução foi criada também para evitar que crianças sem condições de adquirir a merenda no bar fiquem com vergonha.	Ele justifica que a resolução foi criada também para evitar que crianças sem condições de adquirir a merenda no bar fiquem com vergonha.
 97	NAT->STR	N	N	Além disso, a resolução serve para que funcionários públicos não sejam afastados de sua função para preparar pratos a serem vendidos no bar.	Além disso, a resolução serve para que funcionários públicos não sejam afastados de sua função para preparar pratos a serem vendidos no bar.
 97	NAT->STR	N	N	-- Os pais reclamavam muito.	-- Os pais reclamavam muito.
 97	NAT->STR	N	N	Temos uma merenda com muitas frutas e verduras.	Temos uma merenda com muitas frutas e verduras.
@@ -2347,7 +2347,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 99	NAT->STR	S	N	Em Alvorada, ocorre exemplo desse fenômeno.	Exemplo desse fenômeno ocorre em Alvorada.
 99	NAT->STR	S	N	Alvorada registra a menor média do Rio Grande do Sul:	Alvorada registra a menor média do Rio Grande do Sul, R$ 2,486.
 99	NAT->STR	S	N	R$ 2,486. O município é seguido de perto por Canoas e Porto Alegre, de acordo com dados coletados pela ANP na pesquisa feita entre os dias 29 e 31 do mês passado.	Canoas e Porto Alegre seguem de perto o município, de acordo com dados que a ANP coletou na pesquisa que fez entre os dias 29 e 31 do mês passado.
-99	NAT->STR	S	N	Santa Rosa registrou o maior aumento do período -- 0,99% -- de R$ 2,73 para R$ 2,757.	Santa rosa registrou o maior aumento do período -- 0,99% -- de R$ 2,73 para R$ 2,757.
+99	NAT->STR	N	N	Santa Rosa registrou o maior aumento do período -- 0,99% -- de R$ 2,73 para R$ 2,757.	Santa Rosa registrou o maior aumento do período -- 0,99% -- de R$ 2,73 para R$ 2,757.
 99	NAT->STR	S	N	Oliveira avaliou que isso se deve ao aumento de 13% do álcool pelas empresas que distribuem combustível.	Oliveira avaliou que isso se deve ao aumento de 13% do álcool anidro pelas empresas que distribuem combustível.
 99	NAT->STR	N	N	A cidade fica próxima da fronteira com a Argentina.	A cidade fica próxima da fronteira com a Argentina.
 99	NAT->STR	N	N	Oliveira comentou que, se o ICMS não tivesse sido reduzido, os consumidores estariam pagando muito mais.	Oliveira comentou que, se o ICMS não tivesse sido reduzido, os consumidores estariam pagando muito mais.
@@ -2497,7 +2497,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 105	NAT->STR	N	N	As pessoas que arrancaram o chapéu queriam levar o monumento inteiro -- diz Guillen.	As pessoas que arrancaram o chapéu queriam levar o monumento inteiro -- diz Guillen.
 105	NAT->STR	N	N	A marca registrada teria sido obra do acaso.	A marca registrada teria sido obra do acaso.
 105	NAT->STR	N	N	Em 1903, o dirigível nº 9 apresentou problemas durante um passeio sobre o Rio Sena, em Paris.	Em 1903, o dirigível nº 9 apresentou problemas durante um passeio sobre o Rio Sena, em Paris.
-105	NAT->STR	S	N	Santos-Dumont usou o chapéu para abafar uma chama no motor.	Santos-dumont usou o chapéu para abafar uma chama no motor.
+105	NAT->STR	N	N	Santos-Dumont usou o chapéu para abafar uma chama no motor.	Santos-Dumont usou o chapéu para abafar uma chama no motor.
 105	NAT->STR	N	N	No momento em que voltou, tiraram uma fotografia dele com a peça amassada.	No momento em que voltou, tiraram uma fotografia dele com a peça amassada.
 105	NAT->STR	N	N	O sucesso foi imediato.	O sucesso foi imediato.
 106	NAT->STR	N	N	O advogado Ricardo Jahn trocará esta semana o sossego de Rainha do Mar e a companhia das duas filhas e da neta pela agitação de Nairóbi, a capital do Quênia.	O advogado Ricardo Jahn trocará esta semana o sossego de Rainha do Mar e a companhia das duas filhas e da neta pela agitação de Nairóbi, a capital do Quênia.
@@ -2507,7 +2507,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 106	NAT->STR	N	N	-- O Fórum sempre foi uma grande reunião das esquerdas.	-- O Fórum sempre foi uma grande reunião das esquerdas.
 106	NAT->STR	N	N	Eu acho que sou de esquerda.	Eu acho que sou de esquerda.
 106	NAT->STR	N	N	Agora, ainda não sei se sou socialista.	Agora, ainda não sei se sou socialista.
-106	NAT->STR	N	N	Então, vou para o Fórum em busca desse conceito de novo socialismo -- afirma Jahn.	Então, vou para o Fórum em busca desse conceito de novo socialismo -- afirma Jahn.
+106	NAT->STR	N	N	Então vou para o Fórum em busca desse conceito de novo socialismo -- afirma Jahn.	Então vou para o Fórum em busca desse conceito de novo socialismo -- afirma Jahn.
 106	NAT->STR	N	N	O advogado embarca para o Quênia na quinta-feira.	O advogado embarca para o Quênia na quinta-feira.
 106	NAT->STR	N	N	Leva um indispensável guia turístico do país africano na bagagem.	Leva um indispensável guia turístico do país africano na bagagem.
 106	NAT->STR	S	N	Jahn vai aproveitar a viagem para conhecer de perto a cultura queniana:	Jahn vai aproveitar a viagem para conhecer de perto a cultura do Quênia:
@@ -2525,7 +2525,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 106	NAT->STR	N	N	A organização reúne mais ou menos mil mulheres.	A organização reúne mais ou menos mil mulheres.
 106	NAT->STR	N	N	A participação também será limitada na política.	A participação também será limitada na política.
 106	NAT->STR	N	N	O deputado federal Tarcísio Zimmermann do PT é um dos seis políticos brasileiros e único gaúcho com presença confirmada no evento.	O deputado federal Tarcísio Zimmermann do PT é um dos seis políticos brasileiros e único gaúcho com presença confirmada no evento.
-106	NAT->STR	S	N	Tarcísio Zimmermann é presidente da Rede Parlamentar Mundial no Brasil.	Tarcísio zimmermann é presidente da Rede Parlamentar Mundial no Brasil.
+106	NAT->STR	N	N	Tarcísio Zimmermann é presidente da Rede Parlamentar Mundial no Brasil.	Tarcísio Zimmermann é presidente da Rede Parlamentar Mundial no Brasil.
 106	NAT->STR	N	N	Ele reclama:	Ele reclama:
 106	NAT->STR	S	N	-- Queremos tornar menos freqüentes as realizações do Fórum.	-- Queremos tornar as realizações do Fórum menos freqüentes.
 106	NAT->STR	N	N	As atividades anuais acabam tornando mais difícil a participação de mais pessoas.	As atividades anuais acabam tornando mais difícil a participação de mais pessoas.
@@ -2535,7 +2535,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 106	NAT->STR	N	N	André Mombath embarca hoje para a África.	André Mombath embarca hoje para a África.
 106	NAT->STR	N	N	Mombath é assessor da Federação dos Trabalhadores na Agricultura do Rio Grande do Sul.	Mombath é assessor da Federação dos Trabalhadores na Agricultura do Rio Grande do Sul.
 106	NAT->STR	N	N	Mombath e outros 200 brasileiros representarão sindicatos e organizações não-governamentais.	Mombath e outros 200 brasileiros representarão sindicatos e organizações não-governamentais.
-106	NAT->STR	S	N	Mombath apresentará um trabalho sobre as dificuldades de herança na agricultura familiar.	Mombath apresentará um trabalho sobre as dificuldades de herança na agricultura familiar:
+106	NAT->STR	N	N	Mombath apresentará um trabalho sobre as dificuldades de herança na agricultura familiar.	Mombath apresentará um trabalho sobre as dificuldades de herança na agricultura familiar.
 106	NAT->STR	N	N	-- O envelhecimento do campo é um problema.	-- O envelhecimento do campo é um problema.
 106	NAT->STR	S	N	É preciso discutir com urgência uma solução para isso.	É preciso discutir depressa uma solução para isso.
 107	NAT->STR	S	N	A Capital vivencia um fenômeno incoerente:	A Capital vive um fenômeno sem lógica:
@@ -2747,7 +2747,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 116	NAT->STR	N	N	João Steiner é astrofísico da USP.	João Steiner é astrofísico da USP.
 116	NAT->STR	N	N	A reunião começou antes de ontem na Universidade de Brasília.	A reunião começou antes de ontem na Universidade de Brasília.
 116	NAT->STR	N	N	Até hoje, o planeta mais distante já fotografado é Plutão.	Até hoje, o planeta mais distante já fotografado é Plutão.
-116	NAT->STR	N	N	" Imagine alguém de fora da nossa galáxia que tente fotografar o Sol."	" Imagine alguém de fora da nossa galáxia que tente fotografar o Sol."
+116	NAT->STR	N	N	"Imagine alguém de fora da nossa galáxia que tente fotografar o Sol".	"Imagine alguém de fora da nossa galáxia que tente fotografar o Sol".
 116	NAT->STR	N	N	Isso também acontece hoje com os astrônomos que fotografam estrelas muito distantes.	Isso também acontece hoje com os astrônomos que fotografam estrelas muito distantes.
 116	NAT->STR	N	N	Mas o Gemini poderá "enxergar" planetas.	Mas o Gemini poderá "enxergar" planetas.
 116	NAT->STR	N	N	Isso ocorre porque o telescópio mede luz e também calor por meio de radiação infravermelha.	Isso ocorre porque o telescópio mede luz e também calor por meio de radiação infravermelha.
@@ -2768,8 +2768,8 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 117	NAT->STR	N	N	No início do mês, o Comitê Consultivo Nacional de Ética (CCNE) reforçou a posição da ministra.	No início do mês, o Comitê Consultivo Nacional de Ética (CCNE) reforçou a posição da ministra.
 117	NAT->STR	N	N	O CCNE é o órgão que orienta o governo francês sobre aspectos éticos da biotecnologia.	O CCNE é o órgão que orienta o governo francês sobre aspectos éticos da biotecnologia.
 117	NAT->STR	S	N	O CCNE alega que "o conhecimento da sequência de um gene não pode ser incorporado como produto patenteado e, com isso, não é patenteável".	O CCNE alega que "o conhecimento da sequência de um gene não pode ser incorporado como um produto patenteado e, com isso, não é patenteável".
-117	NAT->STR	N	N	O parecer do CCNE diz que " o sequenciamento de genes é um bem comum da humanidade.	O parecer do CCNE diz que " o sequenciamento de genes é um bem comum da humanidade.
-117	NAT->STR	S	N	O sequenciamento de genes não pode ser limitado por patentes que pretendem proteger o direito exclusivo desse conhecimento em nome do direito de propriedade industrial ".	O sequenciamento de genes não pode ser limitado por patentes que pretendem proteger o direito exclusivo a esse conhecimento em nome do direito de propriedade industrial ".
+117	NAT->STR	N	N	O parecer do CCNE diz que o sequenciamento de genes é um bem comum da humanidade.	O parecer do CCNE diz que o sequenciamento de genes é um bem comum da humanidade.
+117	NAT->STR	S	N	O sequenciamento de genes não pode ser limitado por patentes que pretendem proteger o direito exclusivo desse conhecimento em nome do direito de propriedade industrial".	O sequenciamento de genes não pode ser limitado por patentes que pretendem proteger o direito exclusivo a esse conhecimento em nome do direito de propriedade industrial".
 118	NAT->STR	N	N	A opinião é do agrônomo Miguel Guerra da Universidade Federal de Santa Catarina.	A opinião é do agrônomo Miguel Guerra da Universidade Federal de Santa Catarina.
 118	NAT->STR	N	N	Guerra participou do debate "Biotecnologia para uma Agricultura Sustentável".	Guerra participou do debate "Biotecnologia para uma Agricultura Sustentável".
 118	NAT->STR	S	N	O debate foi realizado ontem durante a 52ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência.	O debate aconteceu ontem durante a 52ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência.
@@ -2851,8 +2851,8 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 123	NAT->STR	N	N	"É uma descoberta e tanto".	"É uma descoberta e tanto".
 123	NAT->STR	N	N	César Ades é da USP.	César Ades é da USP.
 123	NAT->STR	N	N	César Ades é especialista em comportamento de aranhas.	César Ades é especialista em comportamento de aranhas.
-123	NAT->STR	S	N	César ades afirmou:	César Ades afirmou:
-123	NAT->STR	S	N	É a primeira vez que se vê uma relação química tão complexa entre parasita e hospedeiro.	"É a primeira vez que se vê uma relação química tão complexa entre parasita e hospedeiro ".
+123	NAT->STR	N	N	César Ades afirmou:	César Ades afirmou:
+123	NAT->STR	S	N	É a primeira vez que se vê uma relação química tão complexa entre parasita e hospedeiro.	"É a primeira vez que se vê uma relação química tão complexa entre parasita e hospedeiro".
 123	NAT->STR	N	N	A exploração dos outros não tem limite.	A exploração dos outros não tem limite.
 123	NAT->STR	N	N	Nem mesmo no reino animal.	Nem mesmo no reino animal.
 124	NAT->STR	N	N	Cientistas britânicos deram o primeiro passo para diminuir as filas de espera para transplante de fígado.	Cientistas britânicos deram o primeiro passo para diminuir as filas de espera para transplante de fígado.
@@ -2875,15 +2875,15 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 125	NAT->STR	N	N	Todos os cálculos anteriores levavam em conta regiões muito grandes, como países e continentes.	Todos os cálculos anteriores levavam em conta regiões muito grandes, como países e continentes.
 125	NAT->STR	N	N	Com isso, eram menos precisos.	Com isso, eram menos precisos.
 125	NAT->STR	S	N	Por telefone, o pesquisador disse à Folha:	O pesquisador disse à Folha por telefone:
-125	NAT->STR	S	N	" O que nós fizemos foi um ajuste fino."	" O que nós fizemos foi um ajuste fino.
-125	NAT->STR	S	N	"Descobrimos que as reservas de água em algumas áreas estão simplesmente vazias ".	Descobrimos que as reservas de água em algumas áreas estão simplesmente vazias ".
+125	NAT->STR	N	N	"O que nós fizemos foi um ajuste fino".	"O que nós fizemos foi um ajuste fino".
+125	NAT->STR	S	N	"Descobrimos que as reservas de água em algumas áreas estão simplesmente vazias".	Descobrimos que as reservas de água em algumas áreas estão simplesmente vazias".
 125	NAT->STR	N	N	Metrópoles em observação.	Metrópoles em observação.
 125	NAT->STR	N	N	As áreas mais atingidas são as regiões áridas do norte da África, da Ásia Central e do Oriente Médio.	As áreas mais atingidas são as regiões áridas do norte da África, da Ásia Central e do Oriente Médio.
 125	NAT->STR	N	N	Mas zonas de intensa urbanização recente também foram incluídas no novo mapa da falta de água.	Mas zonas de intensa urbanização recente também foram incluídas no novo mapa da falta de água.
 125	NAT->STR	N	N	Exemplos de zonas de intensa urbanização são o sul dos EUA e o norte do México.	Exemplos de zonas de intensa urbanização são o sul dos EUA e o norte do México.
 125	NAT->STR	N	N	O especialista em reservas de água José Galizia Tundisi afirmou:	O especialista em reservas de água José Galizia Tundisi afirmou:
 125	NAT->STR	N	N	"A necessidade aumenta de forma radical no mundo todo".	"A necessidade aumenta de forma radical no mundo todo".
-125	NAT->STR	S	N	José galizia tundisi é do Instituto Internacional de Ecologia em São Carlos, no Estado de São Paulo.	José Galizia Tundisi é do Instituto Internacional de Ecologia em São Carlos, no Estado de São Paulo.
+125	NAT->STR	S	N	José galizia tundisi é do Instituto Internacional de Ecologia em São Carlos, no estado de São Paulo.	José Galizia Tundisi é do Instituto Internacional de Ecologia em São Carlos, no estado de São Paulo.
 125	NAT->STR	N	N	Tundisi disse:	Tundisi disse:
 125	NAT->STR	N	N	"As metrópoles não têm reservas de água suficientes para suportar o crescimento da população".	"As metrópoles não têm reservas de água suficientes para suportar o crescimento da população".
 126	NAT->STR	N	N	Por enquanto, é só sugestão.	Por enquanto, é só sugestão.
@@ -2998,7 +2998,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 136	NAT->STR	S	N	Ficando cada vez mais compacta, a estrela chega a um ponto em que a força da gravidade em sua superfície é tão grande que nem a luz é capaz de escapar dela.	Cada vez mais compacta, a estrela chega a um ponto em que a força da gravidade em sua superfície é tão grande que nem a luz é capaz de escapar dela.
 136	NAT->STR	S	N	A estrela fica invisível, ganhando o nome de buraco negro.	A estrela fica invisível e ganha o nome de buraco negro.
 136	NAT->STR	N	N	Rumo incerto.	Rumo incerto.
-136	NAT->STR	S	N	"Muitas vezes, a matéria vai mais para um lado, dando um empurrão na estreal e tirando-a de sua órbita."	"Muitas vezes, a matéria vai mais para um lado, dando um empurrão na estrela e tirando-a de sua órbita."
+136	NAT->STR	S	N	"Muitas vezes, a matéria vai mais para um lado, dando um empurrão na estreal e tirando-a de sua órbita".	"Muitas vezes, a matéria vai mais para um lado, dando um empurrão na estrela e tirando-a de sua órbita".
 136	NAT->STR	S	N	É por essa razão que o buraco negro GRO J 1655-40 está viajando a uma velocidade maior que a da maioria das estrelas da Via Láctea, diz Rodrigues.	Rodrigues diz que é por essa razão que o buraco negro GRO J 1655-40 está viajando a uma velocidade maior que a da maioria das estrelas da Via Láctea.
 136	NAT->STR	N	N	Ele teria sido chutado para fora de sua órbita regular em torno do centro da galáxia após a explosão da supernova e a transformação em buraco negro.	Ele teria sido chutado para fora de sua órbita regular em torno do centro da galáxia após a explosão da supernova e a transformação em buraco negro.
 136	NAT->STR	N	N	Sistema duplo.	Sistema duplo.
@@ -3020,8 +3020,8 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 137	NAT->STR	N	N	Se um desses explodisse sobre uma região habitada, poderia matar milhões.	Se um desses explodisse sobre uma região habitada, poderia matar milhões.
 138	NAT->STR	N	N	Se você precisar fazer algo que cause estresse, procure sair de perto de sua mulher, de seu marido, de seu melhor amigo ou de sua melhor amiga.	Se você precisar fazer algo que cause estresse, procure sair de perto de sua mulher, de seu marido, de seu melhor amigo ou de sua melhor amiga.
 138	NAT->STR	N	N	O estudo tem um título cheio de significado:	O estudo tem um título cheio de significado:
-138	NAT->STR	N	N	" Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:"	" Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:"
-138	NAT->STR	N	N	"A Verdade sobre Gatos e Cachorros ".	"A Verdade sobre Gatos e Cachorros ".
+138	NAT->STR	N	N	"Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:"	"Reatividade Cardiovascular e a Presença de Animais Domésticos, Amigos e Cônjuges:"
+138	NAT->STR	N	N	"A Verdade sobre Gatos e Cachorros".	"A Verdade sobre Gatos e Cachorros".
 138	NAT->STR	N	N	Foi publicado na revista médica "Psychosomatic Medicine".	Foi publicado na revista médica "Psychosomatic Medicine".
 138	NAT->STR	N	N	Metade dos casais do estudo tinha um cão ou um gato.	Metade dos casais do estudo tinha um cão ou um gato.
 138	NAT->STR	N	N	Os outros não tinham animais em casa há pelo menos cinco anos.	Os outros não tinham animais em casa há pelo menos cinco anos.
@@ -3041,8 +3041,8 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 139	NAT->STR	N	N	50 mil dólares da concepção à construção.	50 mil dólares da concepção à construção.
 139	NAT->STR	N	N	Mas ninguém deve pensar que o objetivo do grupo da USP é produzí-los em série para atender ao projeto proteoma.	Mas ninguém deve pensar que o objetivo do grupo da USP é produzí-los em série para atender ao projeto proteoma.
 139	NAT->STR	N	N	A física nuclear Suzana Salem Vasconcelos diz:	A física nuclear Suzana Salem Vasconcelos diz:
-139	NAT->STR	N	N	" A nossa idéia é desenvolver a tecnologia e treinar pessoal."	" A nossa idéia é desenvolver a tecnologia e treinar pessoal."
-139	NAT->STR	S	N	"Isso não é um equipamento que vise aplicação comercial. "	"Isso não é um equipamento que vise à aplicação comercial. "
+139	NAT->STR	N	N	"A nossa idéia é desenvolver a tecnologia e treinar pessoal".	"A nossa idéia é desenvolver a tecnologia e treinar pessoal".
+139	NAT->STR	S	N	"Isso não é um equipamento que vise aplicação comercial".	"Isso não é um equipamento que vise à aplicação comercial".
 139	NAT->STR	N	N	Suzana salem vasconcelos é do LIP.	Suzana salem vasconcelos é do LIP.
 139	NAT->STR	N	N	O Maldi "pesa" as moléculas bombardeando a porção que se quer estudar com pulsos de laser.	O Maldi "pesa" as moléculas bombardeando a porção que se quer estudar com pulsos de laser.
 139	NAT->STR	S	N	A energia faz com que a proteína fique carregada de eletricidade.	A energia faz a proteína ficar carregada de eletricidade.
@@ -3054,12 +3054,12 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 139	NAT->STR	N	N	Nenhum dos aparelhos tem desempenho semelhante a um comercial.	Nenhum dos aparelhos tem desempenho semelhante a um comercial.
 139	NAT->STR	N	N	Mas o grupo do LIP não troca seu aparelho por nenhum outro.	Mas o grupo do LIP não troca seu aparelho por nenhum outro.
 139	NAT->STR	N	N	Macchione diz:	Macchione diz:
-139	NAT->STR	S	N	" Quando você importa um equipamento, está comprando uma caixa preta."	" Se você importa um equipamento, está comprando uma caixa preta."
-139	NAT->STR	N	N	"Aqui, podemos ajustar o aparelho às nossas necessidades. "	"Aqui, podemos ajustar o aparelho às nossas necessidades. "
+139	NAT->STR	S	N	"Quando você importa um equipamento, está comprando uma caixa preta".	"Se você importa um equipamento, está comprando uma caixa preta".
+139	NAT->STR	N	N	"Aqui, podemos ajustar o aparelho às nossas necessidades".	"Aqui, podemos ajustar o aparelho às nossas necessidades".
 139	NAT->STR	N	N	O grupo diz logo que não tem nenhuma intenção de montar uma empresa para fazer espectrômetros em série.	O grupo diz logo que não tem nenhuma intenção de montar uma empresa para fazer espectrômetros em série.
 139	NAT->STR	N	N	Vasconcelos diz:	Vasconcelos diz:
-139	NAT->STR	S	N	" Mas não tenho restrição nenhuma em passar para a frente os desenhos e o conhecimento da tecnologia.	"Mas não tenho problema nenhum em passar para a frente os desenhos e o conhecimento da tecnologia."
-140	NAT->STR	S	N	A sigla Sars significa síndrome respiratória aguda grave).	A sigla Sars significa síndrome respiratória aguda grave.
+139	NAT->STR	S	N	"Mas não tenho restrição nenhuma em passar para a frente os desenhos e o conhecimento da tecnologia.	"Mas não tenho problema nenhum em passar para a frente os desenhos e o conhecimento da tecnologia".
+140	NAT->STR	N	N	A sigla Sars significa síndrome respiratória aguda grave.	A sigla Sars significa síndrome respiratória aguda grave.
 140	NAT->STR	N	N	O encontro do partido ocorreu um dia depois de a OMS ter dito que Pequim tem 200 casos de Sars em vez dos 37 informados.	O encontro do partido ocorreu um dia depois de a OMS ter dito que Pequim tem 200 casos de Sars em vez dos 37 informados.
 140	NAT->STR	S	N	Mas, segundo a agência de notícias France Presse, a Venezuela já tem um caso suspeito:	Mas a agência de notícias France Presse diz que a Venezuela já tem um caso suspeito:
 140	NAT->STR	N	N	Um homem de 48 anos que viajou há pouco tempo à China.	Um homem de 48 anos que viajou há pouco tempo à China.
@@ -3087,22 +3087,22 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 143	NAT->STR	N	N	A fase crítica para os dois animais é de duas a três semanas.	A fase crítica para os dois animais é de duas a três semanas.
 143	NAT->STR	N	N	A equipe não tem planos de clonagem no momento.	A equipe não tem planos de clonagem no momento.
 143	NAT->STR	N	N	Ryder diz:	Ryder diz:
-143	NAT->STR	N	N	"Esse é um projeto para os próximos cinco ou seis anos. "	"Esse é um projeto para os próximos cinco ou seis anos. "
+143	NAT->STR	N	N	"Esse é um projeto para os próximos cinco ou seis anos".	"Esse é um projeto para os próximos cinco ou seis anos".
 143	NAT->STR	N	N	Clonar animais continua sendo uma tarefa difícil.	Clonar animais continua sendo uma tarefa difícil.
 143	NAT->STR	N	N	Dos 30 embriões originais, 11 resultaram em gravidez.	Dos 30 embriões originais, 11 resultaram em gravidez.
 143	NAT->STR	S	N	Desses, só dois chegaram ao nascimento.	Só dois chegaram ao nascimento.
 144	NAT->STR	N	N	O secretário de Política Tecnológica Empresarial do Ministério da Ciência e Tecnologia (MCT) é Francelino Grando.	O secretário de Política Tecnológica Empresarial do Ministério da Ciência e Tecnologia (MCT) é Francelino Grando.
 144	NAT->STR	N	N	O secretário disse:	O secretário disse:
-144	NAT->STR	S	N	" É uma equação lógica."	" É uma proposta lógica."
-144	NAT->STR	N	N	"Temos de ter em mente que a soja transgênica não desaparecerá no próximo ano."	"Temos de ter em mente que a soja transgênica não desaparecerá no próximo ano."
-144	NAT->STR	S	N	"E precisamos ter uma alternativa. "	"Precisamos de uma alternativa. "
+144	NAT->STR	S	N	"É uma equação lógica".	"É uma proposta lógica".
+144	NAT->STR	N	N	"Temos de ter em mente que a soja transgênica não desaparecerá no próximo ano".	"Temos de ter em mente que a soja transgênica não desaparecerá no próximo ano".
+144	NAT->STR	S	N	"E precisamos ter uma alternativa".	"Precisamos de uma alternativa".
 144	NAT->STR	N	N	O ministro da Agricultura Roberto Rodrigues afirmou que o uso da soja transgênica "é uma boa idéia".	O ministro da Agricultura Roberto Rodrigues afirmou que o uso da soja transgênica "é uma boa idéia".
 144	NAT->STR	S	N	Ele defendeu até que se continue produzindo esse tipo de soja para "esmagá-la" e transformá-la em biodiesel.	Ele defendeu continuar a produção desse tipo de soja com o objetivo de "esmagá-la" e transformá-la em biodiesel.
 144	NAT->STR	S	N	O ministro da Agricultura também disse que essa proposta será discutida pelo governo.	O ministro da Agricultura também disse que o governo discutirá essa proposta.
 144	NAT->STR	N	N	Rodrigues afirmou:	Rodrigues afirmou:
 144	NAT->STR	N	N	O secretário do MCT também defendeu manter a produção dos transgênicos:	O secretário do MCT também defendeu manter a produção dos transgênicos:
-144	NAT->STR	S	N	"Um assunto de produção não pode ser tratado pela polícia."	"A polícia não pode tratar de um assunto de produção."
-144	NAT->STR	N	N	Francelino grando e Roberto Rodrigues chegaram ao evento de Ribeirão num ônibus pequeno movido a biodiesel.	Francelino grando e Roberto Rodrigues chegaram ao evento de Ribeirão num ônibus pequeno movido a biodiesel.
+144	NAT->STR	S	N	"Um assunto de produção não pode ser tratado pela polícia".	"A polícia não pode tratar de um assunto de produção".
+144	NAT->STR	N	N	Francelino Grando e Roberto Rodrigues chegaram ao evento de Ribeirão num ônibus pequeno movido a biodiesel.	Francelino Grando e Roberto Rodrigues chegaram ao evento de Ribeirão num ônibus pequeno movido a biodiesel.
 144	NAT->STR	N	N	Rodrigues afirmou:	Rodrigues afirmou:
 145	NAT->STR	N	N	O vírus que causa pneumonia asiática deve entrar para o enorme conjunto dos vírus assassinos que saíram da natureza e atingiram seres humanos.	O vírus que causa pneumonia asiática deve entrar para o enorme conjunto dos vírus assassinos que saíram da natureza e atingiram seres humanos.
 145	NAT->STR	S	N	E isso pode ser uma boa notícia.	Isso pode ser uma boa notícia.
@@ -3119,13 +3119,13 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 145	NAT->STR	N	N	Na opinião do cientista, o coronavírus Urbani pode ter um ponto fraco:	Na opinião do cientista, o coronavírus Urbani pode ter um ponto fraco:
 145	NAT->STR	N	N	O tamanho de seu conjunto de genes.	O tamanho de seu conjunto de genes.
 145	NAT->STR	N	N	Zanotto afirma:	Zanotto afirma:
-145	NAT->STR	S	N	"Ele precisa de grande fidelidade de replicação para ter um genoma desse tamanho."	"Ele precisa de grande fidelidade de replicação para ter um conjunto de genes desse tamanho."
+145	NAT->STR	S	N	"Ele precisa de grande fidelidade de replicação para ter um genoma desse tamanho".	"Ele precisa de grande fidelidade de replicação para ter um conjunto de genes desse tamanho".
 145	NAT->STR	S	N	Ou seja, algum mecanismo dos genes que faça a partícula produzir cópias de si mesma sem muitas trocas de "letras" no RNA.	Ele precisa de algum mecanismo dos genes que faça a partícula produzir cópias de si mesma sem muitas trocas de "letras" no RNA.
 145	NAT->STR	N	N	O pesquisador da USP afirmou que existem no mercado vacinas para coronavírus de aves e cachorros que funcionam bem.	O pesquisador da USP afirmou que existem no mercado vacinas para coronavírus de aves e cachorros que funcionam bem.
 146	NAT->STR	N	N	O ministro da Agricultura Roberto Rodrigues anunciou ontem o nascimento da vaca Vitoriosa.	O ministro da Agricultura Roberto Rodrigues anunciou ontem o nascimento da vaca Vitoriosa.
 146	NAT->STR	N	N	Na opinião de Rodrigues, o filhote coloca o estudo dos genes realizado no país em destaque no cenário mundial.	Na opinião de Rodrigues, o filhote coloca o estudo dos genes realizado no país em destaque no cenário mundial.
-146	NAT->STR	S	N	"Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal, mesmo que esteja velho."	" Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal."
-146	NAT->STR	S	N	"É a reprodução da qualidade."	"É a reprodução da qualidade. "
+146	NAT->STR	S	N	"Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal, mesmo que esteja velho".	"Se há um animal com genes de boa qualidade, a gente consegue manter isso em um filho clonado do animal".
+146	NAT->STR	N	N	"É a reprodução da qualidade".	"É a reprodução da qualidade".
 146	NAT->STR	N	N	Na opinião de Campanhola, a técnica pode ser aplicada imediatamente na produção de carne e leite.	Na opinião de Campanhola, a técnica pode ser aplicada imediatamente na produção de carne e leite.
 146	NAT->STR	S	N	Vitoriosa é o resultado de uma experiência realizada pela Embrapa.	Vitoriosa é o resultado de uma experiência que a Embrapa realizou.
 146	NAT->STR	N	N	Rodrigues afirmou:	Rodrigues afirmou:
@@ -3150,10 +3150,10 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 150	NAT->STR	S	N	Se o pedaço a ser analisado contiver milhares de organismos diferentes, há uma dificuldade natural de montar o quebra-cabeças em seguida à leitura das seqüências de DNA.	Se o pedaço a ser analisado contiver milhares de organismos diferentes, há uma dificuldade natural de montar o quebra-cabeças.
 150	NAT->STR	S	N	A sorte dos cientistas comandados por Jillian Banfield, da Universidade da Califórnia em Berkeley, foi que o pedaço de restos ácidos analisado tinha um pequeno número de organismos.	A sorte dos cientistas comandados por Jillian Banfield foi que o pedaço de restos ácidos analisado tinha um pequeno número de organismos.
 150	NAT->STR	S	N	Os cientistas escreveram em seu artigo, que foi publicado anteontem pela revista científica "Nature":	Os cientistas escreveram em seu artigo que a revista "Nature" publicou antes de ontem:
-150	NAT->STR	S	N	"Obtivemos a primeira reconstrução de múltiplos conjuntos de genes diretamente de um pedaço natural".	"Obtivemos a primeira reconstrução de múltiplos conjuntos de genes diretamente de um pedaço natural."
+150	NAT->STR	N	N	"Obtivemos a primeira reconstrução de múltiplos conjuntos de genes diretamente de um pedaço natural".	"Obtivemos a primeira reconstrução de múltiplos conjuntos de genes diretamente de um pedaço natural".
 150	NAT->STR	N	N	Eles dizem:	Eles dizem:
 150	NAT->STR	N	N	Eles escrevem:	Eles escrevem:
-150	NAT->STR	S	N	"A reconstrução dos conjuntos de genes foi facilitada pelo fato de que a comunidade era dominada por populações de poucas espécies distintas."	"O fato de que populações de poucas espécies dominavam a comunidade facilitou a reconstrução dos conjuntos de genes."
+150	NAT->STR	S	N	"A reconstrução dos conjuntos de genes foi facilitada pelo fato de que a comunidade era dominada por populações de poucas espécies distintas".	"O fato de que populações de poucas espécies dominavam a comunidade facilitou a reconstrução dos conjuntos de genes".
 151	NAT->STR	S	N	Mesmo assim, ele e seus colegas mostraram provas de que o uso de substâncias como a vitamina E poderia reduzir os danos causados pelo colesterol aos pacientes com a doença.	Mas ele e seus colegas mostraram provas de que o uso de substâncias como a vitamina E poderia reduzir os danos que o colesterol causa aos pacientes.
 151	NAT->STR	N	N	Vitaminas.	Vitaminas.
 151	NAT->STR	N	N	Parece que o fator principal para que ela apareça é a concentração da proteína beta-amilóide nas células nervosas, em geral de pessoas idosas.	Parece que o fator principal para que ela apareça é a concentração da proteína beta-amilóide nas células nervosas, em geral de pessoas idosas.
@@ -3169,19 +3169,19 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 152	NAT->STR	N	N	A partir da observação de 35 pacientes entre julho de 1999 e o meio de 2000, ele verificou que um terço dos pacientes melhorou com uma parada de três meses no consumo das drogas.	A partir da observação de 35 pacientes entre julho de 1999 e o meio de 2000, ele verificou que um terço dos pacientes melhorou com uma parada de três meses no consumo das drogas.
 152	NAT->STR	N	N	Se eles vencessem essa batalha, bastaria dar outra vez o mesmo medicamento algum tempo depois, para que ele voltasse a reduzir o número de vírus no organismo, matando os vencedores da guerra dos vírus.	Se eles vencessem essa batalha, bastaria dar outra vez o mesmo medicamento algum tempo depois, para que ele voltasse a reduzir o número de vírus no organismo, matando os vencedores da guerra dos vírus.
 152	NAT->STR	N	N	Matos diz:	Matos diz:
-152	NAT->STR	S	N	"Ela não é recomendada por todos."	"Nem todos a recomendam."
+152	NAT->STR	S	N	"Ela não é recomendada por todos".	"Nem todos a recomendam".
 152	NAT->STR	N	N	Claro que as variáveis para a melhor estratégia de interrupção ainda estão longe de serem esclarecidas.	Claro que as variáveis para a melhor estratégia de interrupção ainda estão longe de serem esclarecidas.
 152	NAT->STR	S	N	Na pesquisa de Matos, foi adotada uma parada de três meses.	Matos adotou na pesquisa uma parada de três meses.
 152	NAT->STR	S	N	No estudo alemão, foram dois meses.	No estudo alemão, foram três meses.
 152	NAT->STR	S	N	E há médicos que tentam estratégias como interrupção nos fins de semana ou em semanas com medicamento e semanas sem medicamento.	Há médicos que tentam estratégias de interrupção nos fins de semana ou em semanas com medicamento e semanas sem medicamento.
 152	NAT->STR	N	N	O médico da UFPA usa uma metáfora do futebol com o objetivo de explicar a variação no tempo de interrupção:	O médico da UFPA usa uma metáfora do futebol com o objetivo de explicar a variação no tempo de interrupção:
-152	NAT->STR	N	N	" Imagine que temos a torcida do Flamengo e a do América."	" Imagine que temos a torcida do Flamengo e a do América."
+152	NAT->STR	N	N	"Imagine que temos a torcida do Flamengo e a do América".	"Imagine que temos a torcida do Flamengo e a do América".
 152	NAT->STR	N	N	"Se tirarmos a comida dos flamenguistas, quanto tempo vai levar para que os torcedores americanos os ultrapassem em número?"	"Se tirarmos a comida dos flamenguistas, quanto tempo vai levar para que os torcedores americanos os ultrapassem em número?"
-152	NAT->STR	S	N	"Esse é o período em que podemos realizar a interrupção. "	"Esse é o período da interrupção. "
+152	NAT->STR	S	N	"Esse é o período em que podemos realizar a interrupção".	"Esse é o período da interrupção".
 152	NAT->STR	S	N	Na opinião dele, em condições ideais, o método funcionaria melhor em pacientes que tivessem um quadro que não muda, com baixo número de vírus e forte presença de células de defesa.	Na opinião dele, o método funcionaria melhor em pacientes com um quadro que não muda, com baixo número de vírus e forte presença de células de defesa.
 152	NAT->STR	S	N	Mas, de acordo com as regras médicas, não se pode fazer experiências de interrupção com esses pacientes.	Mas as regras médicas dizem que não se pode fazer experiências de interrupção com esses pacientes.
 152	NAT->STR	S	N	Todos os 35 estudados não respondiam mais aos tratamentos tradicionais quando foram escolhidos para a pesquisa.	Todos os 35 estudados não respondiam mais aos tratamentos tradicionais no momento em que foram escolhidos para a pesquisa.
-152	NAT->STR	N	N	" Acho que a contribuição do nosso trabalho é que, no passado, parecia um crime parar de tomar a droga."	" Acho que a contribuição do nosso trabalho é que, no passado, parecia um crime parar de tomar a droga."
+152	NAT->STR	N	N	"Acho que a contribuição do nosso trabalho é que no passado parecia um crime parar de tomar a droga".	"Acho que a contribuição do nosso trabalho é que no passado parecia um crime parar de tomar a droga".
 152	NAT->STR	S	N	A pesquisa foi divulgada na edição deste mês da revista "Pesquisa Fapesp".	A revista foi divulgada na edição deste mês da revista "Pesquisa Fapesp".
 153	NAT->STR	N	N	George Smoot é pessoa conhecida no estudo da radiação cósmica de fundo.	George Smoot é pessoa conhecida no estudo da radiação cósmica de fundo.
 153	NAT->STR	S	N	Ela foi descoberta em 1965, em seguida à previsão que está no modelo do Big Bang criado pelo russo-americano George Gamow.	Ela foi descoberta em 1965, em seguida à previsão que está no modelo do Big Bang que o russo-americano George Gamow criou.
@@ -3190,13 +3190,13 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 154	NAT->STR	N	N	O estudo da Embrapa verificou que esse processo de entupimento do rio se acelerou a partir da década de 1970.	O estudo da Embrapa verificou que esse processo de entupimento do rio se acelerou a partir da década de 1970.
 154	NAT->STR	N	N	Naquela época, o governo militar incentivou as pessoas a irem morar em áreas do planalto do entorno do Pantanal, com o objetivo de desenvolver agricultura e criação de gado.	Naquela época, o governo militar incentivou as pessoas a irem morar em áreas do planalto do entorno do Pantanal, com o objetivo de desenvolver agricultura e criação de gado.
 154	NAT->STR	N	N	Emiko resende diz:	Emiko resende diz:
-154	NAT->STR	S	N	"Aquela área toda do alto Taquari é, na sua maior parte, constituída de areia."	"Aquela área toda do alto Taquari é constituída de areia."
-154	NAT->STR	N	N	"Se você tirar a cobertura vegetal para colocar pasto ou agricultura, a primeira chuva arrasta uma quantidade enorme de areia para o rio. "	"Se você tirar a cobertura vegetal para colocar pasto ou agricultura, a primeira chuva arrasta uma quantidade enorme de areia para o rio. "
+154	NAT->STR	S	N	"Aquela área toda do alto Taquari é, na sua maior parte, constituída de areia".	"Aquela área toda do alto Taquari é constituída de areia".
+154	NAT->STR	N	N	"Se você tirar a cobertura vegetal para colocar pasto ou agricultura, a primeira chuva arrasta uma quantidade enorme de areia para o rio".	"Se você tirar a cobertura vegetal para colocar pasto ou agricultura, a primeira chuva arrasta uma quantidade enorme de areia para o rio".
 154	NAT->STR	N	N	A destruição de trechos da vegetação que acompanha o curso do rio também contribuiu para o problema.	A destruição de trechos da vegetação que acompanha o curso do rio também contribuiu para o problema.
 154	NAT->STR	N	N	A vegetação que acompanha o curso do rio se chama mata ciliar.	A vegetação que acompanha o curso do rio se chama mata ciliar.
 154	NAT->STR	S	N	A areia, a terra e os detritos são arrastados para a parte baixa do rio.	A areia, a terra e os restos são arrastados para a parte baixa do rio.
 155	NAT->STR	N	N	Em conseqüência, a ação da água despejou toneladas de terra no Taquari.	Em conseqüência, a ação da água despejou toneladas de terra no Taquari.
-155	NAT->STR	S	N	" O objetivo é despertar a consciência ambiental."	"O objetivo é despertar a consciência ambiental."
+155	NAT->STR	N	N	"O objetivo é despertar a consciência ambiental".	"O objetivo é despertar a consciência ambiental".
 155	NAT->STR	S	N	"A multa pode ser reduzida em 90% se for apresentado um plano de recuperação da área ", afirmou Nereu Fontes.	"Se for apresentado um plano de recuperação da área, a multa pode ser reduzida em 90% ", afirmou Nereu Fontes.
 155	NAT->STR	N	N	Nereu Fontes é o gerente-executivo do Ibama em Campo Grande, em Mato Grosso do Sul.	Nereu Fontes é o gerente-executivo do Ibama em Campo Grande, em Mato Grosso do Sul.
 155	NAT->STR	N	N	O chefe do Programa Pantanal do Ministério do Meio Ambiente recebeu o estudo da Embrapa sobre o Taquari no início de julho.	O chefe do Programa Pantanal do Ministério do Meio Ambiente recebeu o estudo da Embrapa sobre o Taquari no início de julho.
@@ -3217,10 +3217,10 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 157	NAT->STR	N	N	A boa é que se pode conter a gripe do frango.	A boa é que se pode conter a gripe do frango.
 157	NAT->STR	N	N	A má é que será preciso mais que uma boa idéia para conter a doença.	A má é que será preciso mais que uma boa idéia para conter a doença.
 157	NAT->STR	N	N	Ferguson disse:	Ferguson disse:
-157	NAT->STR	S	N	" Você precisa de uma combinação de estratégias."	"Você precisa de uma combinação de estratégias."
-157	NAT->STR	N	N	"Nenhuma sozinha conseguiria prevenir com sucesso uma epidemia. "	"Nenhuma sozinha conseguiria prevenir com sucesso uma epidemia. "
+157	NAT->STR	N	N	"Você precisa de uma combinação de estratégias".	"Você precisa de uma combinação de estratégias".
+157	NAT->STR	N	N	"Nenhuma sozinha conseguiria prevenir com sucesso uma epidemia".	"Nenhuma sozinha conseguiria prevenir com sucesso uma epidemia".
 158	NAT->STR	N	N	Chineses e americanos enxergam o mundo de jeitos distintos, a julgar por uma pesquisa publicada hoje.	Chineses e americanos enxergam o mundo de jeitos distintos, a julgar por uma pesquisa publicada hoje.
-158	NAT->STR	S	N	" As diferenças não são minúsculas."	"As diferenças não são minúsculas."
+158	NAT->STR	N	N	"As diferenças não são minúsculas".	"As diferenças não são minúsculas".
 158	NAT->STR	N	N	Ele atribui à sua colega Hannah Faye Chua a idéia de testar de forma visual um dado já verificado de modo verbal.	Ele atribui à sua colega Hannah Faye Chua a idéia de testar de forma visual um dado já verificado de modo verbal.
 158	NAT->STR	S	N	Se isso é verdade, em que estágio do ato de perceber ou do processamento da imagem estaria a diferença?	Se isso é verdade, a diferença estaria em que estágio do ato de perceber ou do processamento da imagem?
 158	NAT->STR	N	N	Realmente, os chineses olhavam mais para o fundo com mais intensidade e focalizando mais áreas da imagem.	Realmente, os chineses olhavam mais para o fundo com mais intensidade e focalizando mais áreas da imagem.
@@ -3267,7 +3267,7 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 161	NAT->STR	N	N	Mas os cientistas continuam sem saber como ela funciona.	Mas os cientistas continuam sem saber como ela funciona.
 161	NAT->STR	S	N	Foi na esperança de entender o fenômeno que Stevani e seus colegas se puseram a procurar cogumelos do tipo no Brasil.	Na esperança de entender o fenômeno, Stevani e seus colegas se puseram a procurar cogumelos do tipo no Brasil.
 161	NAT->STR	N	N	O químico explica:	O químico explica:
-161	NAT->STR	S	N	"Além do mais, a luz é muito fraca, até sob o luar. "	"Além do mais, a luz é muito fraca até sob o luar."
+161	NAT->STR	S	N	"Além do mais, a luz é muito fraca, até sob o luar".	"Além do mais, a luz é muito fraca até sob o luar".
 161	NAT->STR	N	N	Com base em histórias de moradores e muita paciência na coleta, a equipe chegou aos cogumelos em dois locais:	Com base em histórias de moradores e muita paciência na coleta, a equipe chegou aos cogumelos em dois locais:
 161	NAT->STR	N	N	O Parque Estadual Turístico do Alto Ribeira, em Iporanga, São Paulo, e uma área de mata ciliar no município de Costa Rica, Mato Grosso do Sul.	O Parque Estadual Turístico do Alto Ribeira, em Iporanga, São Paulo, e uma área de mata ciliar no município de Costa Rica, Mato Grosso do Sul.
 161	NAT->STR	S	N	Outras histórias sugerem que fungos parecidos podem ser encontrados no Tocantins e no Amazonas.	Outras histórias sugerem que se podem encontrar fungos parecidos no Tocantins e no Amazonas.
@@ -3279,49 +3279,49 @@ production_id	level	changed	split	sentence_text_from	sentence_text_to
 161	NAT->STR	N	N	Se o gene for estimulado, a proteína "acende".	Se o gene for estimulado, a proteína "acende".
 162	NAT->STR	S	N	A má é que o bicho, por enquanto, não passa de um dente.	A má é que o bicho não passa de um dente.
 162	NAT->STR	N	N	Gesticulando para indicar o tamanho do trabalho à frente, diz:	Gesticulando para indicar o tamanho do trabalho à frente, diz:
-162	NAT->STR	S	N	" Estamos com um saco de 200 kg de terra para peneirar.	" Estamos com um saco de 200 kg de terra para peneirar."
-162	NAT->STR	S	N	Quem sabe não encontramos mais alguma coisa? ".	"Quem sabe não encontramos mais alguma coisa? "
+162	NAT->STR	S	N	"Estamos com um saco de 200 kg de terra para peneirar.	"Estamos com um saco de 200 kg de terra para peneirar".
+162	NAT->STR	N	N	"Quem sabe não encontramos mais alguma coisa?".	"Quem sabe não encontramos mais alguma coisa?".
 162	NAT->STR	N	N	Afirmou durante o 2º Congresso Latino-Americano de Paleontologia de Vertebrados no Rio de Janeiro.	Afirmou durante o 2º Congresso Latino-Americano de Paleontologia de Vertebrados no Rio de Janeiro.
 162	NAT->STR	N	N	Tejedor diz:	Tejedor diz:
-162	NAT->STR	N	N	"Achamos que é mais provável que ele seja um marsupial."	"Achamos que é mais provável que ele seja um marsupial."
+162	NAT->STR	N	N	"Achamos que é mais provável que ele seja um marsupial".	"Achamos que é mais provável que ele seja um marsupial".
 162	NAT->STR	N	N	Se essa hipótese for verdadeira, os pesquisadores já sabem até em que grupo marsupial incluir o dente:	Se essa hipótese for verdadeira, os pesquisadores já sabem até em que grupo marsupial incluir o dente:
 162	NAT->STR	N	N	Tejedor afirma:	Tejedor afirma:
-162	NAT->STR	N	N	"As elevações do dente indicam essa dieta."	"As elevações do dente indicam essa dieta."
+162	NAT->STR	N	N	"As elevações do dente indicam essa dieta".	"As elevações do dente indicam essa dieta".
 162	NAT->STR	N	N	A importância do achado vem da sua idade.	A importância do achado vem da sua idade.
 162	NAT->STR	N	N	Mas todos são formas muito primitivas, sem nenhuma relação direta com as espécies do grupo que estão vivas hoje.	Mas todos são formas muito primitivas, sem nenhuma relação direta com as espécies do grupo que estão vivas hoje.
 162	NAT->STR	N	N	A coisa muda de figura com o novo mamífero.	A coisa muda de figura com o novo mamífero.
 162	NAT->STR	N	N	Ele foi achado no meio de um terreno de origem marinha:	Ele foi achado no meio de um terreno de origem marinha:
 162	NAT->STR	N	N	Pouco abaixo dele, nas camadas de rocha, estão moluscos fósseis que se extinguiram no fim do Cretáceo, ao passo que lhe faziam companhia moluscos típicos do Paleoceno.	Pouco abaixo dele, nas camadas de rocha, estão moluscos fósseis que se extinguiram no fim do Cretáceo, ao passo que lhe faziam companhia moluscos típicos do Paleoceno.
 162	NAT->STR	N	N	O paleontólogo argentino resume:	O paleontólogo argentino resume:
-162	NAT->STR	N	N	"Isso significa que ele não é mais velho que 65 milhões de anos nem mais recente que 61,5 milhões de anos."	"Isso significa que ele não é mais velho que 65 milhões de anos nem mais recente que 61,5 milhões de anos."
+162	NAT->STR	N	N	"Isso significa que ele não é mais velho que 65 milhões de anos nem mais recente que 61,5 milhões de anos".	"Isso significa que ele não é mais velho que 65 milhões de anos nem mais recente que 61,5 milhões de anos".
 163	NAT->STR	N	N	Esqueça o machado de pedra, a invenção do fogo ou o primeiro jogo de futebol.	Esqueça o machado de pedra, a invenção do fogo ou o primeiro jogo de futebol.
 163	NAT->STR	N	N	Raízes.	Raízes.
 163	NAT->STR	S	N	Na opinião da dupla, os Usos foram úteis como fonte de nutrientes relativamente rica e em que se pode confiar em tempos de falta de alimentos.	Na opinião da dupla, os Usos foram fontes de nutrientes relativamente ricas e em que podiam confiar em tempos de falta de alimentos.
 163	NAT->STR	N	N	Laden explicou à Folha:	Laden explicou à Folha:
-163	NAT->STR	N	N	"Mas é o fator limitador que conta mais."	"Mas é o fator limitador que conta mais."
-163	NAT->STR	S	N	"É aí que a seleção geralmente vai ser mais forte. "	"É aí que a seleção geralmente vai ser mais forte."
+163	NAT->STR	N	N	"Mas é o fator limitador que conta mais".	"Mas é o fator limitador que conta mais".
+163	NAT->STR	N	N	"É aí que a seleção geralmente vai ser mais forte".	"É aí que a seleção geralmente vai ser mais forte".
 163	NAT->STR	S	N	É claro que, sem provas mais concretas, a teoria não passaria de mais uma história interessante sobre as origens humanas.	É claro que a teoria não passaria de mais uma história interessante sobre as origens humanas sem provas mais concretas.
 163	NAT->STR	N	N	No princípio era a mata.	No princípio era a mata.
 163	NAT->STR	S	N	Nesses locais, há relativamente poucas raízes e tubérculos comestíveis.	Há relativamente poucas raízes e tubérculos comestíveis nesses locais.
 163	NAT->STR	N	N	Além disso, esse talvez seja o ponto fraco da proposta:	Além disso, esse talvez seja o ponto fraco da proposta:
 163	NAT->STR	N	N	Laden responde:	Laden responde:
-163	NAT->STR	N	N	"As savanas provavelmente eram um ambiente raro nessa época."	"As savanas provavelmente eram um ambiente raro nessa época."
-163	NAT->STR	N	N	"Mas pense nas raízes como uma corrente marítima que carrega os animais."	"Mas pense nas raízes como uma corrente marítima que carrega os animais."
+163	NAT->STR	N	N	"As savanas provavelmente eram um ambiente raro nessa época".	"As savanas provavelmente eram um ambiente raro nessa época".
+163	NAT->STR	N	N	"Mas pense nas raízes como uma corrente marítima que carrega os animais".	"Mas pense nas raízes como uma corrente marítima que carrega os animais".
 163	NAT->STR	S	N	Por fim, vários dos mais antigos hominídeos são caracterizados por mandíbulas fortes, dentes com coroas grandes e esmalte grosso.	Por fim, vários dos hominídeos mais antigos têm mandíbulas fortes, dentes com coroas grandes e esmalte grosso.
 163	NAT->STR	N	N	Na opinião da dupla, é sinal de que eles estavam adaptados para mastigar raízes duras.	Na opinião da dupla, é sinal de que eles estavam adaptados para mastigar raízes duras.
 163	NAT->STR	N	N	Laden afirma:	Laden afirma:
 163	NAT->STR	N	N	Assim, a teoria ficaria mais sólida.	Assim, a teoria ficaria mais sólida.
 163	NAT->STR	N	N	O estudo estará numa edição futura da publicação científica "Journal of Human Evolution".	O estudo estará numa edição futura da publicação científica "Journal of Human Evolution".
 164	NAT->STR	N	N	Os cientistas tiveram de quebrar a cabeça por décadas com o objetivo de criar remédios contra o veneno das cobras.	Os cientistas tiveram de quebrar a cabeça por décadas com o objetivo de criar remédios contra o veneno das cobras.
-164	NAT->STR	N	N	"Elas foram eficientes contra o câncer de mama nos testes in vitro."	"Elas foram eficientes contra o câncer de mama nos testes in vitro."
+164	NAT->STR	N	N	"Elas foram eficientes contra o câncer de mama nos testes in vitro".	"Elas foram eficientes contra o câncer de mama nos testes in vitro".
 164	NAT->STR	S	N	É possível que o organismo dos gambás e de outros animais parecidos tenha modificado substâncias já existentes com o objetivo de lidar com veneno.	É possível que o organismo dos gambás e de outros animais parecidos tenha modificado substâncias já existentes com o objetivo de lidar com o veneno.
 164	NAT->STR	N	N	As jararacas e outras cobras parecidas são responsáveis por 90% dos 20 mil acidentes anuais com cobras no Brasil.	As jararacas e outras cobras parecidas são responsáveis por 90% dos 20 mil acidentes anuais com cobras no Brasil.
 164	NAT->STR	N	N	Perales diz:	Perales diz:
-164	NAT->STR	S	N	"As substâncias são capazes de agir contra o veneno tanto de cobras sul-americano quanto de algumas asiáticas."	"As substâncias são capazes de agir contra o veneno tanto de cobras sul-americano quanto de algumas da Ásia."
+164	NAT->STR	S	N	"As substâncias são capazes de agir contra o veneno tanto de cobras sul-americano quanto de algumas asiáticas".	"As substâncias são capazes de agir contra o veneno tanto de cobras sul-americano quanto de algumas da Ásia".
 164	NAT->STR	N	N	Perales diz:	Perales diz:
-164	NAT->STR	N	N	"Cremos que elas seriam mais eficientes que os remédios atuais para impedir tanto a perda de sangue quanto a lesão nos músculos."	"Cremos que elas seriam mais eficientes que os remédios atuais para impedir tanto a perda de sangue quanto a lesão nos músculos."
-164	NAT->STR	N	N	Diz: " Mas o problema maior é o dano causado no local em seguida à picada."	Diz: " Mas o problema maior é o dano causado no local em seguida à picada."
-164	NAT->STR	N	N	"Não adianta muito tentar eliminá-lo depois que o tecido já foi alterado."	"Não adianta muito tentar eliminá-lo depois que o tecido já foi alterado."
+164	NAT->STR	N	N	"Cremos que elas seriam mais eficientes que os remédios atuais para impedir tanto a perda de sangue quanto a lesão nos músculos".	"Cremos que elas seriam mais eficientes que os remédios atuais para impedir tanto a perda de sangue quanto a lesão nos músculos".
+164	NAT->STR	N	N	Diz: "Mas o problema maior é o dano causado no local em seguida à picada".	Diz: "Mas o problema maior é o dano causado no local em seguida à picada".
+164	NAT->STR	N	N	"Não adianta muito tentar eliminá-lo depois que o tecido já foi alterado".	"Não adianta muito tentar eliminá-lo depois que o tecido já foi alterado".
 164	NAT->STR	N	N	Perales e seus colegas também estão investigando a ação das substâncias contra doenças como o câncer.	Perales e seus colegas também estão investigando a ação das substâncias contra doenças como o câncer.
 164	NAT->STR	N	N	Motivo: algumas das mesmas moléculas do veneno de serpente parecem estar envolvidas nas doenças humanas.	Motivo: algumas das mesmas moléculas do veneno de serpente parecem estar envolvidas nas doenças humanas.
 165	NAT->STR	N	N	Mas uma nova pesquisa japonesa promete juntar as duas coisas no futuro.	Mas uma nova pesquisa japonesa promete juntar as duas coisas no futuro.

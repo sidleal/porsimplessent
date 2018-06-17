@@ -100,6 +100,10 @@ func generateConcatFiles(level string, fileName string, sentences []Sentence, al
 	count := 1
 	for _, item := range sentences {
 		if item.Level == level {
+			// if item.Producao != "83" {
+			// 	continue
+			// }
+
 			log.Println("-----------------------------------------------")
 
 			log.Println(count, item.Level, item.Producao, item.Text, item.Sentence, item.RawText)
