@@ -91,35 +91,35 @@ In the file triplets_length.tsv, are sentences from the 3 levels, generated from
 
 ## Statistics
 ```
-Total sentences Original: 2914
-      Zero Hora: 2071
-      Caderno Ciencia FSP: 843
-Total sentences Natural: 4073
-Total sentences Strong: 4979
-Total sentences ALL: 11966
+Total sentences Original: 2907
+      Zero Hora: 2067
+      Caderno Ciencia FSP: 840
+Total sentences Natural: 4066
+Total sentences Strong: 4971
+Total sentences ALL: 11944
 
-Total sentences NO SIMPLIFICATION Original->Natural: 566
+Total sentences NO SIMPLIFICATION Original->Natural: 565
 Total sentences NO SIMPLIFICATION Natural->Strong: 2619
 
-Total sentences SPLIT Original->Natural: 827
+Total sentences SPLIT Original->Natural: 826
 Total sentences SPLIT Natural->Strong: 721
 
-Total sentences Natural from split: 1991
+Total sentences Natural from split: 1990
 Total sentences Strong from split: 1625
 
-Total sentences SIMPLIFIED (no split) Original->Natural: 1521
-Total sentences SIMPLIFIED (no split) Natural->Strong: 736
+Total sentences SIMPLIFIED (no split) Original->Natural: 1515
+Total sentences SIMPLIFIED (no split) Natural->Strong: 729
 
-Total pairs simplified Original->Natural: 2347
-Total pairs simplified Natural->Strong: 1457
-Total pairs simplified Original->Strong: 1106
-Total all pairs simplified: 4910
+Total pairs simplified Original->Natural: 2340
+Total pairs simplified Natural->Strong: 1450
+Total pairs simplified Original->Strong: 1101
+Total all pairs simplified: 4891
 
 Total triplets NO SIMPLIFICATION 3 Levels: 393
-Total triplets Simplified Only Original->Natural: 1300
-Total triplets Simplified Only Natural->Strong: 182
-Total triplets Simplified 3 Levels: 1106
-Total triplets: 2981
+Total triplets Simplified Only Original->Natural: 1297
+Total triplets Simplified Only Natural->Strong: 181
+Total triplets Simplified 3 Levels: 1099
+Total triplets: 2970
 
 Mean token size of sentences - simplified (no split) - Ori->Nat: 20
 Min token size of sentences - simplified (no split) - Ori->Nat: 3
@@ -145,18 +145,18 @@ Mean tokens size diff of sentences - Originals vs simplified (with split) - Ori-
 Min tokens size diff of sentences - Originals vs simplified (with split) - Ori->Nat: 1
 Max tokens size diff of sentences - Originals vs simplified (with split) - Ori->Nat: 64
 
-Total PSS1 Original->Natural: 3511
-Total PSS1 Natural->Strong: 4979
-Total PSS1 Original->Strong: 2056
-Total geral PSS1: 10546
+Total PSS1 Original->Natural: 3504
+Total PSS1 Natural->Strong: 4971
+Total PSS1 Original->Strong: 2047
+Total geral PSS1: 10522
 
-Total PSS2 Original->Natural: 2347
-Total PSS2 Natural->Strong: 1457
-Total PSS2 Original->Strong: 1066
-Total geral PSS2: 4870
+Total PSS2 Original->Natural: 2340
+Total PSS2 Natural->Strong: 1450
+Total PSS2 Original->Strong: 1062
+Total geral PSS2: 4852
 
-Total PSS3 Original->Natural: 1521
-Total PSS3 Natural->Strong: 736
-Total PSS3 Original->Strong: 262
-Total geral PSS3: 2519
+Total PSS3 Original->Natural: 1515
+Total PSS3 Natural->Strong: 729
+Total PSS3 Original->Strong: 260
+Total geral PSS3: 2504
 ```
