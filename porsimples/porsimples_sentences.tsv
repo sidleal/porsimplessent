@@ -4537,8 +4537,7 @@
 59	STR	1118	23222	13	Bulling é diretor da Fiscalização da Smic. 
 60	ORI	613	12514	1	A Americanas e o Submarino, as duas maiores empresas de comércio eletrônico do Brasil, anunciaram ontem uma fusão que dará lugar a um gigante das vendas no varejo pela Internet, televisão e quiosques. 
 60	ORI	613	12515	1	Com o negócio, foi criado o maior site de comércio eletrônico do país, cujo valor de mercado é de R$ 6 bilhões. 
-60	ORI	613	12516	2	A nova empresa -- B2W Companhia Global de Varejo -- oferecerá ao público mais de 30 categorias de produtos -- livros, CDs, brinquedos, perfumes, eletrodomésticos, artigos esportivos e para o lar, entre outros, por meio das marcas Submarino, Americanas. 
-60	ORI	613	12517	2	Com e Shoptime. 
+60	ORI	613	12516	2	A nova empresa -- B2W Companhia Global de Varejo -- oferecerá ao público mais de 30 categorias de produtos -- livros, CDs, brinquedos, perfumes, eletrodomésticos, artigos esportivos e para o lar, entre outros, por meio das marcas Submarino, AmericanasCom e Shoptime. 
 60	ORI	613	12518	2	E oferecerá diferentes serviços pela Internet como revelação digital de fotos, venda de viagens e de ingressos e download de áudio. 
 60	ORI	613	12519	3	A B2W, que deverá ser listada no Novo Mercado da Bolsa de Valores de São Paulo, nasce com faturamento bruto de R$ 1,6 bilhão até setembro (R$ 563 milhões do Submarino e R$ 1 bilhão da Americanas). 
 60	ORI	613	12520	3	"A B2W será capaz de competir com as principais empresas de varejo brasileiras em um mercado estimado em R$ 200 bilhões", assinala o comunicado conjunto divulgado ontem pelas duas companhias. 
@@ -9141,8 +9140,7 @@
 123	ORI	1219	25320	1	Um ser que invade corpos e domina a mente alheia, forçando suas vítimas a fazer o que ele ordena, não é mero personagem de ficção. 
 123	ORI	1219	25321	1	Para uma aranha da Costa Rica, essa criatura existe. 
 123	ORI	1219	25322	2	E não se trata de nenhum extraterrestre. 
-123	ORI	1219	25323	2	Apesar do nome, Hymenoepimecis sp., 
-123	ORI	1219	25324	2	O tal invasor de corpos é só uma vespa. 
+123	ORI	1219	25323	2	Apesar do nome, Hymenoepimecis sp., o tal invasor de corpos é só uma vespa. 
 123	ORI	1219	25325	3	O biólogo William Eberhard, da Universidade da Costa Rica, descobriu que as larvas desse inseto, ao parasitar a aranha Plesiometa argyra, provocam mudanças no comportamento da hospedeira. 
 123	ORI	1219	25326	4	A larva induz quimicamente a aranha a modificar o formato da própria teia para que o casulo da vespa possa se desenvolver. 
 123	ORI	1219	25327	4	Não satisfeita com a manipulação, ainda mata e devora sua anfitriã. 
@@ -11069,8 +11067,8 @@
 155	ORI	1409	29256	4	O coordenador do Programa Pantanal do Ministério do Meio Ambiente, Paulo Guilherme Cabral, recebeu o estudo da Embrapa sobre o Taquari no início de julho. 
 155	ORI	1409	29257	4	Ele disse que a ministra Marina Silva criou um grupo de trabalho para analisar as propostas. 
 155	ORI	1409	29258	5	Existem, segundo Cabral, projetos polêmicos dentro do estudo, como a dragagem (retirada de terra do rio). 
-155	ORI	1409	29259	5	"Onde vamos colocar essa terra no Pantanal?", 
-155	ORI	1409	29260	5	Questiona. A Sema (Secretaria do Meio Ambiente de Mato Grosso do Sul) informou que defende a dragagem e estuda a contratação de uma empresa para o serviço. 
+155	ORI	1409	29259	5	"Onde vamos colocar essa terra no Pantanal?", questiona. 
+155	ORI	1409	29260	5	A Sema (Secretaria do Meio Ambiente de Mato Grosso do Sul) informou que defende a dragagem e estuda a contratação de uma empresa para o serviço. 
 155	ORI	1409	29261	6	A situação do rio Taquari motivou a criação do Programa Pantanal, quando o então presidente Fernando Henrique Cardoso, em 1995, sobrevoou a região e ficou impressionado com o rio assoreado, invadindo fazendas. 
 155	NAT	1410	29262	1	O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) aplicou, desde maio passado, multas de cerca de R$ 50 milhões a pelo menos 200 fazendeiros cujas terras estão às margens do Taquari. 
 155	NAT	1410	29263	3	De acordo com o Ibama, houve desmatamento nas margens do rio nas propriedades multadas, com a finalidade de abrir espaço à agricultura ou à criação de gado. 
