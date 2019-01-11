@@ -17,6 +17,7 @@ This corpus was created during my master's degree at ICMC-USP, and made possible
     title = {A Nontrivial Sentence Corpus for the Task of Sentence Readability Assessment in Portuguese},
     booktitle = {Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)},
     year = {2018},
+    pages = {401–413},
     month = {August},
     date = {20-26},
     address = {Santa Fe, New Mexico, USA},
