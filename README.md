@@ -151,10 +151,10 @@ Total PSS1 Natural->Strong: 4971
 Total PSS1 Original->Strong: 2047
 Total geral PSS1: 10522
 
-Total PSS2 Original->Natural: 2340
-Total PSS2 Natural->Strong: 1450
-Total PSS2 Original->Strong: 1062
-Total geral PSS2: 4852
+Total PSS2 Original->Natural: 2370
+Total PSS2 Natural->Strong: 1491
+Total PSS2 Original->Strong: 1101
+Total geral PSS2: 4962
 
 Total PSS3 Original->Natural: 1515
 Total PSS3 Natural->Strong: 729
