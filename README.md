@@ -147,9 +147,9 @@ Min tokens size diff of sentences - Originals vs simplified (with split) - Ori->
 Max tokens size diff of sentences - Originals vs simplified (with split) - Ori->Nat: 64
 
 Total PSS1 Original->Natural: 3504
-Total PSS1 Natural->Strong: 4971
-Total PSS1 Original->Strong: 2047
-Total geral PSS1: 10522
+Total PSS1 Natural->Strong: 2353
+Total PSS1 Original->Strong: 2052
+Total geral PSS1: 7909
 
 Total PSS2 Original->Natural: 2370
 Total PSS2 Natural->Strong: 1491
@@ -158,6 +158,6 @@ Total geral PSS2: 4962
 
 Total PSS3 Original->Natural: 1515
 Total PSS3 Natural->Strong: 729
-Total PSS3 Original->Strong: 260
-Total geral PSS3: 2504
+Total PSS3 Original->Strong: 264
+Total geral PSS3: 2508
 ```
